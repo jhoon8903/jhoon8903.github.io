@@ -1,6 +1,6 @@
 ---
 title: Dependency Injection
-category: CS
+category: cs
 author: "이정훈"
 tags: [cs]
 img : ":slKBeos.jpg"
