@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d13fa77a8b81277e",
+        "id": "50efef4cdde25986",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2412e914981926",
+            "id": "fea57f4767de1b35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
+                "file": "_posts/2023-03-21-배열과 링크드리스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
+                "file": "_posts/2023-03-21-배열과 링크드리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
+                "file": "_posts/2023-03-21-배열과 링크드리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-03-30-시간복잡도와 공간복잡도.md"
+                "file": "_posts/2023-03-21-배열과 링크드리스트.md"
               }
             }
           }
@@ -146,36 +146,38 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2e2412e914981926",
+  "active": "fea57f4767de1b35",
   "lastOpenFiles": [
+    "_site/assets/img/posts/FdFDLoH.jpg",
+    "assets/browserconfig.xml",
+    "assets/fonts/fontawesome-webfont.woff2",
+    "assets/fonts/fontawesome-webfont.woff",
+    "assets/fonts/fontawesome-webfont.ttf",
+    "assets/fonts/fontawesome-webfont.svg",
+    "assets/fonts/fontawesome-webfont.eot",
+    "assets/fonts/FontAwesome.otf",
+    "assets/fonts",
+    "assets/sitemap.xml",
+    "assets/manifest.json",
+    "assets/img/default/cc/sa.svg",
+    "assets/img/default/cc/nd.svg",
+    "assets/img/default/cc/nc.svg",
+    "assets/img/default/cc/by.svg",
+    "assets/img/default/cc/cc.svg",
+    "assets/img/projects/stock.png",
+    "assets/img/projects/projects-heading.jpg",
+    "assets/img/projects/project2_thumb.jpg",
+    "assets/img/projects/project1_thumb.jpg",
+    "assets/img/favicons/favicon.ico",
     "_posts/2023-03-30-Git Blog 만들기.md",
+    "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
     "_posts/2023-03-22-트랜젝션.md",
     "_posts/2023-03-21-배열과 링크드리스트.md",
     "_posts/2023-03-20-스택 그리고 큐.md",
-    "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
-    "_site/posts/2023-03-20-스택 그리고 큐.html",
-    "_site/posts/2023-03-22-트랜젝션.html",
-    "_site/posts/2023-03-21-배열과 링크드리스트.html",
-    "_site/posts/2023-03-20-스택 & 큐.html",
-    "_site/assets/img/posts/yOrCGr7.png",
-    "assets/img/posts/yOrCGr7.png",
     "_posts/_Basic Template.md",
-    "_site/assets/img/posts/8mZsVsV.jpg",
-    "assets/img/posts/8mZsVsV.jpg",
-    "_site/posts/2023-03-29-스택 & 큐.html",
     "tabs/projects.md",
-    "_site/assets/img/projects/giringrim.png",
-    "assets/img/projects/giringrim.png",
-    "_site/assets/img/projects/Screenshot 2023-03-30 at 11.29.25 PM.png",
-    "assets/img/projects/Screenshot 2023-03-30 at 11.29.25 PM.png",
-    "_site/assets/img/projects/bisthagumangram.png",
-    "assets/img/projects/bisthagumangram.png",
-    "assets/img/projects/Project.jpeg.crdownload",
-    "_site/assets/img/projects/Project_back.jpeg.crdownload",
-    "assets/img/projects/Project_back.jpeg.crdownload",
     "_layouts/projects.md",
     "_layouts/about.md",
-    "_site/posts/2023-03-30-시간복잡도와 공간복잡도.html",
     "_layouts/home.md",
     "_layouts/default.md",
     "README.md",
