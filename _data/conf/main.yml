@@ -311,9 +311,9 @@ meta:
 #                Google
 ###########################################################
 google:
-  analytics:
+#  analytics: ZnCjB9-_C2NThddaJCXR5oJFldug5tREvpiQqFPZgDQ
     # disable this feature entirely for development or production env.
-    ignore: development
+#    ignore: development
   site_verification: ZnCjB9-_C2NThddaJCXR5oJFldug5tREvpiQqFPZgDQ
     # disable this feature entirely for development or production env.
     ignore: development
