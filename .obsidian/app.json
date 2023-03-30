@@ -3,13 +3,6 @@
   "newFileFolderPath": "_posts",
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "assets/img/posts",
-  "userIgnoreFilters": [
-    "_data/",
-    "_includes/",
-    "_layouts/",
-    "_site/",
-    "query/",
-    "tabs/"
-  ],
+  "userIgnoreFilters": null,
   "promptDelete": false
 }

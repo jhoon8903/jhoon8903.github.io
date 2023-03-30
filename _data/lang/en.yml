@@ -147,8 +147,8 @@ archives:
 
 # for about layout
 about:
-  title: About
-  button_name: About
+  title: About Me
+  button_name: About Me
   email_title: email
 
 # for links layout
@@ -156,7 +156,7 @@ links:
   title: Links
   button_name: Links
   link_text: Web site
-  info_text: Info
+  info_text: Information
 
 # for projects layout
 projects:
@@ -171,9 +171,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hello
+  greetings: JH Develop Note
   welcome: Welcome
-  sample: Sample
+  sample: Daily Commit Development Note.
 
 # for contact form
 contact_form:

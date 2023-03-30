@@ -5,179 +5,116 @@
 page_data:
   main:
     header: "Projects"
-    info: "Your Project page description."
+    info: "23년부터 시작된 나의 프로젝트들"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":projects-heading.jpg"
-    back_color: "lightblue"
+    #img:
+    back_color: "#1D2D35"
 
   category:
-    - title: "Example"
-      type: id_example
-      color: "gray"
-    - title: "Picture"
-      type: id_picture
-      color: "#62b462"
-    - title: "Quote"
-      type: id_quote
-      color: "#2FD0ED"
+    - title: "Application"
+      type: id_Application
+      color: "red"
+    - title: "Service"
+      type: id_service
+      color: "#0078D4"
+    - title: "Test Develop"
+      type: id_test
+      color: "#005571"
+
 
   list:
     # example
-    - type: id_example
-      project_name: "Example Project"
-      project_excerpt: "Examples"
-      img: ":project1_thumb.jpg"
-      img_title: "img title1"
-      date: "2021-03-13"
+    - type: id_test
+      project_name: "Stock Pyramid"
+      project_excerpt: "대용량 트레픽 인프라 테스트"
+      img: ":stock.png"
+      img_title: "Architecture"
+      date: "2023-03-15"
       post: |
-        # Examples
-
-        This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
-
-        ### Headings (centered)
+        ### 프로젝트링크
+        
+        [Github Repository](https://github.com/orgs/project-ddh/repositories)<br>
+        [You Tube](https://www.youtube.com/watch?v=br8e4AZcD_g)<br>
+        [PDF](https://drive.google.com/file/d/1LXdqnD6_lg1MsaIUSViy8iRiyIetz-7D/view)
+        
+        ### 프로젝트 소개
+        경매 시스템 구현을 위한 인프라 부하 테스트 개선 프로젝트
+        
+        <p></p>
+        <p></p>
+        ### 프로젝트 개요
+        
+        |프로젝트 구분|내 용|
+        | :-------------------: | :------------------|
+        | 프로젝트 기간 | 2023.02.02 ~ 2023.03.15 (6주)|
+        | <br>팀구성 | BE 3명 [My Job]<br>프로젝트 기획 및 테스트 진행, 자동화, DB 장애대응, <br>인프라 설계 및 구축 프론트 페이지 제작, Mocking Data 생성 배포 |
+        |<br>프로젝트 목적 | - 교육 커리큘럼 외의 모든걸 찾아서 하는 주도적 개발<br>- 서버의 성능 및 장애 대응을 통한 개선<br>- 개발자동화 구축|
+        |언어|JavaScript, TypeScript, Java, Shell |
+        |프레임워크<br>라이브러리 | Nest JS - Lib[Socket.io, ioredis, typeORM, Jest, Swagger]<br>React - Lib [Redux tool kit, ApexChart, socket.io]|
+        |운영체제|CentOS 7, AWS Linux 2, Ubuntu 18.04|
+        |클라우드<br>서비스 | AWS [EC2, Cloud Front, Route53, Aurora postgresql, RDS postgresl, ELB]<br>Naver Cloud [Server, Load-Balance, VPC] |
+        |WAS 클러스터|PM2|
+        |데이터베이스|OpenSource [postgresql-14]|
+        |캐시|Opensource [Redis]|
+        |고가용성|OpenSource [repmgr, pg_pool-II]|
+        |스위치|OpenSource [HA_Proxy]|
+        |모니터링|OpenSource Netdata|
+        |테스트 툴| rpm package|
+        |가상화|Docker|
+        {:data-align="center"}
+        
+        <p></p>
+        <p></p>
+        ### 프로젝트 개선사항
+        
+        | 개선사항                 |     내 용           |
+        | :-------------------: | :------------------|
+        |            <br><br>환경구축 | 서버 구성시 기회비용의 효율을 높이기 위해 Custom rpm을 Build하여 설치 자동화 <br><br> 도커가 있는데 왜? <br> 가상화 측정결과 성능하락(20%)이 확인되어 성능 측정을 위해 Local 환경 구축 <br> [이후 Docker 관리] |
+        |장애대응|repmgr auto-failover 기능을 활용하여, NODE에러 발생시 중단되지 않는 DB 환경 구축|
+        |비용절감|OpenSource 개발을 통해 Cloud Infra 비용 약 50만원 절감[RDS, 캐시, Monitor 등]|
+        |성능개선|Postgresql explain analyze를 통한 쿼리실행 분석을 통한 인덱싱 효율 확인<br>불필요한 참조쿼리에 삭제로 TPS 100 > 300 증가|
         {:data-align="center"}
 
-        # Heading 1
-
-        ## Heading 2
-
-        ### Heading 3
-
-        #### Heading 4
-
-        ##### Heading 5
-
-        ###### Heading 6
-
-        ***
-
-        ### Paragraphs
-
-        #### Paragraph
-
-        **William Shakespeare**, Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-
-        #### Texts
-
-        Quoted text `Hello world`
-
-        Bold text **Hello world**
-
-        Italic text _Hello world_
-
-        kbd text <kbd>Hello world</kbd>
-
-        #### Blockquote
-
-        > **William Shakespeare**, Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-
-        ### Link
-
-        This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
-
-        ### Picture
-
-        ![such a lovely place](:projects-heading.jpg)
-
-        ### Picture (centered)
-
-        ![such a lovely place](:project1_thumb.jpg){:data-align="center"}
-
-        ### Lists
-
-        - Apple
-        - Banana
-        - Orange
-
-        1. Fruits
-            1. Apples
-                - Granny Smith
-                - Mutsu
-            1. Bananas
-                - Cavendish
-                - Red
-        1. Vegetables
-
-        ***
-
-        ### Tables
-
-        #### Small Table (centered)
-
-        | Fruits(not aligned) | Alignment (centered) | num (right align) |
-        | ------------------- | :------------------: | ----------------: |
-        | Apple               |       centered       |              9999 |
-        | Banana              |  centered long text  |               999 |
-        | Orange              |       centered       |                99 |
-        | Lemon               |       centered       |                 9 |
+        <p></p>
+        <p></p>
+        ### 프로젝트 주요업무 및 상세역할
+        
+        |주요업무 및 상세역할|내 용|
+        |:---:|:---|
+        |<br><br>프로젝트 구성|- [PDCA](https://github.com/jhoon8903/DevelopNote/blob/master/Stack/TEST/Server%20Test/0.%20PDCA.md) 및 [아키텍처 기획](https://drive.google.com/file/d/1dRQDtg30sELnIt8jqattlyKSpv3QqxxK/view)<br>- [근거자료조사](https://www.notion.so/DataBase-130524146a36472386c7c21d1b34ecf0) <br>- [설치환경](https://www.notion.so/8f832e6db105450ba304a882f95c931a?v=34d3f6521a124419a7b6e4e7511dd7ff) 메뉴얼작성<br>- [rpm 빌드](https://github.com/jhoon8903/DevelopNote/blob/master/Stack/TEST/Server%20Test/RPM%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%EC%83%9D%EC%84%B1.md) <br>- 팀 교육(Docker, Test)|
+        |<br>NEST JS|- 스켈레톤 코드 작성 <br>- API 구성<br>[ Main, Login, Authrization, Detail Page, Entity ]|
+        |<br>Load Test|- [Load Test](https://drive.google.com/file/d/1GS91gwrO1peZc_Vl5ELNu_vT9bQSAMky/view)<br>- nGrinder 시나리오 [스크립트](https://github.com/project-ddh/server/tree/main/testScript/ComplexPattern) 작성<br>- [병목 관측 및 개선](https://drive.google.com/file/d/1sb9qNWQZtGRJH5fJ4BSoy1HZrXMJP7qm/view) 및 [문서화](https://docs.google.com/spreadsheets/d/1Aeu2HWuqXxkJ1di_3Msi5RIKcsX_ZqgUC9Hrvb3pOxM/edit#gid=496851782)|
+        |Mock Data|- Mocking Data [생성 배포](https://drive.google.com/drive/folders/18hXtI-RHGDkiWRr2-ODOgIJQPoxfx5z0)|
+        |Load-Balance|- HA_Proxy Conf 및 Health Check monitoring|
+        |<br>Moniotoring|- Cloud Service monitor의 속도적 한계로 이해 대안 연구<br>- Netdata 발굴 및 적용<br>- 아키텍처 전역적 모니터관리|
+        |<br>Database HA|-repmgr을 이용한 [Auto failover 및 Recovery](https://www.notion.so/c9bbae6d9b36442c9bf852e80e9af529?p=6631fa1c3e8f4052b359b47442befb2d&pm=s) 구현<br>pg_pool-II 쿼리 및 프로토콜 로드밸런싱<br>Route53 & Aurora RDS적용|
+        |<br><br>Front Page|- React구현 [Login, 인증, Main, Event]<br>- Redux tool kit 상태관리<br>- socke.io 실시간 입찰 구현<br>- mui 레이아웃 구성<br>- ApexChart 시계열 데이터 시각화|
         {:data-align="center"}
-
-        #### Wide Table (centered)
-
-        scroll enabled when page is narrow
-
-        | Fruits | num (left align) | num (right align) | num  | num  | num  |
-        | ------ | :--------------- | ----------------: | ---- | ---- | ---- |
-        | Apple  | 1111             |              1111 | 2222 | 3333 | 4444 |
-        | Banana | 111              |               111 | 222  | 333  | 444  |
-        | Orange | 11               |                11 | 22   | 33   | 44   |
-        | Lemon  | 1                |                 1 | 2    | 3    | 4    |
+        
+        <p></p>
+        <p></p>
+        ### 프로젝트 트러블 해결 프로세스
+        
+        |문제발생 > 어떠한 환경에서 발생하는지 환경적 요인 기록 및 파악 > 다른 환경에서도 동일한 문제가 발생하는지 확인<br> > 특정 해당 환경에서만 발생하는 요인이라면 설정 의심 > 문제에 대한 가설 정립 > 가설에 대한 모든방향의 검증실행<br> > [해결된 방법 중 가장 좋은 결과를 적용](https://github.com/jhoon8903/DevelopNote/blob/master/Stack/TEST/Server%20Test/2.%20%EA%B5%AC%EA%B0%84%20TEST.md)|
         {:data-align="center"}
-
-        #### Wider Table
-
-        scroll enabled when page is narrow
-
-        | Fruits | num (left align) | num (right align) | num  | num  | num  | num  | num  | num  |
-        | ------ | :--------------- | ----------------: | ---- | ---- | ---- | ---- | ---- | ---- |
-        | Apple  | 1111             |              1111 | 2222 | 3333 | 4444 | 5555 | 6666 | 7777 |
-        | Banana | 111              |               111 | 222  | 333  | 444  | 555  | 666  | 777  |
-        | Orange | 11               |                11 | 22   | 33   | 44   | 55   | 66   | 77   |
-        | Lemon  | 1                |                 1 | 2    | 3    | 4    | 5    | 6    | 7    |
-
-        ### Code
-
-        #### Quote
-
-        ```python
-        for i in range(5, 10):
-          print(i)
-        ```
-
+        
+        <p></p>
+        <p></p>
+        ### 해결하지 못한 문제
+        
+        Q1. 분산되어 있는 모니터를 중앙으로 모아서 볼 수 있는 Matric 구성<br>
+        Q2. 병목 및 Low 쿼리를 좀 더 효율적이고 빠르게 성능개선하기<br>
+        Q3. 고객의 10배 늘어난다며, Auto Scale이 방법일까?
+        
+        
     # picture
-    - type: id_picture
-      project_name: "Example Project"
-      project_excerpt: "Picture"
-      img: ":project2_thumb.jpg"
+    - type: id_service
+      project_name: "비슷하구만그램"
+      project_excerpt: "인스타그램이랑 비슷하구만그램"
+      img: ":bisthagumangram.png"
       img_title: "img title2"
-      date: "2021-04-23"
+      date: "2023-02-01"
       post: |
         # Title
         This is project content.
@@ -206,6 +143,8 @@ page_data:
         But bears it out even to the edge of doom.
         If this be error and upon me proved,
         I never writ, nor no man ever loved.
+        
+        
     - type: id_quote
       project_name: "Example Project"
       project_excerpt: "Albert Einstein"
@@ -214,19 +153,3 @@ page_data:
       date: "2021-06-08"
       post: |
         Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "Mae West"
-      img: ":project1_thumb.jpg"
-      img_title: "img title5"
-      date: "2021-08-20"
-      post: |
-        You only live once, but if you do it right, once is enough.
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "Mahatma Gandhi "
-      img: ":project2_thumb.jpg"
-      img_title: "img title6"
-      date: "2021-12-20"
-      post: |
-        Be the change that you wish to see in the world.

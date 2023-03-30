@@ -11,9 +11,11 @@
             "id": "2e2412e914981926",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/home/home-heading.jpg"
+                "file": "tabs/projects.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/img/home/home-heading.jpg",
+                "file": "tabs/projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/img/home/home-heading.jpg",
+                "file": "tabs/projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/img/home/home-heading.jpg"
+                "file": "tabs/projects.md"
               }
             }
           }
@@ -144,21 +146,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2e2412e914981926",
+  "active": "4108c21206bbdfbc",
   "lastOpenFiles": [
-    "assets/img/favicons/favicon-16x16.png",
-    "assets/img/favicons/favicon-16x16.jpeg",
-    "assets/img/favicons/android-chrome-512x512.png",
-    "assets/img/favicons/android-chrome-512x512.jpeg",
-    "assets/img/home/home-heading.jpeg",
-    "assets/img/home/home-heading.jpg",
+    "_site/assets/img/projects/bisthagumangram.png",
+    "assets/img/projects/bisthagumangram.png",
+    "_site/assets/img/projects/stock.png",
+    "assets/img/projects/stock.png",
+    "_site/assets/img/projects/Screenshot 2023-03-30 at 8.20.32 PM.png",
+    "assets/img/projects/Screenshot 2023-03-30 at 8.20.32 PM.png",
+    "_site/assets/img/projects/Screenshot 2023-03-30 at 8.16.34 PM.png",
+    "assets/img/projects/Screenshot 2023-03-30 at 8.16.34 PM.png",
+    "_site/assets/img/projects/background.jpeg",
+    "assets/img/projects/background.jpeg",
+    "_site/assets/img/projects/project.png",
+    "assets/img/projects/Project.jpeg.crdownload",
+    "_site/assets/img/projects/Project_back.jpeg.crdownload",
+    "assets/img/projects/Project_back.jpeg.crdownload",
+    "_layouts/projects.md",
+    "_layouts/about.md",
+    "_site/posts/2023-03-30-시간복잡도와 공간복잡도.html",
     "_layouts/home.md",
     "_layouts/default.md",
-    "assets/img/about/about.jpg",
-    "assets/img/default/mastodon.svg",
-    "assets/img/default/1x1px.png",
-    "assets/img/favicons/android-chrome-192x192.png",
-    "assets/img/favicons/apple-touch-icon.png",
     "README.md",
     "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
     "_posts/2023-03-29.md",
