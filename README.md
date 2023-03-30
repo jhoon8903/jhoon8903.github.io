@@ -22,10 +22,7 @@
 <p></p>
 <div>
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Daniel&show_icons=true&theme=vue"
-  media="(prefers-color-scheme: dark)"
-/>
+![Jhoon8903 GitHub stats](https://github-readme-stats.vercel.app/api?username=jhoon8903&include_all_commits=true)
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
