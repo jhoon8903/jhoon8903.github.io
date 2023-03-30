@@ -113,43 +113,89 @@ page_data:
       project_name: "비슷하구만그램"
       project_excerpt: "인스타그램이랑 비슷하구만그램"
       img: ":bisthagumangram.png"
-      img_title: "img title2"
+      img_title: "비슷하구만그램 로고"
       date: "2023-02-01"
       post: |
-        # Title
-        This is project content.
-
-        ![Image](:project2_thumb.jpg)
-
+        ### 프로젝트링크
+        
+        [Github Repository](https://github.com/F1rstID/clone-insta/tree/develop)<br>
+        [You Tube](https://www.youtube.com/watch?v=mcihlfpcynM)<br>
+        [PDF](https://drive.google.com/file/d/1UWXas0z_lYW6j-pwzpqp1ICUG58ERjnZ/view)
+        
+        ### 프로젝트 소개
+        인스타그램 협업 클론코딩
+        
+        <p></p>
+        <p></p>
+        ### 프로젝트 개요
+        인스타그램 주요 기능 클론코딩
+        
+        ### 프로젝트
+        
+        |프로젝트|비슷하구만그램|
+        |:---:|:---|
+        |프로젝트 기간|2023.01.25 ~ 2023.02.01 (1주)|
+        |<br> 팀 구성|FE : 2명<br>BE:3명<br>담당 업무 : Passport Social Login, Network, PM|
+        |프로젝트 목적|협업을 통한 클론 웹 서비스 제작 (모든 기능을 구현하는 것은 아님)|
+        |개선<br>사항|- Heap Memory issue 해결로 빌드 후 일일이 재업로드 하는 문제 해결<br>- Http2 통신 구현으로 이미지 데이터 전송 속도 약 10% 향상|
+        
+        ### 프로젝트 주요업무 및 상세역할
+        
+        |<br>프로젝트 기획 및 협업 커뮤니케이션 조율|- FE 협업 커뮤니케이션 전담<br>- [FE 프로젝트 진행속도에 맞추어 개발 스코프 조정](https://docs.google.com/spreadsheets/d/1o0KZFJbYMaSiaGpebJlZ4heZ-mw8d7ah_8dA_QCiORA/edit#gid=500988334)|
+        |Social & Login Authorization|- [JWT/Passport/Axios](https://github.com/F1rstID/clone-insta/blob/main/backend/src/auth/auth.service.ts)<br>- [Social Login](https://drive.google.com/file/d/1ScwTGoW_mVnndWv5hM9mq6RcBvoBgUHI/view)- apple Login은 비용발생으로 drop|
+        |Http2 적용|image 전송 및 통신속도 향상을 위해 [http2 [spdy]](https://github.com/jhoon8903/clone-insta/blob/BE_SSE_HTML2/backend/src/main.ts) 구현|
+        |<br>AWS ec2 배포 환경에서<br>heap Memory 해결|- [문제 분석 후 가설을 통한 해결](https://drive.google.com/file/d/1xLfV0vrMuxGUXJkfsM4PIG7VaYiN27g7/view)<br>- node Heap Memory Size-Scale Up<br>- Dist 빌드 후 배포하여 사용 가능하지만<br>- 빌드 때 마다 재업로드 하는 불편을 해소|
+        
+        ### 트러블 해결
+        
+        |:------:|:------|
+        |빌드 과정에서 발생하는<br>Heap Memory over 문제 | Dist를 일일이 업로드하기에는 기회비용이 많이 날아감|
+        |Heap memory 문제가 발생하는 이유 탐색|- TypeScript Compile 및 JS 인터프리터 중 Instance의 <br>&nbsp;&nbsp;가용 메모리가 부족함을 보고 메모리 확보가 안돼서 라고 가설을 세움|
+        |메모리 Swap으로 공간을 확보|개선되지 않음|
+        |Instance 메모리와는 별개의 문제로 판단<br>node 자체의 memory 확인|- Aws Instance의 node는 16버전, local 환경의 node는 18 버전<br>- 로컬의 버전을 다운그레이드 하였지만 해결 안 됨|
+        |Node 자체의 환경 변수에 memory 사용량에 <br>제한이 있다는 것을 확인|환경 변수 export로 메모리를 확보|
+        |Swap 및 메모리 환경변수 설정|문제해결|
+        
     # quote
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "William Shakespeare"
-      #img: ":project1_thumb.jpg"
-      #img_title: "img title3"
-      date: "2021-05-27"
+    - type: id_service
+      project_name: "내가 그린 기린 그림"
+      project_excerpt: "그림판 캐치마인드"
+      img: ":giringrim.png"
+      img_title: "로그인페이지"
+      date: "2023-01-20"
       post: |
-        Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
+        ### 프로젝트링크
         
+        [Github Repository](https://github.com/week6project/backend)<br>
+        [You Tube](https://www.youtube.com/watch?v=FEHbzJljdP0)<br>
+        [Readme](https://github.com/week6project/readme/blob/main/README.md)
+        [Docs](https://docs.google.com/document/d/1pAhNMQ9tC1oIWFjZ0gtivlsq8Z8nGtMuzWDmvvgEuPw/edit#heading=h.gyr8iu49yd0)
+        [SA](https://docs.google.com/spreadsheets/d/1AIwxkyWStgu2gOLMoRXIZ3oF-4cdgr9mm29BNWrXhC0/edit#gid=110996557)
         
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "Albert Einstein"
-      img: ":project2_thumb.jpg"
-      img_title: "img title4"
-      date: "2021-06-08"
-      post: |
-        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
+        ### 프로젝트 소개
+        그림판을 활용한 캐치마인드 퀴즈 서비스
+        
+        <p></p>
+        <p></p>
+        ### 프로젝트
+        
+        |프로젝트|비슷하구만그램|
+        |:---:|:---|
+        |프로젝트 기간|2023.01.13 ~ 2023.01.20 (1주)|
+        |<br> 팀 구성|FE : 2명<br>BE:3명<br>담당 업무 : 아이템, 와이어 프레임 제작, 초기 세팅, 이미지 form-data 구현, 성능 및 보안 개선 업무|
+        |프로젝트 목적|첫 FE & BE 협동 미니 프로젝트|
+        |<br><br><br>개선사항|- 콘텐츠 특성상 이미지를 더 빨리 전송할 수 있는 방법을 찾다가 http2를 적용하여 <br>&nbsp;&nbsp;페이지 렌더링 속도 10% 개선<br>- Http2 통신 구현으로 이미지 데이터 전송 속도 약 10% 향상<br>- 이미지 특성상 그 크기 때문에 Cloud 서비스 추가요금이 발생할 수 있다고 가정하고, <br>&nbsp;&nbsp;비 정상적인 업로드 및 접속 공격을 막기 위해 rate_limit 적용<br>- 최초 로컬 로그인만을 지원할 계획에서 실 서비스로 이어질 수도 있다는 가정하에 Social login 기능 구현으로 <br>&nbsp;&nbsp;접속 간소화 및 불필요한 리소스 축소|
+        
+        ### 프로젝트 주요업무 및 상세역할
+        
+        |<br>프로젝트 기획 및 협업 커뮤니케이션 조율|- FE 협업 커뮤니케이션 전담<br>- FE 프로젝트 진행속도에 맞추어 개발 스코프 조정<br>- [FE 프로젝트 진행속도에 맞추어 개발 스코프 조정](https://docs.google.com/spreadsheets/d/1o0KZFJbYMaSiaGpebJlZ4heZ-mw8d7ah_8dA_QCiORA/edit#gid=500988334)|
+        |Social & Login Authorization|- [JWT/Passport/Axios](https://github.com/F1rstID/clone-insta/blob/main/backend/src/auth/auth.service.ts)<br>- [Social Login](https://drive.google.com/file/d/1ScwTGoW_mVnndWv5hM9mq6RcBvoBgUHI/view)- apple Login은 비용발생으로 drop|
+        |Http2 적용|image 전송 및 통신속도 향상을 위해 [http2 [spdy]](https://github.com/jhoon8903/clone-insta/blob/BE_SSE_HTML2/backend/src/main.ts) 구현|
+        |<br>AWS ec2 배포 환경에서<br>heap Memory 해결|- [문제 분석 후 가설을 통한 해결](https://drive.google.com/file/d/1xLfV0vrMuxGUXJkfsM4PIG7VaYiN27g7/view)<br>- node Heap Memory Size-Scale Up<br>- Dist 빌드 후 배포하여 사용 가능하지만<br>- 빌드 때 마다 재업로드 하는 불편을 해소|
+        {:data-align="center"}
+                
+        ### 트러블 해결
+        
+        |:------:|:------|
+        |AWS SDK 인증에서 S3에 정상적으로 <br>접속이 안되는 문제 발생 | config 및 환경변수 설정에 문제가 있다고 판단하여,<br>확인도중 AWS S3의 환경 변수명이 정해져 있다는 것을 확인하고 <br>임의로 지정되어 있던 변수명을 변경하여 해결|
+        {:data-align="center"}
