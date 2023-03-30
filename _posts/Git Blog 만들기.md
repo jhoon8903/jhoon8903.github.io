@@ -1,4 +1,9 @@
-
+title: Git Hub Blog 만들기
+category: auto generated
+tags: [jekyll, github, github_Action]
+comments_disable: true
+date: "%Y-%M-%d %H:%M:%S"
+author: JHoon
 ---
 
 Mac M1 Pro 기준
