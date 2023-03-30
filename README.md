@@ -20,19 +20,8 @@
 </div>
 </div>
 <p></p>
-<div>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Daniel&show_icons=true&theme=vue"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-</div>
+
+![Jhoon8903 GitHub stats](https://github-readme-stats.vercel.app/api?username=jhoon8903&include_all_commits=true)
 
 ### License
 
