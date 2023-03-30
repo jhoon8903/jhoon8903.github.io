@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-28-Dependency Injection.md",
+                "file": "_posts/2023-03-17-rpm Package 생성.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-28-Dependency Injection.md",
+                "file": "_posts/2023-03-17-rpm Package 생성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-28-Dependency Injection.md",
+                "file": "_posts/2023-03-17-rpm Package 생성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-03-28-Dependency Injection.md"
+                "file": "_posts/2023-03-17-rpm Package 생성.md"
               }
             }
           }
@@ -148,11 +148,28 @@
   },
   "active": "7c44147bd0325904",
   "lastOpenFiles": [
+    "_posts/2023-03-19-Postgresql HA(이중화 및 고가용성) && auto Failover.md",
+    "_posts/2023-03-17-rpm Package 생성.md",
+    "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
+    "assets/img/posts/pg2.png",
+    "_posts/2023-03-18-nGrinder 트러블슈팅.md",
+    "assets/img/posts/ngrinder.png",
+    "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
+    "assets/img/posts/postgresql-logo.png",
+    "_posts/2023-03-18-Ubuntu nGrinder Agent Install.md",
+    "assets/img/posts/kRmfd56.png",
+    "_posts/2023-03-17-Test 트러블슈팅.md",
+    "_posts/2023-03-20-스택 그리고 큐.md",
+    "assets/img/posts/YYb3kfK.png",
+    "_posts/2023-03-16-Test 준비.md",
+    "assets/img/posts/servertest.png",
+    "_posts/2023-03-15-PDCA.md",
+    "assets/img/posts/bfokQJj.png",
+    "_posts/2023-03-27-MSA.md",
+    "_posts/2023-03-28-Dependency Injection.md",
     "assets/img/posts/slKBeos.jpg",
     "_posts/2023-03-27-Indexing.md",
-    "_posts/2023-03-28-Dependency Injection.md",
     "assets/img/posts/eXNBtIt.jpg",
-    "_posts/2023-03-27-MSA.md",
     "assets/img/posts/yZ0WUFn.jpg",
     "_posts/_Basic Template.md",
     "_posts/2023-03-31-REST API.md",
@@ -167,32 +184,15 @@
     "_posts/2023-03-24-var, let, const.md",
     "_posts/2023-03-23-정규화.md",
     "_posts/2023-03-23-CORS.md",
-    "_posts/2023-03-22-트랜젝션.md",
-    "_posts/2023-03-21-배열과 링크드리스트.md",
-    "_posts/2023-03-20-스택 그리고 큐.md",
     "_posts",
     "untitled folder",
-    "assets/img/posts/oop.jpg",
-    "_site/assets/img/posts/oop.jpg",
-    "assets/img/posts/CMdeiMk.png",
-    "assets/img/posts/W20Zwl7.jpg",
     "_site/posts/2023-03-31-REST API.html",
-    "_site/assets/img/posts/rest.png",
-    "assets/img/posts/rest.png",
-    "_site/assets/img/posts/kkW3geS.jpg",
     "_site/posts/2023-03-27-객체지향-OOP.html",
-    "_site/assets/img/posts/async2.png",
     "_site/posts/2023-03-26-Async-Await-2.html",
     "_site/posts/2023-03-26-Async-Await-1.html",
     "_site/posts/2023-03-26-Async-Await 2.html",
     "_site/posts/2023-03-26-Async-Await 1.html",
     "_site/posts/2023-03-26-Arrow-function.html",
-    "_site/posts/2023-03-26-Async-Await.html",
-    "tabs/projects.md",
-    "_layouts/projects.md",
-    "_layouts/about.md",
-    "_layouts/home.md",
-    "_layouts/default.md",
-    "README.md"
+    "_site/posts/2023-03-26-Async-Await.html"
   ]
 }
