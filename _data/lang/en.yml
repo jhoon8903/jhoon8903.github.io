@@ -126,7 +126,7 @@ post-list:
     msg:
       property_list:
         # keys need to match with /query/post-query.json
-        tags: Tag
+        tags: Tags
         category: Category
         year: Year
       # you can use these wildcards, {property} {value} {thumb}

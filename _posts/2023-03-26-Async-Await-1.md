@@ -3,7 +3,7 @@ title: Async-Await-1
 category: cs
 author: "이정훈"
 tags: [cs, javascript]
-img : ":Yopc9NI.png"
+img: ":Yopc9NI.jpg"
 comments_disable: true
 meta_description: "async await"
 ---
