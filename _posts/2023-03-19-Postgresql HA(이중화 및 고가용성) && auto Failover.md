@@ -3,7 +3,7 @@ title: Postgresql HA(이중화 및 고가용성) && auto Failover
 category: test
 author: "이정훈"
 tags: [test, postgresql, HA]
-img : ":.png"
+img : ":HA.png"
 comments_disable: true
 meta_description: ""
 ---

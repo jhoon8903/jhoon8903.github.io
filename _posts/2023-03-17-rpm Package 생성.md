@@ -3,7 +3,7 @@ title: rpm Package 생성
 category: test
 author: "이정훈"
 tags: [rpm, test, 자동화]
-img : ":.png"
+img : ":RPM_Logo.svg.png"
 comments_disable: true
 meta_description: ""
 ---
