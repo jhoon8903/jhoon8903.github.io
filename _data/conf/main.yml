@@ -314,7 +314,7 @@ google:
 #  analytics: ZnCjB9-_C2NThddaJCXR5oJFldug5tREvpiQqFPZgDQ
     # disable this feature entirely for development or production env.
 #    ignore: development
-  site_verification:pR1VL7PgFz3hVWK_UtAzG5mCsrzWoULZg9X3oLvs7xQ
+  site_verification:ZnCjB9-_C2NThddaJCXR5oJFldug5tREvpiQqFPZgDQ
     # disable this feature entirely for development or production env.
 #    ignore: development
 
