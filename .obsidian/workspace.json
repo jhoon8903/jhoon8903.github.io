@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-01-22-NEST JS 트러블슈팅 2.md",
+                "file": "_posts/2023-01-25-게시판 서버 만들기2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-01-22-NEST JS 트러블슈팅 2.md",
+                "file": "_posts/2023-01-25-게시판 서버 만들기2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-01-22-NEST JS 트러블슈팅 2.md",
+                "file": "_posts/2023-01-25-게시판 서버 만들기2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-01-22-NEST JS 트러블슈팅 2.md"
+                "file": "_posts/2023-01-25-게시판 서버 만들기2.md"
               }
             }
           }
@@ -148,9 +148,14 @@
   },
   "active": "7c44147bd0325904",
   "lastOpenFiles": [
+    "assets/img/posts/vHMYd3Z.png",
+    "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
+    "assets/img/posts/postglogo.png",
+    "assets/img/posts/postgresql-logo.png",
+    "assets/img/posts/postgresql-logo.webp",
+    "_posts/2023-01-22-NEST JS 트러블슈팅 2.md",
     "assets/img/posts/J5omGCT.png",
     "_posts/2023-01-21-NEST JS 트러블 슈팅.md",
-    "_posts/2023-01-22-NEST JS 트러블슈팅 2.md",
     "assets/img/posts/k8j6KmS.png",
     "_posts/2023-01-25-MySQL JOIN.md",
     "_posts/2023-01-25-MySQL 기초 응용 문법.md",
@@ -172,12 +177,7 @@
     "_posts/2023-03-20-스택 그리고 큐.md",
     "_posts/2023-03-19-Postgresql HA(이중화 및 고가용성) && auto Failover.md",
     "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
-    "assets/img/posts/postgresql-logo.png",
-    "assets/img/posts/HA.png",
-    "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
     "_posts/2023-03-17-rpm Package 생성.md",
-    "assets/img/posts/RPM_Logo.svg.png",
-    "assets/img/posts/pg2.png",
     "_posts/2023-03-18-nGrinder 트러블슈팅.md",
     "_posts/2023-03-18-Ubuntu nGrinder Agent Install.md",
     "_posts/2023-03-17-Test 트러블슈팅.md",
