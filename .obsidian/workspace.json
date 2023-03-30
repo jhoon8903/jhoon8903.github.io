@@ -11,8 +11,12 @@
             "id": "0e976633f01c69ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-01-21-NEST JS 트러블 슈팅.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-01-21-NEST JS 트러블 슈팅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-01-21-NEST JS 트러블 슈팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-01-21-NEST JS 트러블 슈팅.md"
+              }
             }
           }
         ]
@@ -140,6 +148,10 @@
   },
   "active": "0e976633f01c69ca",
   "lastOpenFiles": [
+    "_site/ads.txt",
+    "tabs/ads.txt",
+    "ads.txt",
+    "_posts/2023-01-25-게시판 서버 만들기2.md",
     "_site/posts/2023-03-28-Dependency Injection.html",
     "_site/posts/2023-03-27-MSA.html",
     "_site/posts/2023-03-27-Indexing.html",
@@ -148,9 +160,6 @@
     "_site/posts/2023-03-18-nGrinder 트러블슈팅.html",
     "_site/posts/2023-03-18-Ubuntu nGrinder Agent Install.html",
     "_site/posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).html",
-    "_site/posts/2023-03-17-rpm Package 생성.html",
-    "_site/posts/2023-03-17-Test 트러블슈팅.html",
-    "_site/posts/2023-03-16-Test 준비.html",
     "_site/assets/img/posts/yZ0WUFn.jpg",
     "_site/assets/img/posts/vHMYd3Z.png",
     "_site/assets/img/posts/slKBeos.jpg",
@@ -184,7 +193,6 @@
     "_posts/2023-03-18-Ubuntu nGrinder Agent Install.md",
     "_posts/2023-03-18-nGrinder 트러블슈팅.md",
     "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
-    "_posts/2023-03-17-Test 트러블슈팅.md",
-    "_posts/2023-03-17-rpm Package 생성.md"
+    "_posts/2023-03-17-Test 트러블슈팅.md"
   ]
 }
