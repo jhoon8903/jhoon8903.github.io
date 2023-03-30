@@ -11,12 +11,8 @@
             "id": "7c44147bd0325904",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-03-31-REST API.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-31-REST API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-31-REST API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-03-31-REST API.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,7 @@
   },
   "active": "7c44147bd0325904",
   "lastOpenFiles": [
+    "_posts/2023-03-31-REST API.md",
     "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
     "_posts/2023-03-30-Git Blog 만들기.md",
     "_posts/2023-03-27-객체지향-OOP.md",
@@ -166,7 +159,6 @@
     "_site/assets/img/posts/oop.jpg",
     "assets/img/posts/CMdeiMk.png",
     "assets/img/posts/W20Zwl7.jpg",
-    "_posts/2023-03-31-REST API.md",
     "_site/posts/2023-03-31-REST API.html",
     "_site/assets/img/posts/rest.png",
     "assets/img/posts/rest.png",
