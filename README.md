@@ -1,7 +1,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhoon8903%2Fjhoon8903&count_bg=%23461BE1&title_bg=%23B22AC9&icon=iconify.svg&icon_color=%23FFFFFF&title=HITS%21&edge_flat=false)
 
-# Jhoon Git Blog
+# Jhoon Git  Dev Blog
 
 ### Mail : [**jhoon8903@gmail.com**](mailto:jhoon8903@gmail.com)
 
