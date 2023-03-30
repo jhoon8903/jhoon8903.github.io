@@ -11,8 +11,12 @@
             "id": "7c44147bd0325904",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-03-28-Dependency Injection.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-03-28-Dependency Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-03-28-Dependency Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-03-28-Dependency Injection.md"
+              }
             }
           }
         ]
@@ -140,6 +148,13 @@
   },
   "active": "7c44147bd0325904",
   "lastOpenFiles": [
+    "assets/img/posts/slKBeos.jpg",
+    "_posts/2023-03-27-Indexing.md",
+    "_posts/2023-03-28-Dependency Injection.md",
+    "assets/img/posts/eXNBtIt.jpg",
+    "_posts/2023-03-27-MSA.md",
+    "assets/img/posts/yZ0WUFn.jpg",
+    "_posts/_Basic Template.md",
     "_posts/2023-03-31-REST API.md",
     "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
     "_posts/2023-03-30-Git Blog 만들기.md",
@@ -155,7 +170,6 @@
     "_posts/2023-03-22-트랜젝션.md",
     "_posts/2023-03-21-배열과 링크드리스트.md",
     "_posts/2023-03-20-스택 그리고 큐.md",
-    "_posts/_Basic Template.md",
     "_posts",
     "untitled folder",
     "assets/img/posts/oop.jpg",
@@ -168,12 +182,10 @@
     "_site/assets/img/posts/kkW3geS.jpg",
     "_site/posts/2023-03-27-객체지향-OOP.html",
     "_site/assets/img/posts/async2.png",
-    "assets/img/posts/async2.png",
     "_site/posts/2023-03-26-Async-Await-2.html",
     "_site/posts/2023-03-26-Async-Await-1.html",
     "_site/posts/2023-03-26-Async-Await 2.html",
     "_site/posts/2023-03-26-Async-Await 1.html",
-    "_site/assets/img/posts/arrow.png",
     "_site/posts/2023-03-26-Arrow-function.html",
     "_site/posts/2023-03-26-Async-Await.html",
     "tabs/projects.md",
@@ -181,9 +193,6 @@
     "_layouts/about.md",
     "_layouts/home.md",
     "_layouts/default.md",
-    "README.md",
-    "privacy-policy.md",
-    "index.md",
-    "404.md"
+    "README.md"
   ]
 }
