@@ -1,0 +1,101 @@
+
+---
+
+Mac M1 Pro 기준
+
+1. 깃헙 레포지토리 생성 유저아이디.github.io
+2. 로컬 PC 에 git clone
+3. 루비 설치
+
+```
+brew install rbenv
+```
+
+4. ruby version 확인
+```
+rbenv install --list
+```
+```
+# 23.03.29 기준
+2.7.7
+3.0.5
+3.1.3
+3.2.1
+jruby-9.4.2.0
+mruby-3.2.0
+picoruby-3.0.0
+truffleruby-22.3.1
+truffleruby+graalvm-22.3.1
+```
+5. ruby 및 기타 패키지 설치
+```
+sudo rbenv install 3.2.1
+```
+```
+sudo gem update --system 3.2.3
+```
+```
+sudo gem install bundler
+```
+```
+sudo gem install sass-embedded -v 1.58.3
+```
+```
+sudo gem install rouge -v 3.30.0
+```
+```
+sudo gem install jekyll
+```
+
+6. 클론 레포지토리에 jekyll 설치
+#--force 는 레포지토리에 파일이 있을때 강제로 설치하는 커맨드
+```
+jekyll new ./ --force
+```
+7. Git 커밋
+완료후 모습
+![](https://i.imgur.com/4yt3VAO.png)
+
+8. 번들 설치
+```
+sudo bundle install
+```
+
+9. 서버 실행
+```
+sudo bundle exec jekyll server
+```
+
+10. 확인
+    Server running... press ctrl-c to stop.
+![](https://i.imgur.com/NwlG9eV.png)
+![](https://i.imgur.com/nMQ9MYH.png)
+
+11. Git 커밋
+![](https://i.imgur.com/fmOrimD.png)
+![](https://i.imgur.com/P9HYcJz.png)
+
+12. jeklly 테마 다운로드
+```
+https://wiznxt.tistory.com/677
+```
+
+13. 다운로드 받은 파일 레포지토리 replace
+    
+14. bundle install
+```
+sudo bundle install
+```
+```
+sudo bundle exec jekyll serve
+```
+
+15. 확인
+```
+http://127.0.0.1:4000/
+```
+![](https://i.imgur.com/6RukmpZ.png)
+
+
+16. git Commit push
+17. 확인
