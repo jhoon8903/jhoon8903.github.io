@@ -314,7 +314,7 @@ google:
   analytics:
     # disable this feature entirely for development or production env.
     ignore: development
-  site_verification:
+  site_verification: ZnCjB9-_C2NThddaJCXR5oJFldug5tREvpiQqFPZgDQ
     # disable this feature entirely for development or production env.
     ignore: development
 
