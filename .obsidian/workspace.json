@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tabs/projects.md",
+                "file": "_posts/2023-03-29-스택 & 큐.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tabs/projects.md",
+                "file": "_posts/2023-03-29-스택 & 큐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tabs/projects.md",
+                "file": "_posts/2023-03-29-스택 & 큐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tabs/projects.md"
+                "file": "_posts/2023-03-29-스택 & 큐.md"
               }
             }
           }
@@ -146,8 +146,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4108c21206bbdfbc",
+  "active": "2e2412e914981926",
   "lastOpenFiles": [
+    "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
+    "_posts/2023-03-29-스택 & 큐.md",
+    "_site/assets/img/posts/8mZsVsV.jpg",
+    "assets/img/posts/8mZsVsV.jpg",
+    "_site/posts/2023-03-29-스택 & 큐.html",
+    "tabs/projects.md",
     "_site/assets/img/projects/giringrim.png",
     "assets/img/projects/giringrim.png",
     "_site/assets/img/projects/Screenshot 2023-03-30 at 11.29.25 PM.png",
@@ -156,9 +162,6 @@
     "assets/img/projects/bisthagumangram.png",
     "_site/assets/img/projects/stock.png",
     "assets/img/projects/stock.png",
-    "_site/assets/img/projects/Screenshot 2023-03-30 at 8.20.32 PM.png",
-    "assets/img/projects/Screenshot 2023-03-30 at 8.20.32 PM.png",
-    "_site/assets/img/projects/Screenshot 2023-03-30 at 8.16.34 PM.png",
     "assets/img/projects/Project.jpeg.crdownload",
     "_site/assets/img/projects/Project_back.jpeg.crdownload",
     "assets/img/projects/Project_back.jpeg.crdownload",
@@ -168,8 +171,6 @@
     "_layouts/home.md",
     "_layouts/default.md",
     "README.md",
-    "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
-    "_posts/2023-03-29.md",
     "_posts/2023-03-30-Git Blog 만들기.md",
     "privacy-policy.md",
     "index.md",
