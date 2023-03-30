@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-22-트랜젝션.md",
+                "file": "_posts/2023-03-20-스택 그리고 큐.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-22-트랜젝션.md",
+                "file": "_posts/2023-03-20-스택 그리고 큐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-22-트랜젝션.md",
+                "file": "_posts/2023-03-20-스택 그리고 큐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-03-22-트랜젝션.md"
+                "file": "_posts/2023-03-20-스택 그리고 큐.md"
               }
             }
           }
@@ -148,11 +148,16 @@
   },
   "active": "2e2412e914981926",
   "lastOpenFiles": [
+    "_site/posts/2023-03-20-스택 그리고 큐.html",
+    "_posts/2023-03-22-트랜젝션.md",
+    "_site/posts/2023-03-22-트랜젝션.html",
+    "_site/posts/2023-03-21-배열과 링크드리스트.html",
+    "_site/posts/2023-03-20-스택 & 큐.html",
+    "_site/assets/img/posts/yOrCGr7.png",
     "assets/img/posts/yOrCGr7.png",
     "_posts/_Basic Template.md",
-    "_posts/2023-03-22-트랜젝션.md",
     "_posts/2023-03-21-배열과 링크드리스트.md",
-    "_posts/2023-03-20-스택 & 큐.md",
+    "_posts/2023-03-20-스택 그리고 큐.md",
     "_posts/2023-03-30-Git Blog 만들기.md",
     "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
     "_site/assets/img/posts/8mZsVsV.jpg",
@@ -165,8 +170,6 @@
     "assets/img/projects/Screenshot 2023-03-30 at 11.29.25 PM.png",
     "_site/assets/img/projects/bisthagumangram.png",
     "assets/img/projects/bisthagumangram.png",
-    "_site/assets/img/projects/stock.png",
-    "assets/img/projects/stock.png",
     "assets/img/projects/Project.jpeg.crdownload",
     "_site/assets/img/projects/Project_back.jpeg.crdownload",
     "assets/img/projects/Project_back.jpeg.crdownload",
