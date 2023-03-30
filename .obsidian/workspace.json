@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-29-스택 & 큐.md",
+                "file": "_posts/2023-03-22-트랜젝션.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-29-스택 & 큐.md",
+                "file": "_posts/2023-03-22-트랜젝션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-29-스택 & 큐.md",
+                "file": "_posts/2023-03-22-트랜젝션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-03-29-스택 & 큐.md"
+                "file": "_posts/2023-03-22-트랜젝션.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "2e2412e914981926",
   "lastOpenFiles": [
+    "assets/img/posts/yOrCGr7.png",
+    "_posts/_Basic Template.md",
+    "_posts/2023-03-22-트랜젝션.md",
+    "_posts/2023-03-21-배열과 링크드리스트.md",
+    "_posts/2023-03-20-스택 & 큐.md",
+    "_posts/2023-03-30-Git Blog 만들기.md",
     "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
-    "_posts/2023-03-29-스택 & 큐.md",
     "_site/assets/img/posts/8mZsVsV.jpg",
     "assets/img/posts/8mZsVsV.jpg",
     "_site/posts/2023-03-29-스택 & 큐.html",
@@ -171,10 +176,8 @@
     "_layouts/home.md",
     "_layouts/default.md",
     "README.md",
-    "_posts/2023-03-30-Git Blog 만들기.md",
     "privacy-policy.md",
     "index.md",
-    "404.md",
-    "_posts/_Basic Template.md"
+    "404.md"
   ]
 }
