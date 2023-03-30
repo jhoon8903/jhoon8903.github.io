@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-18-nGrinder 트러블슈팅.md",
+                "file": "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-18-nGrinder 트러블슈팅.md",
+                "file": "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-18-nGrinder 트러블슈팅.md",
+                "file": "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-03-18-nGrinder 트러블슈팅.md"
+                "file": "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "7c44147bd0325904",
   "lastOpenFiles": [
+    "_posts/2023-03-18-Ubuntu nGrinder Agent Install.md",
+    "_posts/2023-03-18-nGrinder 트러블슈팅.md",
     "_posts/2023-01-25-게시판 서버 만들기2.md",
     "assets/img/posts/vHMYd3Z.png",
     "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
@@ -177,8 +179,6 @@
     "_posts/2023-03-19-Postgresql HA(이중화 및 고가용성) && auto Failover.md",
     "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
     "_posts/2023-03-17-rpm Package 생성.md",
-    "_posts/2023-03-18-nGrinder 트러블슈팅.md",
-    "_posts/2023-03-18-Ubuntu nGrinder Agent Install.md",
     "_posts/2023-03-17-Test 트러블슈팅.md",
     "_posts/2023-03-16-Test 준비.md",
     "_posts/2023-03-15-PDCA.md",
