@@ -1,6 +1,5 @@
-
 ---
-title: Naver Cloud postgresql-14 Install (CENTOS 7)
+title: Naver Cloud postgresql-14 Install
 category: test
 author: "이정훈"
 tags: [test, server, database, postgresql]
