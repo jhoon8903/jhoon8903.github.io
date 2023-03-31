@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-01-21-NEST JS 트러블 슈팅.md",
+                "file": "_posts/2023-01-17-내가 그린 기린 그림 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-01-21-NEST JS 트러블 슈팅.md",
+                "file": "_posts/2023-01-17-내가 그린 기린 그림 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-01-21-NEST JS 트러블 슈팅.md",
+                "file": "_posts/2023-01-17-내가 그린 기린 그림 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-01-21-NEST JS 트러블 슈팅.md"
+                "file": "_posts/2023-01-17-내가 그린 기린 그림 1.md"
               }
             }
           }
@@ -148,28 +148,32 @@
   },
   "active": "0e976633f01c69ca",
   "lastOpenFiles": [
-    "_site/ads.txt",
-    "tabs/ads.txt",
-    "ads.txt",
+    "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5/assets/4924F91D-92AC-4059-A132-F405CDA536C5.pdfp",
+    "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5/assets/4924F91D-92AC-4059-A132-F405CDA536C5.pdf",
+    "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5/thumbnail.jpeg",
+    "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5/assets",
+    "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5/4924F91D-92AC-4059-A132-F405CDA536C5.jsonp",
+    "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5/4924F91D-92AC-4059-A132-F405CDA536C5.json",
+    "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5",
+    "Stock Pyramid Web/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3.pdfp",
+    "Stock Pyramid Web/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3.pdf",
+    "Stock Pyramid Web/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3/thumbnail.jpeg",
+    "Stock Pyramid Web/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3/assets",
+    "Stock Pyramid Web/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3.jsonp",
+    "Stock Pyramid Web/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3.json",
+    "Stock Pyramid Web/assets/9EF796D3-72E6-4523-9CD5-71B710119361/thumbnail.jpeg",
+    "Stock Pyramid Web/assets/player/kn-cloud_pd_help_btn-N@2x.png",
+    "Stock Pyramid Web/assets/player/spinner.png",
+    "Stock Pyramid Web/assets/player/waiting_bezel.png",
+    "Stock Pyramid Web/assets/player/kn-cloud_pd_help_btn-P@2x.png",
+    "Stock Pyramid Web/assets/player/kn-cloud_pd_help_btn-H@2x.png",
+    "Stock Pyramid Web/assets/player/close_p@2x.png",
+    "Stock Pyramid Web/assets/player/close_n@2x.png",
+    "_posts/2023-01-25-내가 그린 기린 그림 2.md",
+    "_posts/2023-01-17-내가 그린 기린 그림 1.md",
+    "_posts/2023-03-31-프로세스와 스레드.md",
+    "_posts/2023-01-21-NEST JS 트러블 슈팅.md",
     "_posts/2023-01-25-게시판 서버 만들기2.md",
-    "_site/posts/2023-03-28-Dependency Injection.html",
-    "_site/posts/2023-03-27-MSA.html",
-    "_site/posts/2023-03-27-Indexing.html",
-    "_site/posts/2023-03-19-Postgresql HA(이중화 및 고가용성) && auto Failover.html",
-    "_site/posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.html",
-    "_site/posts/2023-03-18-nGrinder 트러블슈팅.html",
-    "_site/posts/2023-03-18-Ubuntu nGrinder Agent Install.html",
-    "_site/posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).html",
-    "_site/assets/img/posts/yZ0WUFn.jpg",
-    "_site/assets/img/posts/vHMYd3Z.png",
-    "_site/assets/img/posts/slKBeos.jpg",
-    "_site/assets/img/posts/servertest.png",
-    "_site/assets/img/posts/postgresql-logo.png",
-    "_site/assets/img/posts/postglogo.png",
-    "_site/assets/img/posts/pg2.png",
-    "_site/assets/img/posts/ngrinder.png",
-    "_site/assets/img/posts/mysql.png",
-    "_site/assets/img/posts/kRmfd56.png",
     "_posts/2023-03-31-REST API.md",
     "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
     "_posts/2023-03-30-Git Blog 만들기.md",
@@ -189,10 +193,6 @@
     "_posts/2023-03-21-배열과 링크드리스트.md",
     "_posts/2023-03-20-스택 그리고 큐.md",
     "_posts/2023-03-19-Postgresql HA(이중화 및 고가용성) && auto Failover.md",
-    "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
-    "_posts/2023-03-18-Ubuntu nGrinder Agent Install.md",
-    "_posts/2023-03-18-nGrinder 트러블슈팅.md",
-    "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
-    "_posts/2023-03-17-Test 트러블슈팅.md"
+    "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md"
   ]
 }
