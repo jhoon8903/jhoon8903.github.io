@@ -5,7 +5,7 @@ author: "이정훈"
 tags: [rpm, test, 자동화]
 img : ":RPM_Logo.svg.png"
 comments_disable: true
-meta_description: ""
+meta_description: "rpm 패키지 생성"
 ---
 
 CentOS 기준

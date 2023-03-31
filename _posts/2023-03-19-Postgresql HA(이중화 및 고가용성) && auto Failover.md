@@ -5,7 +5,7 @@ author: "이정훈"
 tags: [test, postgresql, HA]
 img : ":HA.png"
 comments_disable: true
-meta_description: ""
+meta_description: "repmgr 고가용성 구현"
 ---
 
 # CENTOS 7.6 / Postgresql -14.7 기준

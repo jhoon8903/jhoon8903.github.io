@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-01-25-내가 그린 기린 그림 2.md",
+                "file": "_posts/2023-03-31-프로세스와 스레드.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-01-25-내가 그린 기린 그림 2.md",
+                "file": "_posts/2023-03-31-프로세스와 스레드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-01-25-내가 그린 기린 그림 2.md",
+                "file": "_posts/2023-03-31-프로세스와 스레드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-01-25-내가 그린 기린 그림 2.md"
+                "file": "_posts/2023-03-31-프로세스와 스레드.md"
               }
             }
           }
@@ -148,9 +148,33 @@
   },
   "active": "0e976633f01c69ca",
   "lastOpenFiles": [
-    "_posts/2023-01-17-내가 그린 기린 그림 1.md",
-    "_posts/2023-01-21-NEST JS 트러블 슈팅.md",
-    "_posts/2023-01-22-NEST JS 트러블슈팅 2.md",
+    "_posts/2023-03-31-REST API.md",
+    "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
+    "_posts/2023-03-30-Git Blog 만들기.md",
+    "_posts/2023-03-28-Dependency Injection.md",
+    "_posts/2023-03-27-객체지향-OOP.md",
+    "_posts/2023-03-27-MSA.md",
+    "_posts/2023-03-26-Async-Await-2.md",
+    "_posts/2023-03-26-Async-Await-1.md",
+    "_posts/2023-03-25-호이스팅.md",
+    "_posts/2023-03-23-정규화.md",
+    "_posts/2023-03-23-CORS.md",
+    "_posts/2023-03-22-트랜젝션.md",
+    "_posts/2023-03-21-배열과 링크드리스트.md",
+    "_posts/2023-03-20-스택 그리고 큐.md",
+    "_posts/2023-03-19-Postgresql HA(이중화 및 고가용성) && auto Failover.md",
+    "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
+    "_posts/2023-03-18-Ubuntu nGrinder Agent Install.md",
+    "_posts/2023-03-18-nGrinder 트러블슈팅.md",
+    "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
+    "_posts/2023-03-17-Test 트러블슈팅.md",
+    "_posts/2023-03-17-rpm Package 생성.md",
+    "_posts/2023-03-16-Test 준비.md",
+    "_posts/2023-01-25-내가 그린 기린 그림 2.md",
+    "_posts/2023-01-25-게시판 서버 만들기1.md",
+    "_posts/2023-01-25-MySQL 통계 응용.md",
+    "_posts/2023-01-25-MySQL 통계 GROUP BY.md",
+    "assets/img/posts/CzjLnx3.png",
     "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5/assets/4924F91D-92AC-4059-A132-F405CDA536C5.pdfp",
     "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5/assets/4924F91D-92AC-4059-A132-F405CDA536C5.pdf",
     "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5/thumbnail.jpeg",
@@ -169,30 +193,6 @@
     "Stock Pyramid Web/assets/player/waiting_bezel.png",
     "Stock Pyramid Web/assets/player/kn-cloud_pd_help_btn-P@2x.png",
     "Stock Pyramid Web/assets/player/kn-cloud_pd_help_btn-H@2x.png",
-    "Stock Pyramid Web/assets/player/close_p@2x.png",
-    "Stock Pyramid Web/assets/player/close_n@2x.png",
-    "_posts/2023-01-25-내가 그린 기린 그림 2.md",
-    "_posts/2023-03-31-프로세스와 스레드.md",
-    "_posts/2023-01-25-게시판 서버 만들기2.md",
-    "_posts/2023-03-31-REST API.md",
-    "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
-    "_posts/2023-03-30-Git Blog 만들기.md",
-    "_posts/2023-03-28-Dependency Injection.md",
-    "_posts/2023-03-27-객체지향-OOP.md",
-    "_posts/2023-03-27-MSA.md",
-    "_posts/2023-03-27-Indexing.md",
-    "_posts/2023-03-26-Async-Await-2.md",
-    "_posts/2023-03-26-Async-Await-1.md",
-    "_posts/2023-03-26-Arrow-function.md",
-    "_posts/2023-03-25-호이스팅.md",
-    "_posts/2023-03-25-Promise.md",
-    "_posts/2023-03-24-var, let, const.md",
-    "_posts/2023-03-23-정규화.md",
-    "_posts/2023-03-23-CORS.md",
-    "_posts/2023-03-22-트랜젝션.md",
-    "_posts/2023-03-21-배열과 링크드리스트.md",
-    "_posts/2023-03-20-스택 그리고 큐.md",
-    "_posts/2023-03-19-Postgresql HA(이중화 및 고가용성) && auto Failover.md",
-    "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md"
+    "Stock Pyramid Web/assets/player/close_p@2x.png"
   ]
 }
