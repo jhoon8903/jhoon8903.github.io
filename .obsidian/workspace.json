@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-31-프로세스와 스레드.md",
+                "file": "_posts/2023-03-31-TCP_UDP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-31-프로세스와 스레드.md",
+                "file": "_posts/2023-03-31-TCP_UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-31-프로세스와 스레드.md",
+                "file": "_posts/2023-03-31-TCP_UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-03-31-프로세스와 스레드.md"
+                "file": "_posts/2023-03-31-TCP_UDP.md"
               }
             }
           }
@@ -148,6 +148,19 @@
   },
   "active": "0e976633f01c69ca",
   "lastOpenFiles": [
+    "assets/img/posts/Pasted image 20230331193302.png",
+    "assets/img/posts/Pasted image 20230331193202.png",
+    "assets/img/posts/Pasted image 20230331193122.png",
+    "assets/img/posts/Pasted image 20230331193053.png",
+    "assets/img/posts/Pasted image 20230331192346.png",
+    "assets/img/posts/TCP UDP-1.jpg",
+    "_posts/2023-03-31-프로세스와 스레드.md",
+    "_posts/2023-03-31-TCP_UDP.md",
+    "assets/img/posts/Pasted image 20230331182443.png",
+    "assets/img/posts/Pasted image 20230331182256.png",
+    "assets/img/posts/Pasted image 20230331182016.png",
+    "assets/img/posts/PT.jpeg",
+    "assets/img/PT.jpeg",
     "_posts/2023-03-31-REST API.md",
     "_posts/2023-03-30-시간복잡도와 공간복잡도.md",
     "_posts/2023-03-30-Git Blog 만들기.md",
@@ -171,28 +184,15 @@
     "_posts/2023-03-17-rpm Package 생성.md",
     "_posts/2023-03-16-Test 준비.md",
     "_posts/2023-01-25-내가 그린 기린 그림 2.md",
-    "_posts/2023-01-25-게시판 서버 만들기1.md",
-    "_posts/2023-01-25-MySQL 통계 응용.md",
-    "_posts/2023-01-25-MySQL 통계 GROUP BY.md",
-    "assets/img/posts/CzjLnx3.png",
     "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5/assets/4924F91D-92AC-4059-A132-F405CDA536C5.pdfp",
     "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5/assets/4924F91D-92AC-4059-A132-F405CDA536C5.pdf",
-    "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5/thumbnail.jpeg",
     "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5/assets",
     "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5/4924F91D-92AC-4059-A132-F405CDA536C5.jsonp",
     "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5/4924F91D-92AC-4059-A132-F405CDA536C5.json",
     "Stock Pyramid Web/assets/4924F91D-92AC-4059-A132-F405CDA536C5",
     "Stock Pyramid Web/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3.pdfp",
     "Stock Pyramid Web/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3.pdf",
-    "Stock Pyramid Web/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3/thumbnail.jpeg",
     "Stock Pyramid Web/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3/assets",
-    "Stock Pyramid Web/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3.jsonp",
-    "Stock Pyramid Web/assets/9EF796D3-72E6-4523-9CD5-71B710119361/thumbnail.jpeg",
-    "Stock Pyramid Web/assets/player/kn-cloud_pd_help_btn-N@2x.png",
-    "Stock Pyramid Web/assets/player/spinner.png",
-    "Stock Pyramid Web/assets/player/waiting_bezel.png",
-    "Stock Pyramid Web/assets/player/kn-cloud_pd_help_btn-P@2x.png",
-    "Stock Pyramid Web/assets/player/kn-cloud_pd_help_btn-H@2x.png",
-    "Stock Pyramid Web/assets/player/close_p@2x.png"
+    "Stock Pyramid Web/assets/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3/9CDAFCE0-E707-4788-AA4D-6E4A1B286ED3.jsonp"
   ]
 }
