@@ -1,11 +1,11 @@
 ---
-title: Parameter_Argument
+title: Parameter-Argument
 category: cs
 author: "이정훈"
 tags: [cs]
 img : https://www.scaler.com/topics/images/difference-between-arguments-and-parameters-in-c_thumbnail.webp
 comments_disable: true
-meta_description: "Parameter_Argument"
+meta_description: "Parameter-Argument"
 ---
 
 # Parameter
