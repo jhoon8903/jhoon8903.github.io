@@ -19,7 +19,9 @@
   replace: site.data.conf.main.brand_replace, "[Mr. Green](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme)"
 %}
 
-{% assign const_sample = const_sample | append: "우당탕탕 매일을 기록하는 개발 블로그 [ Daily Commit Tech Blog ]" %}
+
+{% assign const_sample = const_sample | append: "" %}
+
 
 {%- if site.data.owner[lng].auto_content.text -%}
   {%- capture website_info_text -%}
@@ -29,6 +31,13 @@
 
 {%- capture website_greeting_text -%}
 ### {{ site.data.owner[lng].auto_content.greeting | default: site.data.lang[lng].constants.greetings }}
+
+***
+
+##### 매일 잔디를 심기위해 작성하는 블로그 입니다.
+##### JS로 시작해서 지금은 Unity를 배우기 시작하려고합니다.
+##### 당분간 Unity 프로젝트 블로그가 될 예정입니다.
+
 {%- endcapture -%}
 
 {%- capture page_title_text -%}

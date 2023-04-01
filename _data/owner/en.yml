@@ -2,7 +2,7 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "J-Hoon Dev Note"
+brand: "정훈's 개발노트"
 
 # text below the brand name
 brand_sub_text: "우당탕탕 Dev Note"
@@ -19,11 +19,11 @@ home:
 
 # about page sub title
 about:
-  sub_title: "풀스택이 되겠어!"
+  sub_title: "Nest JS, Flutter, Unity"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
-copyright_start_year: "2023"
+copyright_start_year: "2022"
 
 # make sure creative_commons.enable is true in _data/conf/main.yml file
 creative_commons:
@@ -42,7 +42,7 @@ creative_commons:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: "개발노트"
+meta_common_description: "정훈's 개발노트"
 
 # contact options (side nav bottom and about page)
 # the order of the items will be shown as here.
@@ -81,7 +81,7 @@ google_analytics_id: "G-4EWEZ7C3RQ"
 # there are different ways to verify web page. One is adding this as meta into html.
 # make sure you set meta.google_site_verify: true in _data/conf/main.yml
 # make sure your environment does not match with google.site_verification.ignore in _data/conf/main.yml
-google_site_verification: 'ZnCjB9-_C2NThddaJCXR5oJFldug5tREvpiQqFPZgDQ'
+google_site_verification: "ZnCjB9-_C2NThddaJCXR5oJFldug5tREvpiQqFPZgDQ"
 
 # make sure you set contact_form.enable: true in _data/conf/main.yml
 # - Create a form in Google Forms. You can use the template named "Contact Information".
