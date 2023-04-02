@@ -5,7 +5,7 @@ author: "이정훈"
 tags: [cs, javascript]
 img: ":Yopc9NI.jpg"
 comments_disable: true
-meta_description: "async await"
+meta_description: "Javascript Async Await gif"
 ---
 
 원문 : https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke#syntax

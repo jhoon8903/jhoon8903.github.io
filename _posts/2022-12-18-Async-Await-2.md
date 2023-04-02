@@ -5,7 +5,7 @@ author: "이정훈"
 tags: [javascript, cs]
 img : ":async2.png"
 comments_disable: true
-meta_description: "async await"
+meta_description: "Javascript Async Await"
 ---
 
 # 동기 (Synchronous) & 비동기(Asynchronous)

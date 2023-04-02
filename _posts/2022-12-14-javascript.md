@@ -5,7 +5,7 @@ author: "이정훈"
 tags: [javascript]
 img : https://user-images.githubusercontent.com/114923190/209463375-3894baf5-f616-4f80-8c9a-590ecf8ef6bc.png
 comments_disable: true
-meta_description: "javascript"
+meta_description: "javascript란?"
 ---
 
 ## JavaScript 란? 

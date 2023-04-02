@@ -5,7 +5,7 @@ author: "이정훈"
 tags: [nestjs]
 img : https://i.imgur.com/HGnED1T.png
 comments_disable: true
-meta_description: "Controller"
+meta_description: "Nest JS Controller"
 ---
 
 ![](https://i.imgur.com/HGnED1T.png)

@@ -5,7 +5,7 @@ author: "이정훈"
 tags: [cs, javascript]
 img : ":ffCqyCc.png"
 comments_disable: true
-meta_description: "var let const"
+meta_description: "Javascript var, let, const"
 ---
 
 # 변수 선언
