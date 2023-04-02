@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-12-19-객체지향-OOP.md",
+                "file": "_posts/2023-04-02 Unity 기초 와 LifeCycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-12-19-객체지향-OOP.md",
+                "file": "_posts/2023-04-02 Unity 기초 와 LifeCycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-12-19-객체지향-OOP.md",
+                "file": "_posts/2023-04-02 Unity 기초 와 LifeCycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-12-19-객체지향-OOP.md"
+                "file": "_posts/2023-04-02 Unity 기초 와 LifeCycle.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "82c5a61fb1d17659",
   "lastOpenFiles": [
+    "_posts/2022-12-19-객체지향-OOP.md",
+    "_posts/2023-04-02 Unity 기초 와 LifeCycle.md",
     "_posts/2022-12-20-프로세스와 스레드.md",
     "_posts/2022-12-23-Node & REPL.md",
     "_posts/2022-12-24-module.md",
@@ -172,8 +174,6 @@
     "_posts/2023-02-03-NEST JS 트러블슈팅 2.md",
     "_posts/2023-02-04-1. Docker.md",
     "_posts/2023-02-04-2. Docker를 알아보자.md",
-    "_posts/2023-02-04-3. Docker Use.md",
-    "_posts/2023-02-04-4. Docker Theory.md",
     "_site/posts/2023-04-01-Parameter_Argument.html",
     "_site/posts/2023-04-01-Unity Editor Interface.html",
     "_site/posts/2023-04-01-Unity.html",
