@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-02 Unity 기초 와 LifeCycle.md",
+                "file": "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-02 Unity 기초 와 LifeCycle.md",
+                "file": "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-02 Unity 기초 와 LifeCycle.md",
+                "file": "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-02 Unity 기초 와 LifeCycle.md"
+                "file": "_posts/2023-04-02-Unity 기초 와 LifeCycle.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "82c5a61fb1d17659",
   "lastOpenFiles": [
     "_posts/2022-12-19-객체지향-OOP.md",
-    "_posts/2023-04-02 Unity 기초 와 LifeCycle.md",
+    "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
     "_posts/2022-12-20-프로세스와 스레드.md",
     "_posts/2022-12-23-Node & REPL.md",
     "_posts/2022-12-24-module.md",
