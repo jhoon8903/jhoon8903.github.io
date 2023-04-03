@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "09f043ef07eb01e3",
+        "id": "ae91e193f8d2d831",
         "type": "tabs",
         "children": [
           {
-            "id": "f29584ce5e2430f3",
+            "id": "34830fbdec25ee07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-12-17-var, let, const.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "41c639e8930c77f8",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2022-12-17-var, let, const.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2022-12-17-var, let, const.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2022-12-17-var, let, const.md"
+              }
             }
           }
         ]
@@ -139,35 +146,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f29584ce5e2430f3",
+  "active": "34830fbdec25ee07",
   "lastOpenFiles": [
-    "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
-    "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
+    "_posts/2022-12-17-Arrow-function.md",
+    "_posts/2022-12-17-Promise.md",
+    "_posts/2022-12-17-javascript.md",
+    "_posts/2022-12-16-JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?.md",
+    "_posts/2022-11-24-javaScript 함수.md",
+    "_posts/2022-12-13-Python 풀스택 미니프로젝트 회고.md",
+    "_posts/2022-12-10-Python 풀스택 미니프로젝트 1.md",
+    "_posts/2022-12-10-Python 풀스택 미니프로젝트 2.md",
+    "_posts/2022-12-12-Pyhton 풀스택 미니프로젝트 3.md",
+    "_posts/2022-12-05-Python 미니프로젝트.md",
+    "_posts/2022-12-06-Python 미니프로젝트 2.md",
+    "_posts/2022-12-07-Flask mongodb data 삭제.md",
+    "_posts/2022-12-07-Python 미니프로젝트 3.md",
+    "_posts/2022-11-21-Python import.md",
+    "_posts/2022-11-25-java '변수와 상수'.md",
+    "_posts/2022-11-24-javascript 배열 'Array'.md",
+    "_posts/2022-11-24-javaScript 문법 '조건문'.md",
+    "_posts/2022-11-24-javaScript 'Class, Object'.md",
+    "_posts/2022-11-24-javascript 문법 '연산자'.md",
+    "_posts/2022-11-24- javaScript 문법 '반복문'.md",
+    "_posts/2022-11-22-Python 문법 'map','lambda','filter'.md",
+    "_posts/2022-11-21-Python 조건문_반복문.md",
+    "_posts/2022-11-20-Python 변수 선언과 자료형.md",
+    "_posts/2022-11-21-Python 문법 '예외처리'.md",
+    "_posts/2022-11-21-Python 문법 f-string.md",
+    "_posts/2022-11-20-Python 문자열 다루기.md",
     "_site/posts/2023-04-02-Unity 기초 와 LifeCycle.html",
-    "_posts/2022-12-19-객체지향-OOP.md",
-    "_posts/2022-12-20-프로세스와 스레드.md",
-    "_posts/2022-12-23-Node & REPL.md",
-    "_posts/2022-12-24-module.md",
-    "_posts/2022-12-31-REST API.md",
-    "_posts/2023-01-01-REST API (Resource).md",
-    "_posts/2023-01-02-Route.md",
-    "_posts/2023-01-03-REQRES.md",
-    "_posts/2023-01-05-Mongdb.md",
-    "_posts/2023-01-07-Mongoose server 11000 Error.md",
-    "_posts/2023-01-10-RDBM Associate.md",
-    "_posts/2023-01-11-ORM.md",
-    "_posts/2023-01-16-게시판 서버 만들기2.md",
-    "_posts/2023-01-17-Vaildation (검증).md",
-    "_posts/2023-01-20-MySQL JOIN.md",
-    "_posts/2023-01-20-MySQL 통계 ORDER BY.md",
-    "_posts/2023-01-20-MySQL 통계 응용.md",
-    "_posts/2023-01-20-SQL Query.md",
-    "_posts/2023-01-25-내가 그린 기린 그림 2.md",
-    "_posts/2023-01-29-Controller.md",
-    "_posts/2023-01-30-협업 미니 프로젝트 3(비슷한그램).md",
-    "_posts/2023-02-02-NEST JS 트러블 슈팅.md",
-    "_posts/2023-02-03-NEST JS 트러블슈팅 2.md",
-    "_posts/2023-02-04-1. Docker.md",
     "_site/posts/2023-04-01-Parameter_Argument.html",
     "_site/posts/2023-04-01-Unity Editor Interface.html",
     "_site/posts/2023-04-01-Unity.html",
