@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-04-TypeScript-5.0-추가된 내용.md",
+                "file": "_posts/2022-11-13-Python-jQuery.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-04-TypeScript-5.0-추가된 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-04-TypeScript-5.0-추가된 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-04-04-TypeScript-5.0-추가된 내용.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,44 +142,44 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "34830fbdec25ee07",
+  "active": "4108c21206bbdfbc",
   "lastOpenFiles": [
-    "_posts/2023-04-05-TypeScript 5.0 Decorators.md",
-    "_posts/2023-04-04-TypeScript-5.0-추가된 내용.md",
-    "_posts/2023-04-18-TypeScript 5.0 중요 변경 사항 및 사용 중단.md",
-    "_posts/2023-04-17-TypeScript 5.0 속도, 메모리, 패키지 크기 최적화.md",
-    "_posts/2023-04-16-TypeScript 5.0 완전한 switch_case 자동완성 기능 추가.md",
-    "_posts/2023-04-15-TypeScript 5.0 대소문자 구분 없는 Import 정렬 기능 추가.md",
-    "_posts/2023-04-14-TypeScript 5.0 --build 모드에서 Emit-Specific 플래그 전달.md",
-    "_posts/2023-04-13-TypeScript 5.0 JSDoc에서 @overload 지원.md",
-    "_posts/2023-04-12-TypeScript 5.0 JSDoc에서 @satisfies 지원.md",
-    "_posts/2023-04-11-TypeScript 5.0 Support for export type `*`.md",
-    "_posts/2023-04-10-TypeScript 5.0 Resolution Customization Flags.md",
-    "_posts/2023-04-09-TypeScript 5.0 --moduleResolution bundler.md",
-    "_posts/2023-04-08-TypeScript 5.0 Enums.md",
-    "_posts/2023-04-07-TypeScript 5.0 Multiple Configuration Files in extends 지원.md",
-    "_posts/2023-04-06-TypeScript 5.0 const Type Parameters.md",
-    "_posts/2022-11-22-Python 문법 'map','lambda','filter'.md",
-    "_posts/2022-11-21-Python 조건문_반복문.md",
-    "_posts/2022-11-21-Python 문법 f-string.md",
-    "_posts/2022-12-17-var, let, const.md",
-    "_posts/2022-12-17-Arrow-function.md",
-    "_posts/2022-12-17-Promise.md",
-    "_posts/2022-12-17-javascript.md",
-    "_posts/2022-12-16-JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?.md",
-    "_posts/2022-11-24-javaScript 함수.md",
-    "_posts/2022-12-13-Python 풀스택 미니프로젝트 회고.md",
-    "_posts/2022-12-10-Python 풀스택 미니프로젝트 1.md",
+    "_site/posts/2023-04-04-TypeScript-5.0-추가된 내용.html",
+    "_site/posts/2023-04-03-WAS, Web Server, Nest JS.html",
     "_site/posts/2023-04-02-Unity 기초 와 LifeCycle.html",
     "_site/posts/2023-04-01-Parameter_Argument.html",
-    "_site/posts/2023-04-01-Unity Editor Interface.html",
-    "_site/posts/2023-04-01-Unity.html",
-    "_site/posts/2022-12-16-Arrow-function.html",
-    "_site/posts/2022-12-18-if문.html",
-    "_site/posts/2023-02-11-6. State and Lifecycle.html",
-    "_site/posts/2023-02-11-5. Components and Props.html",
-    "_site/posts/2023-02-11-7. State and Lifecycle.html",
-    "_site/posts/2023-02-11-4. Rendering Elements.html",
+    "_site/posts/2023-03-28-Dependency Injection.html",
+    "_site/posts/2023-03-27-MSA.html",
+    "_site/posts/2023-03-27-Indexing.html",
+    "_site/posts/2023-03-23-정규화.html",
+    "_site/posts/2023-03-22-트랜젝션.html",
+    "_site/posts/2023-03-21-배열과 링크드리스트.html",
+    "_site/posts/2023-03-20-시간복잡도와 공간복잡도.html",
+    "_posts/2023-04-04-TypeScript-5.0-추가된 내용.md",
+    "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
+    "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
+    "_posts/2023-04-01-Parameter_Argument.md",
+    "_posts/2023-03-28-Dependency Injection.md",
+    "_posts/2023-03-27-MSA.md",
+    "_posts/2023-03-27-Indexing.md",
+    "_posts/2023-03-23-정규화.md",
+    "_posts/2023-03-22-트랜젝션.md",
+    "_posts/2023-03-21-배열과 링크드리스트.md",
+    "_posts/2023-03-20-시간복잡도와 공간복잡도.md",
+    "_posts/2023-03-20-스택 그리고 큐.md",
+    "_posts/2023-03-19-Postgresql HA(이중화 및 고가용성) && auto Failover.md",
+    "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
+    "_posts/2023-03-18-Ubuntu nGrinder Agent Install.md",
+    "_posts/2023-03-18-nGrinder 트러블슈팅.md",
+    "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
+    "_posts/2023-03-17-Test 트러블슈팅.md",
+    "_posts/2023-03-17-rpm Package 생성.md",
+    "_posts/2023-03-16-Test 준비.md",
+    "_posts/2023-03-15-PDCA.md",
+    "_posts/2023-02-11-6. State and Lifecycle.md",
+    "_posts/2023-02-11-5. Components and Props.md",
+    "_posts/2023-02-11-4. Rendering Elements.md",
+    "_posts/2023-02-11-3. JSX.md",
     "_site/assets/img/posts/TCP UDP-1.jpg",
     "_site/assets/img/posts/Pasted image 20230331193302.png",
     "_site/assets/img/posts/Pasted image 20230331193202.png",

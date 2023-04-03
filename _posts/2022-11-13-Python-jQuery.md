@@ -1,8 +1,8 @@
 ---
-title: jQuery & Ajax 적용하기
-category: javascript
+title: Python_jQuery_Ajax 적용하기
+category: python
 author: "이정훈"
-tags: [javascript]
+tags: [python]
 img : https://blog.kakaocdn.net/dn/bwLdHi/btqAIEhUJXu/ZJYz3SlI9zCZCf6wmKYlBK/img.png
 comments_disable: true
 meta_description: "jQuery & Ajax 적용하기"
@@ -10,9 +10,7 @@ meta_description: "jQuery & Ajax 적용하기"
 
 # JQuery는 외우는거 아니다.
 
-```javascript
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-```
+![](https://i.imgur.com/kDhijQV.png)
 
 'class' 대신 'id'로 지정
 
@@ -30,33 +28,33 @@ meta_description: "jQuery & Ajax 적용하기"
 
 ajax call code
 
-```javascript
+```python
 $.ajax({
 	type: "GET"
     url: "",
     data: {},
     success: function (response) {
-            // 자주 등장하는 구문 //
-            // let rows = response['값']['값2'] //
-            // for (let i = 0; i < 값2.length; i++) { //
-        })
+// 자주 등장하는 구문 //
+// let rows = response['값']['값2'] //
+// for (let i = 0; i < 값2.length; i++) { //
+	})
 ```
 
 이미지 바꾸기
 
-```javascript
+```python
 $('id.val').attr('src',url);
 ```
 
 텍스트 바꾸기
 
-```javascript
+```python
 $('id.val').text('text.val');
 ```
 
 페이지 로딩 후 호출하기
 
-```javascript
+```python
 $(document).ready(function () { 
 
 });
