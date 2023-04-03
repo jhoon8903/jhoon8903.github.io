@@ -11,12 +11,8 @@
             "id": "34830fbdec25ee07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-04-18-TypeScript 5.0 중요 변경 사항 및 사용 중단.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-18-TypeScript 5.0 중요 변경 사항 및 사용 중단.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-18-TypeScript 5.0 중요 변경 사항 및 사용 중단.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-04-18-TypeScript 5.0 중요 변경 사항 및 사용 중단.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "34830fbdec25ee07",
+  "active": "4108c21206bbdfbc",
   "lastOpenFiles": [
-    "_posts/2023-04-17-TypeScript 5.0 속도, 메모리, 패키지 크기 최적화.md",
+    "_posts/2023-04-04-TypeScript 5.0 추가된 내용.md",
+    "_posts/2023-04-05-TypeScript 5.0 Decorators.md",
     "_posts/2023-04-18-TypeScript 5.0 중요 변경 사항 및 사용 중단.md",
+    "_posts/2023-04-17-TypeScript 5.0 속도, 메모리, 패키지 크기 최적화.md",
     "_posts/2023-04-16-TypeScript 5.0 완전한 switch_case 자동완성 기능 추가.md",
     "_posts/2023-04-15-TypeScript 5.0 대소문자 구분 없는 Import 정렬 기능 추가.md",
     "_posts/2023-04-14-TypeScript 5.0 --build 모드에서 Emit-Specific 플래그 전달.md",
@@ -161,8 +155,6 @@
     "_posts/2023-04-08-TypeScript 5.0 Enums.md",
     "_posts/2023-04-07-TypeScript 5.0 Multiple Configuration Files in extends 지원.md",
     "_posts/2023-04-06-TypeScript 5.0 const Type Parameters.md",
-    "_posts/2023-04-04-TypeScript 5.0 추가된 내용.md",
-    "_posts/2023-04-05-TypeScript 5.0 Decorators.md",
     "_posts/2022-11-22-Python 문법 'map','lambda','filter'.md",
     "_posts/2022-11-21-Python 조건문_반복문.md",
     "_posts/2022-11-21-Python 문법 f-string.md",
