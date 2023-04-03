@@ -3,7 +3,7 @@ title: Python 문법 'map','lambda','filter'
 category: python
 author: "이정훈"
 tags: [python]
-img : Python 문법 'map','lambda','filter'
+img : https://blog.kakaocdn.net/dn/bL8ETY/btrsc1dKdvU/PKl3b1kLTKsKuWAY9u2XT1/img.png
 comments_disable: true
 meta_description: "Python 문법 'map','lambda','filter'"
 ---
