@@ -11,8 +11,12 @@
             "id": "34830fbdec25ee07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-04-TypeScript-5.0-추가된 내용.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-04-04-TypeScript-5.0-추가된 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-04-04-TypeScript-5.0-추가된 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-04-04-TypeScript-5.0-추가된 내용.md"
+              }
             }
           }
         ]
@@ -138,10 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4108c21206bbdfbc",
+  "active": "34830fbdec25ee07",
   "lastOpenFiles": [
-    "_posts/2023-04-04-TypeScript 5.0 추가된 내용.md",
     "_posts/2023-04-05-TypeScript 5.0 Decorators.md",
+    "_posts/2023-04-04-TypeScript-5.0-추가된 내용.md",
     "_posts/2023-04-18-TypeScript 5.0 중요 변경 사항 및 사용 중단.md",
     "_posts/2023-04-17-TypeScript 5.0 속도, 메모리, 패키지 크기 최적화.md",
     "_posts/2023-04-16-TypeScript 5.0 완전한 switch_case 자동완성 기능 추가.md",
