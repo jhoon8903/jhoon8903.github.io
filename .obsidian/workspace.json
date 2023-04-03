@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4ca954d51a8bf079",
+        "id": "09f043ef07eb01e3",
         "type": "tabs",
         "children": [
           {
-            "id": "82c5a61fb1d17659",
+            "id": "f29584ce5e2430f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "41c639e8930c77f8",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-04-02-Unity 기초 와 LifeCycle.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +139,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "82c5a61fb1d17659",
+  "active": "f29584ce5e2430f3",
   "lastOpenFiles": [
-    "_posts/2022-12-19-객체지향-OOP.md",
+    "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
     "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
+    "_site/posts/2023-04-02-Unity 기초 와 LifeCycle.html",
+    "_posts/2022-12-19-객체지향-OOP.md",
     "_posts/2022-12-20-프로세스와 스레드.md",
     "_posts/2022-12-23-Node & REPL.md",
     "_posts/2022-12-24-module.md",
@@ -173,7 +168,6 @@
     "_posts/2023-02-02-NEST JS 트러블 슈팅.md",
     "_posts/2023-02-03-NEST JS 트러블슈팅 2.md",
     "_posts/2023-02-04-1. Docker.md",
-    "_posts/2023-02-04-2. Docker를 알아보자.md",
     "_site/posts/2023-04-01-Parameter_Argument.html",
     "_site/posts/2023-04-01-Unity Editor Interface.html",
     "_site/posts/2023-04-01-Unity.html",
@@ -183,7 +177,6 @@
     "_site/posts/2023-02-11-5. Components and Props.html",
     "_site/posts/2023-02-11-7. State and Lifecycle.html",
     "_site/posts/2023-02-11-4. Rendering Elements.html",
-    "_site/posts/2023-02-11-6. Components and Props.html",
     "_site/assets/img/posts/TCP UDP-1.jpg",
     "_site/assets/img/posts/Pasted image 20230331193302.png",
     "_site/assets/img/posts/Pasted image 20230331193202.png",

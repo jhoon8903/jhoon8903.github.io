@@ -11,6 +11,7 @@ meta_description: "Unity LifeCycle"
 # 게임은 하나의 연극이다.
 
 ![](https://cdn.gaminggorilla.com/wp-content/uploads/2023/02/The-Most-Popular-Games-to-Play-Right-Now.jpg)
+
 [이미지 출처-Gaming Gorilla](https://gaminggorilla.com/most-popular-video-games-now/)
 
 |연극|막|인물, 소품|대본|
