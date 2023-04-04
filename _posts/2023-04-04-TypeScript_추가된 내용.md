@@ -1,5 +1,5 @@
 ---
-title: TypeScript_5.0_추가된 내용
+title: TypeScript 5.0 추가된 내용
 category: javascript
 author: "이정훈"
 tags: [javascript, typescript, information]

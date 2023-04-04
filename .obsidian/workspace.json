@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-04-TypeScript_5.0_추가된 내용.md",
+                "file": "_posts/2023-04-04-TypeScript_추가된 내용.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-04-TypeScript_5.0_추가된 내용.md",
+                "file": "_posts/2023-04-04-TypeScript_추가된 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-04-TypeScript_5.0_추가된 내용.md",
+                "file": "_posts/2023-04-04-TypeScript_추가된 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-04-TypeScript_5.0_추가된 내용.md"
+                "file": "_posts/2023-04-04-TypeScript_추가된 내용.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "34830fbdec25ee07",
   "lastOpenFiles": [
-    "_site/posts/2023-04-04-TypeScript-5.0_add_notice.html",
     "_posts/2023-04-04-TypeScript-5.0_add_notice.md",
+    "_posts/2023-04-04-TypeScript_추가된 내용.md",
+    "_site/posts/2023-04-04-TypeScript-5.0_add_notice.html",
     "_site/posts/2023-04-04-TypeScript_5.0_추가된 내용.html",
     "_posts/2022-11-13-Python-jQuery.md",
     "_site/posts/2023-04-04-TypeScript-5.0-추가된 내용.html",
@@ -160,8 +161,6 @@
     "_site/posts/2023-03-27-MSA.html",
     "_site/posts/2023-03-27-Indexing.html",
     "_site/posts/2023-03-23-정규화.html",
-    "_site/posts/2023-03-22-트랜젝션.html",
-    "_posts/2023-04-04-TypeScript_5.0_추가된 내용.md",
     "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
     "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
     "_posts/2023-04-01-Parameter_Argument.md",
