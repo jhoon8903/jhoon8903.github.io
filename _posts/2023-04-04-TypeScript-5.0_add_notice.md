@@ -1,5 +1,5 @@
 ---
-title: TypeScript-5.0 추가된 내용
+title: TypeScript_5.0_추가된 내용
 category: javascript
 author: "이정훈"
 tags: [javascript, typescript, information]
@@ -7,6 +7,7 @@ img : https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2023
 comments_disable: true
 meta_description: "TypeScript 5.0 추가된 내용"
 ---
+
 
 # beta 및 RC 이후 추가된 내용
 

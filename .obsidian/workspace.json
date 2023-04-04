@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-11-13-Python-jQuery.md",
+                "file": "_posts/2023-04-04-TypeScript_5.0_추가된 내용.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-04-04-TypeScript_5.0_추가된 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-04-04-TypeScript_5.0_추가된 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-04-04-TypeScript_5.0_추가된 내용.md"
+              }
             }
           }
         ]
@@ -142,8 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4108c21206bbdfbc",
+  "active": "34830fbdec25ee07",
   "lastOpenFiles": [
+    "_site/posts/2023-04-04-TypeScript-5.0_add_notice.html",
+    "_posts/2023-04-04-TypeScript-5.0_add_notice.md",
+    "_site/posts/2023-04-04-TypeScript_5.0_추가된 내용.html",
+    "_posts/2022-11-13-Python-jQuery.md",
     "_site/posts/2023-04-04-TypeScript-5.0-추가된 내용.html",
     "_site/posts/2023-04-03-WAS, Web Server, Nest JS.html",
     "_site/posts/2023-04-02-Unity 기초 와 LifeCycle.html",
@@ -153,9 +161,7 @@
     "_site/posts/2023-03-27-Indexing.html",
     "_site/posts/2023-03-23-정규화.html",
     "_site/posts/2023-03-22-트랜젝션.html",
-    "_site/posts/2023-03-21-배열과 링크드리스트.html",
-    "_site/posts/2023-03-20-시간복잡도와 공간복잡도.html",
-    "_posts/2023-04-04-TypeScript-5.0-추가된 내용.md",
+    "_posts/2023-04-04-TypeScript_5.0_추가된 내용.md",
     "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
     "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
     "_posts/2023-04-01-Parameter_Argument.md",
@@ -178,8 +184,6 @@
     "_posts/2023-03-15-PDCA.md",
     "_posts/2023-02-11-6. State and Lifecycle.md",
     "_posts/2023-02-11-5. Components and Props.md",
-    "_posts/2023-02-11-4. Rendering Elements.md",
-    "_posts/2023-02-11-3. JSX.md",
     "_site/assets/img/posts/TCP UDP-1.jpg",
     "_site/assets/img/posts/Pasted image 20230331193302.png",
     "_site/assets/img/posts/Pasted image 20230331193202.png",
