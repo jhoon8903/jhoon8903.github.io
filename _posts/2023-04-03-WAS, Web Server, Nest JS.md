@@ -80,8 +80,8 @@ meta_description: "WAS, Web Server, Node JS "
 |Client의 HTTP요청을 수행하고 생성된 응답을 보냄|Business Logic을 Client에게 공개하고 Dynamic 응답을 보냄 |
 |적은 리소스 사용|많은 리소스 사용|
 |HTTP Protocol만 지원|HTTP 및 RPC / RMI Protocol 지원|
-|수명이 짧은 자원 집약적 프로세스를 처리하도록 설계|자원 집약적이지 않은 웹 트래픽을 관리하도록 설계|
-|웹 브라우저에 표시되는 HTTP 요청에 대한 응답을 생성|애플리케이션과 클라이언트-서버 간에 지속적으로 데이터를 교환|
+|수명이 짧은 자원 집약적 프로세스를 <br>처리하도록 설계|자원 집약적이지 않은 웹 트래픽을 관리하도록 설계|
+|웹 브라우저에 표시되는 HTTP 요청에 대한 <br>응답을 생성|애플리케이션과 클라이언트-서버 간에 <br>지속적으로 데이터를 교환|
 
 ***
 
@@ -97,7 +97,8 @@ meta_description: "WAS, Web Server, Node JS "
 - Web Page는 Static / Dynamic 모두 존재
 - Client 요청에 맞게 적절한 Contents를 만들어서 제공해야 한다.  
 - WS 만을 이용한다면 Client가 요청에 대한 결과값을 모두 미리 만들어 놓고 서비스를 해야 한다. 
-- WAS를 통해 요청에 맞는 데이터를 DB에서 가져와서 비즈니스 로직에 맞게 그때 그때 결과를 만들어서 제공함으로써 자원을 효율적으로 사용할 수 있다.
+- WAS를 통해 요청에 맞는 데이터를 DB에서 가져와서 비즈니스 로직에 맞게 그때 그때 결과를 만들어서   
+  제공함으로써 자원을 효율적으로 사용할 수 있다.
 
 ## WAS가 Web Server의 기능도 모두 수행하면 되지 않을까?
 
@@ -116,7 +117,7 @@ meta_description: "WAS, Web Server, Node JS "
 ### 3.  여러 대의 WAS를 연결 가능
 - Load Balancing을 위해서 Web Server를 사용
 - fail over(장애 극복), fail back 처리에 유리
-- 특히 대용량 웹 어플리케이션의 경우(여러 개의 서버 사용) Web Server와 WAS를 분리하여 
+- 특히 대용량 웹 어플리케이션의 경우(여러 개의 서버 사용) Web Server와 WAS를 분리하여  
   무중단 운영을 위한 장애 극복에 쉽게 대응할 수 있다.
 - 예를 들어, 앞 단의 Web Server에서 오류가 발생한 WAS를 이용하지 못하도록 한 후 WAS를 재시작함으로써 사용자는 오류를 느끼지 못하고 이용할 수 있다.
 
@@ -126,8 +127,8 @@ meta_description: "WAS, Web Server, Node JS "
 ### 5.  기타
 - 접근 허용 IP 관리, 2대 이상의 서버에서의 세션 관리 등도 Web Server에서 처리하면 효율적이다.
 
-즉, 자원 이용의 효율성 및 장애 극복, 배포 및 유지보수의 편의성 을 위해 Web Server와 WAS를 분리한다.  
-Web Server를 WAS 앞에 두고 필요한 WAS들을 Web Server에 플러그인 형태로 설정하면 더욱 효율적인 
+즉, 자원 이용의 효율성 및 장애 극복, 배포 및 유지보수의 편의성 을 위해 Web Server와 WAS를 분리한다.   
+Web Server를 WAS 앞에 두고 필요한 WAS들을 Web Server에 플러그인 형태로 설정하면 더욱 효율적인  
 분산 처리가 가능하다.
 
 
@@ -138,13 +139,16 @@ Web Server를 WAS 앞에 두고 필요한 WAS들을 Web Server에 플러그인 �
 
 ## "자바 진영의 WAS 기능은 엄밀히 말해, Node.js로 구현이 가능"
 
-JS는 본래 브라우저에서만 동작할 수 있는 언어였으나 Node.js를 통해 JS 언어로 브라우저 뿐만 아니라 각종 범용 프로그램을 만들 수 있게 되었습니다. 
+JS는 본래 브라우저에서만 동작할 수 있는 언어였으나 Node.js를 통해 JS 언어로 브라우저 뿐만 아니라 각종   
+범용 프로그램을 만들 수 있게 되었습니다. 
 
 Node.js는 JS의 런타임이고 쉽게 말해, JS 실행기라고 이해하시면 될 것 같습니다. 
 
-express는 미니멀 웹 프레임워크이며 NestJS는 express 프레임워크를 보다 더 구조화되고 디자인 패턴에 맞게 사용할 수 있도록 도와주는 express의 메타 프레임워크의 역할을 합니다. 
+express는 미니멀 웹 프레임워크이며 NestJS는 express 프레임워크를 보다 더 구조화되고   
+디자인 패턴에 맞게 사용할 수 있도록 도와주는 express의 메타 프레임워크의 역할을 합니다. 
 
-물론 NestJS 자체만으로 사용할 수도 있고 express와 비슷한 fastify의 메타 프레임워크로서도 사용할 수 있습니다.  
+물론 NestJS 자체만으로 사용할 수도 있고 express와 비슷한 fastify의   
+메타 프레임워크로서도 사용할 수 있습니다.  
 
 ** "자바 진영의 WAS 기능은 엄밀히 말해, Node.js로 구현이 가능합니다. "**
 
