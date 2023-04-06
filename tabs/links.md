@@ -137,6 +137,10 @@ page_data:
       title: "기억보다는 기록을"
       url: "https://jojoldu.tistory.com/"
       info: "개발자 이동욱 님 블로그 Database 및 얻을 수 있는 정보들이 많이 있다."
+    - type: id_blog
+      title: "Samsung SDS"
+      url: "https://www.samsungsds.com/kr/insights/index.html?moreCnt=0&backTypeId=&category=&reqArtId=1233713"
+      info: "삼성 SDS 기술 인사이트 - 고급 정보가 많이있다."
 
     #Flutter
     - type: id_flutter
