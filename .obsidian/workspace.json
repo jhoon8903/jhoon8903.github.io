@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-06-TypeScript_5.0_const_Type Parameters.md",
+                "file": "_posts/2023-04-07-TypeScript_5.0_Multiple Configuration_Files_in_extends_지원.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-06-TypeScript_5.0_const_Type Parameters.md",
+                "file": "_posts/2023-04-07-TypeScript_5.0_Multiple Configuration_Files_in_extends_지원.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-06-TypeScript_5.0_const_Type Parameters.md",
+                "file": "_posts/2023-04-07-TypeScript_5.0_Multiple Configuration_Files_in_extends_지원.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-06-TypeScript_5.0_const_Type Parameters.md"
+                "file": "_posts/2023-04-07-TypeScript_5.0_Multiple Configuration_Files_in_extends_지원.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "34830fbdec25ee07",
   "lastOpenFiles": [
+    "_site/posts/2023-04-07-TypeScript 5.0 Multiple Configuration Files in extends 지원.html",
+    "_posts/2023-04-06-TypeScript_5.0_const_Type Parameters.md",
+    "_posts/2023-04-07-TypeScript_5.0_Multiple Configuration_Files_in_extends_지원.md",
     "_site/posts/2023-04-06-TypeScript_5.0_const_Type Parameters.html",
     "_site/posts/2023-04-06-TypeScript 5.0 const Type Parameters.html",
     "_posts/2023-03-20-스택 그리고 큐.md",
-    "_posts/2023-04-06-TypeScript_5.0_const_Type Parameters.md",
     "_posts/2023-03-20-시간복잡도와 공간복잡도.md",
     "_posts/2023-03-21-배열과 링크드리스트.md",
     "_posts/2023-03-22-트랜젝션.md",
@@ -178,12 +180,10 @@
     "_posts/2023-04-04-TypeScript-5.0_add_notice.md",
     "_site/posts/2023-04-04-TypeScript-5.0_add_notice.html",
     "_site/posts/2023-04-04-TypeScript_5.0_추가된 내용.html",
-    "_posts/2022-11-13-Python-jQuery.md",
     "_site/posts/2023-04-04-TypeScript-5.0-추가된 내용.html",
     "_site/posts/2023-04-03-WAS, Web Server, Nest JS.html",
     "_site/posts/2023-04-02-Unity 기초 와 LifeCycle.html",
     "_site/posts/2023-04-01-Parameter_Argument.html",
-    "_site/posts/2023-03-28-Dependency Injection.html",
     "_site/assets/img/posts/TCP UDP-1.jpg",
     "_site/assets/img/posts/Pasted image 20230331193302.png",
     "_site/assets/img/posts/Pasted image 20230331193202.png",
