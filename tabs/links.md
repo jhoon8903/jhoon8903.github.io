@@ -133,6 +133,10 @@ page_data:
       title: "인파 블로그"
       url: "https://inpa.tistory.com"
       info: "갓파의 블로그 왠만한 자료는 다 있다."
+    - type: id_blog
+      title: "기억보다는 기록을"
+      url: "https://jojoldu.tistory.com/"
+      info: "개발자 이동욱 님 블로그 Database 및 얻을 수 있는 정보들이 많이 있다."
 
     #Flutter
     - type: id_flutter
