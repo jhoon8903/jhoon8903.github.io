@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-07-TypeScript_5.0_Multiple_Conf.md",
+                "file": "_posts/2023-04-07-TypeScript-5.0-Enums.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-07-TypeScript_5.0_Multiple_Conf.md",
+                "file": "_posts/2023-04-07-TypeScript-5.0-Enums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-07-TypeScript_5.0_Multiple_Conf.md",
+                "file": "_posts/2023-04-07-TypeScript-5.0-Enums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-07-TypeScript_5.0_Multiple_Conf.md"
+                "file": "_posts/2023-04-07-TypeScript-5.0-Enums.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "34830fbdec25ee07",
   "lastOpenFiles": [
-    "_posts/2023-04-06-TypeScript_5.0_const_Type Parameters.md",
+    "_posts/2023-04-07-TypeScript-5.0-Multiple-Conf.md",
     "_posts/2023-04-07-TypeScript_5.0_Multiple_Conf.md",
+    "_posts/2023-04-07-TypeScript-5.0-Enums.md",
+    "_posts/2023-04-06-TypeScript_5.0_const_Type Parameters.md",
     "_site/posts/2023-04-07-TypeScript_5.0_Multiple_Conf.html",
     "_site/posts/2023-04-07-TypeScript_5.0<br>Multiple Configuration_Files_in_extends_지원.html",
     "_site/posts/2023-04-07-TypeScript_5.0_Multiple Configuration_Files_in_extends_지원.html",
@@ -180,7 +182,6 @@
     "_posts/2023-03-18-nGrinder 트러블슈팅.md",
     "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
     "_site/posts/2023-04-04-TypeScript_추가된 내용.html",
-    "_posts/2023-04-04-TypeScript-5.0_add_notice.md",
     "_site/posts/2023-04-04-TypeScript-5.0_add_notice.html",
     "_site/posts/2023-04-04-TypeScript_5.0_추가된 내용.html",
     "_site/assets/img/posts/TCP UDP-1.jpg",
