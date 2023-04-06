@@ -1,5 +1,5 @@
 ---
-title: TypeScript 5.0 Multiple Conf Files 확장 지원
+title:  TypeScript 5.0 Multiple Conf Files 확장 지원
 category: javascript
 author: "이정훈"
 tags: [javascript, typescript, information]
@@ -9,7 +9,7 @@ meta_description: "TypeScript 5.0 Multiple Configuration Files in extends suppor
 ---
 
 
-# Multiple Configuration Files in extends
+# Multiple Configuration Files in extends Support
 
 여러 프로젝트를 관리할 때, 다른 tsconfig.json 파일이 확장할 수 있는 "기본" 설정 파일이 있으면 
 도움이 됩니다. 
