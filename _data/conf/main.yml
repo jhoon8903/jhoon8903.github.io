@@ -311,10 +311,10 @@ meta:
 #                Google
 ###########################################################
 google:
-#  analytics: ZnCjB9-_C2NThddaJCXR5oJFldug5tREvpiQqFPZgDQ
-    # disable this feature entirely for development or production env.
-#    ignore: development
-  site_verification: 'ZnCjB9-_C2NThddaJCXR5oJFldug5tREvpiQqFPZgDQ'
+  # disable this feature entirely for development or production env.
+  #    ignore: development
+  site_verification:
+    "ZnCjB9-_C2NThddaJCXR5oJFldug5tREvpiQqFPZgDQ"
     # disable this feature entirely for development or production env.
 #    ignore: development
 
@@ -333,7 +333,7 @@ cookie_consent:
     # https://developers.google.com/analytics/devguides/collection/gtagjs
     anonymize_ip: true
     ads_data_redaction: true
-    cookie_flags: 'SameSite=None;Secure'
+    cookie_flags: "SameSite=None;Secure"
   groups:
     # google gtag default settings with categories
     # settings below categories will be set with gtag("consent", "default", ...)
