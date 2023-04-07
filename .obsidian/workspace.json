@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-01-25-내가 그린 기린 그림 2.md",
+                "file": "_posts/2023-04-08-TypeScript 5.0 --moduleResolution bundler.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-01-25-내가 그린 기린 그림 2.md",
+                "file": "_posts/2023-04-08-TypeScript 5.0 --moduleResolution bundler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-01-25-내가 그린 기린 그림 2.md",
+                "file": "_posts/2023-04-08-TypeScript 5.0 --moduleResolution bundler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-01-25-내가 그린 기린 그림 2.md"
+                "file": "_posts/2023-04-08-TypeScript 5.0 --moduleResolution bundler.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "e8d4c452a415f6b3",
   "lastOpenFiles": [
+    "_posts/2023-01-25-내가 그린 기린 그림 2.md",
+    "_posts/2023-04-08-TypeScript 5.0 --moduleResolution bundler.md",
     "_posts/2023-01-17-내가 그린 기린 그림 1.md",
     "_posts/2023-02-01-OAuth2.0_Passport.md",
     "_posts/2023-02-01-Heap_memory_문제.md",
@@ -178,7 +180,6 @@
     "_site/posts/2023-02-01-OAuth2.0_Passport.html",
     "_posts/2023-01-30-협업 미니 프로젝트 3(비슷한그램).md",
     "_posts/2023-01-29-Controller.md",
-    "_posts/2023-01-25-내가 그린 기린 그림 2.md",
     "_posts/2023-02-02-NEST JS 트러블 슈팅.md",
     "_posts/2023-02-03-NEST JS 트러블슈팅 2.md",
     "_site/posts/2023-04-07-Github 카테고리 버튼 만들기.html",
@@ -189,7 +190,6 @@
     "_site/tabs/blog/13",
     "_posts/2023-04-07-TypeScript-5.0-Multiple-Conf.md",
     "_posts/2023-04-07-TypeScript_5.0_Multiple_Conf.md",
-    "_posts/2023-04-07-TypeScript-5.0-Enums.md",
     "_site/posts/2023-04-07-TypeScript_5.0_Multiple_Conf.html",
     "_site/posts/2023-04-07-TypeScript_5.0<br>Multiple Configuration_Files_in_extends_지원.html",
     "_site/posts/2023-04-07-TypeScript_5.0_Multiple Configuration_Files_in_extends_지원.html",
