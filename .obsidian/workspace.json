@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae91e193f8d2d831",
+        "id": "6b10f03dc1228387",
         "type": "tabs",
         "children": [
           {
-            "id": "34830fbdec25ee07",
+            "id": "e8d4c452a415f6b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-07-TypeScript-5.0-Enums.md",
+                "file": "_posts/2023-02-01-OAuth2.0_Passport.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 262.5
   },
   "right": {
     "id": "41c639e8930c77f8",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-07-TypeScript-5.0-Enums.md",
+                "file": "_posts/2023-02-01-OAuth2.0_Passport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-07-TypeScript-5.0-Enums.md",
+                "file": "_posts/2023-02-01-OAuth2.0_Passport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-07-TypeScript-5.0-Enums.md"
+                "file": "_posts/2023-02-01-OAuth2.0_Passport.md"
               }
             }
           }
@@ -146,8 +146,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "34830fbdec25ee07",
+  "active": "e8d4c452a415f6b3",
   "lastOpenFiles": [
+    "assets/img/posts/Trouble_Social.gif",
+    "_site/posts/2023-02-01-OAuth2.0_Passport.html",
+    "_posts/2023-01-30-협업 미니 프로젝트 3(비슷한그램).md",
+    "_posts/2023-01-29-Controller.md",
+    "_posts/2023-01-25-내가 그린 기린 그림 2.md",
+    "_posts/2023-02-02-NEST JS 트러블 슈팅.md",
+    "_posts/2023-02-03-NEST JS 트러블슈팅 2.md",
+    "_posts/2023-02-01-OAuth2.0_Passport.md",
+    "_site/posts/2023-04-07-Github 카테고리 버튼 만들기.html",
+    "_posts/2023-04-07-Github 카테고리 버튼 만들기.md",
     "_site/posts/2023-04-07-TypeScript-5.0-Multiple-Conf.html",
     "_site/posts/2023-04-07-TypeScript-5.0-Enums.html",
     "_site/tabs/blog/13/index.html",
@@ -160,8 +170,6 @@
     "_site/posts/2023-04-07-TypeScript_5.0<br>Multiple Configuration_Files_in_extends_지원.html",
     "_site/posts/2023-04-07-TypeScript_5.0_Multiple Configuration_Files_in_extends_지원.html",
     "_site/posts/2023-04-07-TypeScript 5.0 Multiple Configuration Files in extends 지원.html",
-    "_site/posts/2023-04-06-TypeScript_5.0_const_Type Parameters.html",
-    "_site/posts/2023-04-06-TypeScript 5.0 const Type Parameters.html",
     "_posts/2023-03-20-스택 그리고 큐.md",
     "_posts/2023-03-20-시간복잡도와 공간복잡도.md",
     "_posts/2023-03-21-배열과 링크드리스트.md",
@@ -175,15 +183,7 @@
     "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
     "_posts/2023-04-04-TypeScript_추가된 내용.md",
     "_posts/2023-04-05-TypeScript_Decorators.md",
-    "_site/posts/2023-04-05-TypeScript_Decorators.html",
     "_posts/2022-12-19-객체지향-OOP.md",
-    "_posts/2023-02-06-7.  Docker Commands.md",
-    "_posts/2023-02-07-8. Docker Redis.md",
-    "_posts/2023-02-07-9. docker shell 환경 진입.md",
-    "_posts/2023-03-16-Test 준비.md",
-    "_posts/2023-03-17-rpm Package 생성.md",
-    "_posts/2023-03-17-Test 트러블슈팅.md",
-    "_posts/2023-03-18-nGrinder 트러블슈팅.md",
     "_site/assets/img/posts/TCP UDP-1.jpg",
     "_site/assets/img/posts/Pasted image 20230331193302.png",
     "_site/assets/img/posts/Pasted image 20230331193202.png",
