@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-02-01-Heap_memory_문제.md",
+                "file": "_posts/2023-01-25-내가 그린 기린 그림 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-02-01-Heap_memory_문제.md",
+                "file": "_posts/2023-01-25-내가 그린 기린 그림 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-02-01-Heap_memory_문제.md",
+                "file": "_posts/2023-01-25-내가 그린 기린 그림 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-02-01-Heap_memory_문제.md"
+                "file": "_posts/2023-01-25-내가 그린 기린 그림 2.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "e8d4c452a415f6b3",
   "lastOpenFiles": [
-    "assets/img/posts/heap3.gif",
+    "_posts/2023-01-17-내가 그린 기린 그림 1.md",
+    "_posts/2023-02-01-OAuth2.0_Passport.md",
     "_posts/2023-02-01-Heap_memory_문제.md",
+    "assets/img/posts/heap3.gif",
     "_posts/2022-12-05-Git Blog 만들기.md",
     "_posts/2023-01-20-MySQL 기초문법 활용(삽질).md",
     "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
@@ -162,7 +164,6 @@
     "assets/img/posts/arrow.png",
     "assets/img/posts/8mZsVsV.jpg",
     "assets/img/posts/56tcuGt.png",
-    "assets/img/posts/servertest.png",
     "_posts/2022-12-17-Arrow-function.md",
     "_posts/2022-12-17-Async-Await-1.md",
     "_posts/2022-12-18-Async-Await-2.md",
@@ -174,7 +175,6 @@
     "_posts/2023-02-04-2. Docker를 알아보자.md",
     "_posts/2022-12-20-객체리터럴.md",
     "_posts/2022-12-21-Class.md",
-    "_posts/2023-02-01-OAuth2.0_Passport.md",
     "_site/posts/2023-02-01-OAuth2.0_Passport.html",
     "_posts/2023-01-30-협업 미니 프로젝트 3(비슷한그램).md",
     "_posts/2023-01-29-Controller.md",
