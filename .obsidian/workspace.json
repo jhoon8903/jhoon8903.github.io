@@ -11,12 +11,8 @@
             "id": "e8d4c452a415f6b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-04-08-TypeScript 5.0 --moduleResolution bundler.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-08-TypeScript 5.0 --moduleResolution bundler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-08-TypeScript 5.0 --moduleResolution bundler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-04-08-TypeScript 5.0 --moduleResolution bundler.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e8d4c452a415f6b3",
+  "active": "4108c21206bbdfbc",
   "lastOpenFiles": [
-    "_posts/2023-01-25-내가 그린 기린 그림 2.md",
+    "_posts/2023-04-09-TypeScript 5.0 Resolution Customization Flags.md",
     "_posts/2023-04-08-TypeScript 5.0 --moduleResolution bundler.md",
+    "_posts/2023-04-08-백준-1단계.md",
+    "_posts/2023-01-25-내가 그린 기린 그림 2.md",
     "_posts/2023-01-17-내가 그린 기린 그림 1.md",
     "_posts/2023-02-01-OAuth2.0_Passport.md",
     "_posts/2023-02-01-Heap_memory_문제.md",
@@ -188,8 +182,6 @@
     "_site/posts/2023-04-07-TypeScript-5.0-Enums.html",
     "_site/tabs/blog/13/index.html",
     "_site/tabs/blog/13",
-    "_posts/2023-04-07-TypeScript-5.0-Multiple-Conf.md",
-    "_posts/2023-04-07-TypeScript_5.0_Multiple_Conf.md",
     "_site/posts/2023-04-07-TypeScript_5.0_Multiple_Conf.html",
     "_site/posts/2023-04-07-TypeScript_5.0<br>Multiple Configuration_Files_in_extends_지원.html",
     "_site/posts/2023-04-07-TypeScript_5.0_Multiple Configuration_Files_in_extends_지원.html",
