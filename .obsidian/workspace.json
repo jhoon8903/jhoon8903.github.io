@@ -11,8 +11,12 @@
             "id": "e8d4c452a415f6b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-10-Unity_Setting.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-04-10-Unity_Setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-04-10-Unity_Setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-04-10-Unity_Setting.md"
+              }
             }
           }
         ]
@@ -138,8 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4108c21206bbdfbc",
+  "active": "e8d4c452a415f6b3",
   "lastOpenFiles": [
+    "_posts/2023-04-10-TypeScript 5.0 Support for export type `*`.md",
+    "_posts/2023-04-18-TypeScript 5.0 중요 변경 사항 및 사용 중단.md",
+    "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
+    "_posts/2023-04-10-Unity_Setting.md",
     "_posts/2023-04-09-TypeScript 5.0 Resolution Customization Flags.md",
     "_posts/2023-04-08-TypeScript 5.0 --moduleResolution bundler.md",
     "_posts/2023-04-08-백준-1단계.md",
@@ -173,11 +185,7 @@
     "_posts/2022-12-21-Class.md",
     "_site/posts/2023-02-01-OAuth2.0_Passport.html",
     "_posts/2023-01-30-협업 미니 프로젝트 3(비슷한그램).md",
-    "_posts/2023-01-29-Controller.md",
-    "_posts/2023-02-02-NEST JS 트러블 슈팅.md",
-    "_posts/2023-02-03-NEST JS 트러블슈팅 2.md",
     "_site/posts/2023-04-07-Github 카테고리 버튼 만들기.html",
-    "_posts/2023-04-07-Github 카테고리 버튼 만들기.md",
     "_site/posts/2023-04-07-TypeScript-5.0-Multiple-Conf.html",
     "_site/posts/2023-04-07-TypeScript-5.0-Enums.html",
     "_site/tabs/blog/13/index.html",
