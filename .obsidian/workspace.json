@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "3cac1f24e63bf61a",
+    "id": "e200ba3ee3537977",
     "type": "split",
     "children": [
       {
-        "id": "6b10f03dc1228387",
+        "id": "f1664e11423dc93d",
         "type": "tabs",
         "children": [
           {
-            "id": "e8d4c452a415f6b3",
+            "id": "39188685ebd950f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-10-Unity_Setting.md",
+                "file": "_posts/2023-04-12-Unity Game PM.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4ddff3e14be70eda",
+    "id": "2ba07db9b5b6ba34",
     "type": "split",
     "children": [
       {
-        "id": "9ebdcc363b5590e7",
+        "id": "fc67b8998c223ae3",
         "type": "tabs",
         "children": [
           {
-            "id": "4108c21206bbdfbc",
+            "id": "e6bb309b88021308",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "2833abc333771d19",
+            "id": "129d8f90d98b64c1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "6567b0a02ccd75c4",
+            "id": "3fa52b272a835a01",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 300
   },
   "right": {
-    "id": "41c639e8930c77f8",
+    "id": "c7fcf9f98b97f11d",
     "type": "split",
     "children": [
       {
-        "id": "77ef09059255f30f",
+        "id": "b98039db912f85d9",
         "type": "tabs",
         "children": [
           {
-            "id": "9e1b50944c5bff93",
+            "id": "a4be41e668b56c33",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-10-Unity_Setting.md",
+                "file": "_posts/2023-04-12-Unity Game PM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "ca694e7a05cd846a",
+            "id": "e2358e2e8a7faa59",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-10-Unity_Setting.md",
+                "file": "_posts/2023-04-12-Unity Game PM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "46e82d4635141029",
+            "id": "706660fcbcc24dbc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "d97cdbcb644674b4",
+            "id": "91d542429ef9c551",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-10-Unity_Setting.md"
+                "file": "_posts/2023-04-12-Unity Game PM.md"
               }
             }
           }
@@ -146,53 +146,8 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e8d4c452a415f6b3",
+  "active": "39188685ebd950f2",
   "lastOpenFiles": [
-    "_posts/2023-04-10-TypeScript 5.0 Support for export type `*`.md",
-    "_posts/2023-04-18-TypeScript 5.0 중요 변경 사항 및 사용 중단.md",
-    "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
-    "_posts/2023-04-10-Unity_Setting.md",
-    "_posts/2023-04-09-TypeScript 5.0 Resolution Customization Flags.md",
-    "_posts/2023-04-08-TypeScript 5.0 --moduleResolution bundler.md",
-    "_posts/2023-04-08-백준-1단계.md",
-    "_posts/2023-01-25-내가 그린 기린 그림 2.md",
-    "_posts/2023-01-17-내가 그린 기린 그림 1.md",
-    "_posts/2023-02-01-OAuth2.0_Passport.md",
-    "_posts/2023-02-01-Heap_memory_문제.md",
-    "assets/img/posts/heap3.gif",
-    "_posts/2022-12-05-Git Blog 만들기.md",
-    "_posts/2023-01-20-MySQL 기초문법 활용(삽질).md",
-    "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
-    "assets/img/posts/eXNBtIt.jpg",
-    "assets/img/posts/CzjLnx3.png",
-    "assets/img/posts/CPCzrTw.png",
-    "assets/img/posts/CMdeiMk.png",
-    "assets/img/posts/blog_thumnail.jpg",
-    "assets/img/posts/async2.png",
-    "assets/img/posts/arrow.png",
-    "assets/img/posts/8mZsVsV.jpg",
-    "assets/img/posts/56tcuGt.png",
-    "_posts/2022-12-17-Arrow-function.md",
-    "_posts/2022-12-17-Async-Await-1.md",
-    "_posts/2022-12-18-Async-Await-2.md",
-    "_posts/2022-12-17-var, let, const.md",
-    "_posts/2022-12-17-호이스팅.md",
-    "_posts/2022-12-16-JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?.md",
-    "_posts/2022-12-12-Pyhton 풀스택 미니프로젝트 3.md",
-    "_posts/2022-12-19-객체지향-OOP.md",
-    "_posts/2023-02-04-2. Docker를 알아보자.md",
-    "_posts/2022-12-20-객체리터럴.md",
-    "_posts/2022-12-21-Class.md",
-    "_site/posts/2023-02-01-OAuth2.0_Passport.html",
-    "_posts/2023-01-30-협업 미니 프로젝트 3(비슷한그램).md",
-    "_site/posts/2023-04-07-Github 카테고리 버튼 만들기.html",
-    "_site/posts/2023-04-07-TypeScript-5.0-Multiple-Conf.html",
-    "_site/posts/2023-04-07-TypeScript-5.0-Enums.html",
-    "_site/tabs/blog/13/index.html",
-    "_site/tabs/blog/13",
-    "_site/posts/2023-04-07-TypeScript_5.0_Multiple_Conf.html",
-    "_site/posts/2023-04-07-TypeScript_5.0<br>Multiple Configuration_Files_in_extends_지원.html",
-    "_site/posts/2023-04-07-TypeScript_5.0_Multiple Configuration_Files_in_extends_지원.html",
-    "_site/posts/2023-04-07-TypeScript 5.0 Multiple Configuration Files in extends 지원.html"
+    "_posts/2023-04-12-Unity Game PM.md"
   ]
 }
