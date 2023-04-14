@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f1664e11423dc93d",
+        "id": "9265c1e0f9a52f00",
         "type": "tabs",
         "children": [
           {
-            "id": "39188685ebd950f2",
+            "id": "6f5fc94027247ecb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-12-Unity Game PM.md",
+                "file": "_posts/2023-04-14-Unity_GetButton.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200.5
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-12-Unity Game PM.md",
+                "file": "_posts/2023-04-14-Unity_GetButton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-12-Unity Game PM.md",
+                "file": "_posts/2023-04-14-Unity_GetButton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-12-Unity Game PM.md"
+                "file": "_posts/2023-04-14-Unity_GetButton.md"
               }
             }
           }
@@ -146,8 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "39188685ebd950f2",
+  "active": "6f5fc94027247ecb",
   "lastOpenFiles": [
+    "_posts/2023-04-14-Game 기획.md",
+    "_posts/2023-04-14-Unity_GetButton.md",
+    "_posts/2023-04-13-Unity_Time.deltaTime.md",
+    "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
+    "_posts/2023-04-10-Unity_Setting.md",
     "_posts/2023-04-12-Unity Game PM.md"
   ]
 }
