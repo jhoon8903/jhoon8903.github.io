@@ -28,17 +28,17 @@ meta_description: "Unity Camera"
 
 ##### 🟠 Background - Clear Flags 가 'Solid Color'일 때 배경색상을 나타내는 변수
 Skybox (3D)
-|Clear Flags : Skybox|Clear Flags : Solid Color|
-|:---:|:---:|
+|Clear Flags : Skybox|Clear Flags : Solid Color|  
+|:---:|:---:|  
 |![](https://i.imgur.com/ETiRkJA.png)|![](https://i.imgur.com/OIUzbuk.png)|
 
 ***
 
 ##### 🟣 Projection - 카메라의 시점을 나타내며, 2D와 3D 시점이 존재한다.
-|2D MODE : Orthographic|3D MODE : Perspetive|
-|:---:|:---:|
-|![](https://i.imgur.com/m5yR6sZ.png)|![](https://i.imgur.com/lH6zhn2.png)|
-|Size : 카메라의 시야 범위|Field of View : 카메라의 시야범위<br>FOV Axis: 시야 범위를 넓히는 방향<br>Vertical, Horizontal|
+|2D MODE : Orthographic|3D MODE : Perspetive|  
+|:---:|:---:|  
+|![](https://i.imgur.com/m5yR6sZ.png)|![](https://i.imgur.com/lH6zhn2.png)|  
+|Size : 카메라의 시야 범위|Field of View : 카메라의 시야범위<br>FOV Axis: 시야 범위를 넓히는 방향<br>Vertical, Horizontal|  
 |![](https://i.imgur.com/Z6ANGgD.png)|![](https://i.imgur.com/VdjY5p2.png)
 |Z축은 어떤 오브젝트가<br>더 앞에 그려질지에만영향을 줌|멀리 떨어져 있는 오브젝트는 <br>더 작게 보이는 원근 투영 적용|
 
