@@ -24,8 +24,9 @@ Edit > ProjectSetting > Input의 Axes에 있는 입력 키를 사용
 ![](https://i.imgur.com/oLBvUcx.png)
 
 ```c#
-if (Input.GetButtonDown("fire1"));
+if (Input.GetButtonDown("Fire1"));
 ```
 
 
 ![](https://i.imgur.com/Y76dIob.png)
+
