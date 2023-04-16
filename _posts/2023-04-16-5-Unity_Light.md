@@ -10,7 +10,7 @@ meta_description: "Unity Light"
 
 ###  Light 💡
 🟨 현실세계의 빛 역할을 담당
-- 빛을 이용해 모델의 재질이나 색상을 다양한 형태로 보여주는데 사용된다.
+- 빛을 이용해 모델의 재질이나 색상을 다양한 형태로 보여주는데 사용된다.  
 
 |빛 이 있을 때|빛 이 없을 때|  
 | :---: | :----: |  
@@ -38,7 +38,8 @@ meta_description: "Unity Light"
 	 🟧 Area (baked only)
 	 - 오브젝트의 위치를 기준으로 전방 방향으로만 방출되는 빛
 		 - Range(반지름), 빛의 범위 Width(가로), Height(세로)
-	 - Area 는 Baked(빛에 대한 세팅이 먼저 되어 있는 상황) 모드에서만 사용 가능
+	 - Area 는 Baked(빛에 대한 세팅이 먼저 되어 있는 상황) 모드에서만 사용 가능  
+
 
 |Directional|Point|Spot|Area|
 |:---:|:---:|:---:|:---:|
@@ -89,6 +90,7 @@ meta_description: "Unity Light"
 
 ### 🟢 Shadow
 - 빛을 받은 오브젝트의 그림자 설정
+
 |No Shadows|Soft Shadows|Hard Shadows|
 |:---:|:---:|:---:|
 |![](https://i.imgur.com/EWeFHJz.png)|![](https://i.imgur.com/4FCRjvY.png)|![](https://i.imgur.com/ywvl9IE.png)|
