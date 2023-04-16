@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-16-Unity_Script.md",
+                "file": "_posts/2023-04-16-7-Unity_Script.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-16-Unity_Script.md",
+                "file": "_posts/2023-04-16-7-Unity_Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-16-Unity_Script.md",
+                "file": "_posts/2023-04-16-7-Unity_Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-16-Unity_Script.md"
+                "file": "_posts/2023-04-16-7-Unity_Script.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "6f5fc94027247ecb",
   "lastOpenFiles": [
     "_posts/2023-04-16-6-Unity_texture 출력.md",
-    "_posts/2023-04-16-Unity_Script.md",
+    "_posts/2023-04-16-7-Unity_Script.md",
     "_posts/2023-04-16-5-Unity_Light.md",
     "_posts/2023-04-16-4-Unity_Camera.md",
     "_posts/2023-04-16-3-Unity_Game_Object.md",
