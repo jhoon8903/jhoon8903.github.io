@@ -27,7 +27,9 @@ meta_description: "Unity Camera"
 	- 카메라를 동시에 여러 대 사용할 때 Depth only, Don't Clear 옵션도 사용
 
 ##### 🟠 Background - Clear Flags 가 'Solid Color'일 때 배경색상을 나타내는 변수
-Skybox (3D)
+
+Skybox (3D)  
+
 |Clear Flags : Skybox|Clear Flags : Solid Color|  
 |:---:|:---:|  
 |![](https://i.imgur.com/ETiRkJA.png)|![](https://i.imgur.com/OIUzbuk.png)|
@@ -35,6 +37,7 @@ Skybox (3D)
 ***
 
 ##### 🟣 Projection - 카메라의 시점을 나타내며, 2D와 3D 시점이 존재한다.
+
 |2D MODE : Orthographic|3D MODE : Perspetive|  
 |:---:|:---:|  
 |![](https://i.imgur.com/m5yR6sZ.png)|![](https://i.imgur.com/lH6zhn2.png)|  
