@@ -41,10 +41,11 @@ meta_description: "Unity Light"
 	 - Area 는 Baked(빛에 대한 세팅이 먼저 되어 있는 상황) 모드에서만 사용 가능  
 
 
-|Directional|Point|Spot|Area|
-|:---:|:---:|:---:|:---:|
-||![](https://i.imgur.com/PvdqgnH.png)|![](https://i.imgur.com/1tz8GHz.png)|![](https://i.imgur.com/Vk5lVgq.png)|
+|Directional|Point|Spot|Area|  
+|:---:|:---:|:---:|:---:|  
+|기본설정|![](https://i.imgur.com/PvdqgnH.png)|![](https://i.imgur.com/1tz8GHz.png)|![](https://i.imgur.com/Vk5lVgq.png)|
 |![](https://i.imgur.com/RQew80a.png)|![](https://i.imgur.com/jsE4JGd.png)|![](https://i.imgur.com/sjTWZar.png)|![](https://i.imgur.com/1Zmyapn.png)|
+
 ***
 
 ### 🔴 Mode
