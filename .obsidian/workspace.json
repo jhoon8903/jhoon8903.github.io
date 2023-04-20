@@ -148,6 +148,7 @@
   },
   "active": "6f5fc94027247ecb",
   "lastOpenFiles": [
+    "_posts/2023-04-18-1-Unity_.md",
     "_posts/2023-04-18-2-Unity_{get; set;}_자동구현 Property.md",
     "_posts/2023-04-16-5-Unity_Light.md",
     "_posts/2023-04-16-4-Unity_Camera.md",
@@ -172,7 +173,6 @@
     "_posts/2023-04-07-TypeScript-5.0-Multiple-Conf.md",
     "_posts/2023-04-09-TypeScript 5.0 Resolution Customization Flags.md",
     "_posts/2023-04-10-Unity_Setting.md",
-    "_posts/2023-04-16-1-Unity_Engine.md",
-    "_posts/2023-04-17-1-Unity_SerializeField.md"
+    "_posts/2023-04-16-1-Unity_Engine.md"
   ]
 }
