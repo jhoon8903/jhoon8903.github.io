@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-23-Climbing Game.md",
+                "file": "_posts/2023-04-25-Unity_ObjectPooling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-23-Climbing Game.md",
+                "file": "_posts/2023-04-25-Unity_ObjectPooling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-23-Climbing Game.md",
+                "file": "_posts/2023-04-25-Unity_ObjectPooling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-23-Climbing Game.md"
+                "file": "_posts/2023-04-25-Unity_ObjectPooling.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "6f5fc94027247ecb",
   "lastOpenFiles": [
+    "_posts/2023-04-23-Climbing Game.md",
+    "_posts/2023-04-25-Unity_ObjectPooling.md",
     "_posts/2023-04-18-1-Unity_.md",
     "_posts/2023-04-18-1-Unity_Attribute.md",
     "_posts/2023-04-18-2-Unity_{get; set;}_자동구현 Property.md",
     "_posts/2023-04-21-Game기획3.md",
-    "_posts/2023-04-23-Climbing Game.md",
     "_posts/2023-04-16-5-Unity_Light.md",
     "_posts/2023-04-16-4-Unity_Camera.md",
     "_posts/2023-04-16-3-Unity_Game_Object.md",
@@ -172,7 +173,6 @@
     "_posts/2023-03-21-배열과 링크드리스트.md",
     "_posts/2023-03-20-시간복잡도와 공간복잡도.md",
     "_posts/2023-04-16-7-Unity_Script.md",
-    "_posts/2023-04-07-TypeScript-5.0-Multiple-Conf.md",
-    "_posts/2023-04-09-TypeScript 5.0 Resolution Customization Flags.md"
+    "_posts/2023-04-07-TypeScript-5.0-Multiple-Conf.md"
   ]
 }
