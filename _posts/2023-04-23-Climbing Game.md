@@ -12,6 +12,7 @@ meta_description: "Climbing Game"
 
 초기 버전
 - Body 드래그 만 가능한 상황
+
 ![](https://i.imgur.com/wgyuJ1C.gif)
 
 ***
