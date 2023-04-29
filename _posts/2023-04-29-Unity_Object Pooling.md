@@ -1,9 +1,9 @@
 
 ---
 title: Unity Object Pooling & Respawn
-category: Unity
+category: game
 author: "이정훈"
-tags: [unity, c#]
+tags: [unity, c#, game]
 img : https://i.imgur.com/uV1fePt.gif
 comments_disable: true
 meta_description: "Unity Object Pooling Respawn"
