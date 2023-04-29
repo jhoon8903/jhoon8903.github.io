@@ -1,5 +1,5 @@
 ---
-title: Climbing Game
+title: 게임 개발 3일차 - Climbing Game
 category: unity
 author: "이정훈"
 tags: [unity, game]

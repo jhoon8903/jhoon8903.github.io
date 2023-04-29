@@ -1,12 +1,17 @@
+
 ---
 title: Unity Object Pooling & Respawn
 category: Unity
 author: "이정훈"
 tags: [unity, c#]
-img : 
+img : https://i.imgur.com/uV1fePt.gif
 comments_disable: true
 meta_description: "Unity Object Pooling Respawn"
 ---
+
+
+![](https://i.imgur.com/uV1fePt.gif)
+
 
 ``` c#
 using System.Collections.Generic;

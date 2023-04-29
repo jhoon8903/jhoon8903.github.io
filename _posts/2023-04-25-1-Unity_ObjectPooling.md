@@ -1,5 +1,5 @@
 ---
-title: Unity ObjectPooling 트러블
+title: 게임 개발 5일차 Unity ObjectPooling 트러블
 category: unity
 author: "이정훈"
 tags: [unity, c#, game]
