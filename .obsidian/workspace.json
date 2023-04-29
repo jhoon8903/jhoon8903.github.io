@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-16-6-Unity_texture 출력.md",
+                "file": "_posts/2023-04-29-Unity_Object Pooling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-16-6-Unity_texture 출력.md",
+                "file": "_posts/2023-04-29-Unity_Object Pooling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-16-6-Unity_texture 출력.md",
+                "file": "_posts/2023-04-29-Unity_Object Pooling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-16-6-Unity_texture 출력.md"
+                "file": "_posts/2023-04-29-Unity_Object Pooling.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "8ae00dde268aca74",
   "lastOpenFiles": [
+    "_posts/2023-04-26-Game 6일차.md",
+    "_posts/2023-04-29-Unity_Object Pooling.md",
+    "_posts/2023-04-25-2-Game 5일차.md",
+    "_posts/2023-04-25-1-Unity_ObjectPooling.md",
+    "_posts/2023-04-21-Game기획3.md",
+    "_posts/2023-04-23-게임개발 3일차 Climbing Game.md",
     "_posts/2023-04-17-1-Unity_SerializeField.md",
     "_posts/2023-04-18-1-Unity_Attribute.md",
     "_posts/2023-04-18-2-Unity_{get; set;}_자동구현 Property.md",
-    "_posts/2023-04-21-Game기획3.md",
-    "_posts/2023-04-23-게임개발 3일차 Climbing Game.md",
-    "_posts/2023-04-25-1-Unity_ObjectPooling.md",
-    "_posts/2023-04-29-Unity_Object Pooling.md",
-    "_posts/2023-04-25-2-Game 5일차.md",
-    "_posts/2023-04-26-Game 6일차.md",
+    "_posts/2023-04-16-6-Unity_texture 출력.md",
     "_posts/2023-04-18-1-Unity_.md",
     "_posts/2023-04-16-5-Unity_Light.md",
     "_posts/2023-04-16-4-Unity_Camera.md",
@@ -172,7 +173,6 @@
     "_posts/2023-04-05-TypeScript_Decorators.md",
     "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
     "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
-    "_posts/2023-03-28-Dependency Injection.md",
-    "_posts/2023-03-27-MSA.md"
+    "_posts/2023-03-28-Dependency Injection.md"
   ]
 }

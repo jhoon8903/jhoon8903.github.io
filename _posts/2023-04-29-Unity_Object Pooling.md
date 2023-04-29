@@ -1,4 +1,3 @@
-
 ---
 title: Unity Object Pooling & Respawn
 category: game
