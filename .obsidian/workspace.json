@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-29-Unity_Object Pooling.md",
+                "file": "_posts/2023-05-04-개발완료.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-29-Unity_Object Pooling.md",
+                "file": "_posts/2023-05-04-개발완료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-29-Unity_Object Pooling.md",
+                "file": "_posts/2023-05-04-개발완료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-29-Unity_Object Pooling.md"
+                "file": "_posts/2023-05-04-개발완료.md"
               }
             }
           }
@@ -148,7 +148,9 @@
   },
   "active": "8ae00dde268aca74",
   "lastOpenFiles": [
+    "assets/img/posts/GamePT.key",
     "_posts/2023-04-26-Game 6일차.md",
+    "_posts/2023-05-04-개발완료.md",
     "_posts/2023-04-29-Unity_Object Pooling.md",
     "_posts/2023-04-25-2-Game 5일차.md",
     "_posts/2023-04-25-1-Unity_ObjectPooling.md",
@@ -171,8 +173,6 @@
     "_posts/2023-04-07-TypeScript-5.0-Enums.md",
     "_posts/2023-04-06-TypeScript_5.0_const_Type Parameters.md",
     "_posts/2023-04-05-TypeScript_Decorators.md",
-    "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
-    "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
-    "_posts/2023-03-28-Dependency Injection.md"
+    "_posts/2023-04-03-WAS, Web Server, Nest JS.md"
   ]
 }
