@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b1f7b5f9fb0e202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-05-04-개발완료.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +75,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e87e7e6a80af0d11",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -146,7 +167,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8ae00dde268aca74",
+  "active": "1b1f7b5f9fb0e202",
   "lastOpenFiles": [
     "assets/img/posts/Slime 1.mov",
     "assets/img/posts/GamePT.key",
