@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-05-04-개발완료.md",
+                "file": "_posts/2023-05-04-Unity Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-05-04-개발완료.md",
+                "file": "_posts/2023-05-04-Unity Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-05-04-개발완료.md",
+                "file": "_posts/2023-05-04-Unity Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-05-04-개발완료.md"
+                "file": "_posts/2023-05-04-Unity Method.md"
               }
             }
           }
@@ -169,10 +169,11 @@
   },
   "active": "1b1f7b5f9fb0e202",
   "lastOpenFiles": [
+    "_posts/2023-05-04-개발완료.md",
+    "_posts/2023-05-04-Unity Method.md",
     "assets/img/posts/Slime 1.mov",
     "assets/img/posts/GamePT.key",
     "_posts/2023-04-26-Game 6일차.md",
-    "_posts/2023-05-04-개발완료.md",
     "_posts/2023-04-29-Unity_Object Pooling.md",
     "_posts/2023-04-25-2-Game 5일차.md",
     "_posts/2023-04-25-1-Unity_ObjectPooling.md",
