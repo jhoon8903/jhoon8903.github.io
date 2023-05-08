@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-05-04-개발완료.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b1f7b5f9fb0e202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-05-04-Unity Method.md",
+                "file": "_posts/2023-03-18-nGrinder 트러블슈팅.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-05-04-Unity Method.md",
+                "file": "_posts/2023-03-18-nGrinder 트러블슈팅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-05-04-Unity Method.md",
+                "file": "_posts/2023-03-18-nGrinder 트러블슈팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-05-04-Unity Method.md"
+                "file": "_posts/2023-03-18-nGrinder 트러블슈팅.md"
               }
             }
           }
@@ -167,10 +154,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1b1f7b5f9fb0e202",
+  "active": "8ae00dde268aca74",
   "lastOpenFiles": [
     "_posts/2023-05-04-개발완료.md",
     "_posts/2023-05-04-Unity Method.md",
+    "_posts/2022-12-17-Arrow-function.md",
+    "_posts/2022-12-12-Pyhton 풀스택 미니프로젝트 3.md",
+    "_posts/2022-12-10-Python 풀스택 미니프로젝트 2.md",
+    "_posts/2022-12-10-Python 풀스택 미니프로젝트 1.md",
+    "_posts/2022-12-05-Python 미니프로젝트.md",
+    "_posts/2022-11-25-java '변수와 상수'.md",
+    "_posts/2022-11-24-javascript 배열 'Array'.md",
+    "_posts/2022-11-22-Python 문법 'map','lambda','filter'.md",
+    "_posts/2022-11-21-Python 조건문_반복문.md",
+    "_posts/2022-11-21-Python 문법 f-string.md",
+    "_posts/2022-11-21-Python 문법 '예외처리'.md",
+    "_posts/2022-11-21-Python import.md",
+    "_posts/2022-11-20-Python 변수 선언과 자료형.md",
+    "_posts/2022-11-20-Python 문자열 다루기.md",
+    "_posts/2022-11-20-Python List와 Dictionary.md",
+    "_posts/2022-11-15-DB 개괄.md",
+    "_posts/2022-11-13-Python-jQuery.md",
+    "_posts/2022-11-14-Python 기초 1.md",
     "assets/img/posts/Slime 1.mov",
     "assets/img/posts/GamePT.key",
     "_posts/2023-04-26-Game 6일차.md",
@@ -178,24 +183,6 @@
     "_posts/2023-04-25-2-Game 5일차.md",
     "_posts/2023-04-25-1-Unity_ObjectPooling.md",
     "_posts/2023-04-21-Game기획3.md",
-    "_posts/2023-04-23-게임개발 3일차 Climbing Game.md",
-    "_posts/2023-04-17-1-Unity_SerializeField.md",
-    "_posts/2023-04-18-1-Unity_Attribute.md",
-    "_posts/2023-04-18-2-Unity_{get; set;}_자동구현 Property.md",
-    "_posts/2023-04-16-6-Unity_texture 출력.md",
-    "_posts/2023-04-18-1-Unity_.md",
-    "_posts/2023-04-16-5-Unity_Light.md",
-    "_posts/2023-04-16-4-Unity_Camera.md",
-    "_posts/2023-04-16-3-Unity_Game_Object.md",
-    "_posts/2023-04-16-2-Unity_좌표_체계.md",
-    "_posts/2023-04-14-Unity_GetButton.md",
-    "_posts/2023-04-14-Game 기획.md",
-    "_posts/2023-04-13-Unity_Time.deltaTime.md",
-    "_posts/2023-04-12-Unity Game PM.md",
-    "_posts/2023-04-10-TypeScript 5.0 Support for export type `*`.md",
-    "_posts/2023-04-07-TypeScript-5.0-Enums.md",
-    "_posts/2023-04-06-TypeScript_5.0_const_Type Parameters.md",
-    "_posts/2023-04-05-TypeScript_Decorators.md",
-    "_posts/2023-04-03-WAS, Web Server, Nest JS.md"
+    "_posts/2023-04-23-게임개발 3일차 Climbing Game.md"
   ]
 }
