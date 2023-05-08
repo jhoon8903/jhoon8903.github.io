@@ -22,9 +22,51 @@ page_data:
       type: id_test
       color: "#005571"
 
-
   list:
-    # example
+    - type: id_Application
+      project_name: "Slime Climbing"
+      project_excerpt: "Unity Drag & Shoot Game"
+      img: https://i.imgur.com/raL1ZrS.jpg
+      img_title: "Slime_기획 타이틀"
+      date: "2023-05-04"
+      post: |
+        ### 프로젝트링크
+
+        [Github Repository](https://github.com/jhoon8903/Unity_ClimbingGame)
+        [Blog](https://jhoon8903.github.io/posts/2023-05-04-%EA%B0%9C%EB%B0%9C%EC%99%84%EB%A3%8C)
+
+        ***
+
+        ### 프로젝트 소개
+        Unity Game 개발 개인 프로젝트 진행
+
+        ***
+
+        ### 프로젝트 개요
+
+        |프로젝트 구분|내용|
+        |:---:|:---|
+        |프로젝트 기간|2023.04.21 ~ 2023.05.04 (2주)|
+        |언어|Unity C#|
+        |개발환경|Mac M1, Visual Studio for mac|
+        |테스트 모바일|갤럭시 S10|
+        {:data-align="center"}
+
+        ***
+
+        |ver 1.0|ver 2.0|ver 3.0|
+        |:----:|:---:|:---:|
+        |![](https://i.imgur.com/wgyuJ1C.gif)|![](https://i.imgur.com/WxdHmJe.gif)|![](https://i.imgur.com/jMQ4uDZ.gif)|
+
+        ***
+
+        ### 주요 기술
+        1. Object Pooling
+          - 장애물 Object Pooling을 통한 메모리 최적화
+        2. 상속
+        3. Unlock System
+          - 장애물 수집을 통한 캐릭터 해금 시스템 적용
+
     - type: id_test
       project_name: "Stock Pyramid"
       project_excerpt: "대용량 트레픽 인프라 테스트"
@@ -33,18 +75,18 @@ page_data:
       date: "2023-03-15"
       post: |
         ### 프로젝트링크
-        
+
         [Github Repository](https://github.com/orgs/project-ddh/repositories)<br>
         [You Tube](https://www.youtube.com/watch?v=br8e4AZcD_g)<br>
         [PDF](https://drive.google.com/file/d/1LXdqnD6_lg1MsaIUSViy8iRiyIetz-7D/view)
-        
+
         ### 프로젝트 소개
         경매 시스템 구현을 위한 인프라 부하 테스트 개선 프로젝트
-        
+
         <p></p>
         <p></p>
         ### 프로젝트 개요
-        
+
         |프로젝트 구분|내 용|
         | :-------------------: | :------------------|
         | 프로젝트 기간 | 2023.02.02 ~ 2023.03.15 (6주)|
@@ -63,11 +105,11 @@ page_data:
         |테스트 툴| rpm package|
         |가상화|Docker|
         {:data-align="center"}
-        
+
         <p></p>
         <p></p>
         ### 프로젝트 개선사항
-        
+
         | 개선사항                 |     내 용           |
         | :-------------------: | :------------------|
         |            <br><br>환경구축 | 서버 구성시 기회비용의 효율을 높이기 위해 Custom rpm을 Build하여 설치 자동화 <br><br> 도커가 있는데 왜? <br> 가상화 측정결과 성능하락(20%)이 확인되어 성능 측정을 위해 Local 환경 구축 <br> [이후 Docker 관리] |
@@ -79,7 +121,7 @@ page_data:
         <p></p>
         <p></p>
         ### 프로젝트 주요업무 및 상세역할
-        
+
         |주요업무 및 상세역할|내 용|
         |:---:|:---|
         |<br><br>프로젝트 구성|- [PDCA](https://github.com/jhoon8903/DevelopNote/blob/master/Stack/TEST/Server%20Test/0.%20PDCA.md) 및 [아키텍처 기획](https://drive.google.com/file/d/1dRQDtg30sELnIt8jqattlyKSpv3QqxxK/view)<br>- [근거자료조사](https://www.notion.so/DataBase-130524146a36472386c7c21d1b34ecf0) <br>- [설치환경](https://www.notion.so/8f832e6db105450ba304a882f95c931a?v=34d3f6521a124419a7b6e4e7511dd7ff) 메뉴얼작성<br>- [rpm 빌드](https://github.com/jhoon8903/DevelopNote/blob/master/Stack/TEST/Server%20Test/RPM%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%EC%83%9D%EC%84%B1.md) <br>- 팀 교육(Docker, Test)|
@@ -91,24 +133,22 @@ page_data:
         |<br>Database HA|-repmgr을 이용한 [Auto failover 및 Recovery](https://www.notion.so/c9bbae6d9b36442c9bf852e80e9af529?p=6631fa1c3e8f4052b359b47442befb2d&pm=s) 구현<br>pg_pool-II 쿼리 및 프로토콜 로드밸런싱<br>Route53 & Aurora RDS적용|
         |<br><br>Front Page|- React구현 [Login, 인증, Main, Event]<br>- Redux tool kit 상태관리<br>- socke.io 실시간 입찰 구현<br>- mui 레이아웃 구성<br>- ApexChart 시계열 데이터 시각화|
         {:data-align="center"}
-        
+
         <p></p>
         <p></p>
         ### 프로젝트 트러블 해결 프로세스
-        
+
         |문제발생 > 어떠한 환경에서 발생하는지 환경적 요인 기록 및 파악 > 다른 환경에서도 동일한 문제가 발생하는지 확인<br> > 특정 해당 환경에서만 발생하는 요인이라면 설정 의심 > 문제에 대한 가설 정립 > 가설에 대한 모든방향의 검증실행<br> > [해결된 방법 중 가장 좋은 결과를 적용](https://github.com/jhoon8903/DevelopNote/blob/master/Stack/TEST/Server%20Test/2.%20%EA%B5%AC%EA%B0%84%20TEST.md)|
         {:data-align="center"}
-        
+
         <p></p>
         <p></p>
         ### 해결하지 못한 문제
-        
+
         Q1. 분산되어 있는 모니터를 중앙으로 모아서 볼 수 있는 Matric 구성<br>
         Q2. 병목 및 Low 쿼리를 좀 더 효율적이고 빠르게 성능개선하기<br>
         Q3. 고객의 10배 늘어난다며, Auto Scale이 방법일까?
-        
-        
-    # picture
+
     - type: id_service
       project_name: "비슷하구만그램"
       project_excerpt: "인스타그램이랑 비슷하구만그램"
@@ -117,37 +157,37 @@ page_data:
       date: "2023-02-01"
       post: |
         ### 프로젝트링크
-        
+
         [Github Repository](https://github.com/F1rstID/clone-insta/tree/develop)<br>
         [You Tube](https://www.youtube.com/watch?v=mcihlfpcynM)<br>
         [PDF](https://drive.google.com/file/d/1UWXas0z_lYW6j-pwzpqp1ICUG58ERjnZ/view)
-        
+
         ### 프로젝트 소개
         인스타그램 협업 클론코딩
-        
+
         <p></p>
         <p></p>
         ### 프로젝트 개요
         인스타그램 주요 기능 클론코딩
-        
+
         ### 프로젝트
-        
+
         |프로젝트|비슷하구만그램|
         |:---:|:---|
         |프로젝트 기간|2023.01.25 ~ 2023.02.01 (1주)|
         |<br> 팀 구성|FE : 2명<br>BE:3명<br>담당 업무 : Passport Social Login, Network, PM|
         |프로젝트 목적|협업을 통한 클론 웹 서비스 제작 (모든 기능을 구현하는 것은 아님)|
         |개선<br>사항|- Heap Memory issue 해결로 빌드 후 일일이 재업로드 하는 문제 해결<br>- Http2 통신 구현으로 이미지 데이터 전송 속도 약 10% 향상|
-        
+
         ### 프로젝트 주요업무 및 상세역할
-        
+
         |<br>프로젝트 기획 및 협업 커뮤니케이션 조율|- FE 협업 커뮤니케이션 전담<br>- [FE 프로젝트 진행속도에 맞추어 개발 스코프 조정](https://docs.google.com/spreadsheets/d/1o0KZFJbYMaSiaGpebJlZ4heZ-mw8d7ah_8dA_QCiORA/edit#gid=500988334)|
         |Social & Login Authorization|- [JWT/Passport/Axios](https://github.com/F1rstID/clone-insta/blob/main/backend/src/auth/auth.service.ts)<br>- [Social Login](https://drive.google.com/file/d/1ScwTGoW_mVnndWv5hM9mq6RcBvoBgUHI/view)- apple Login은 비용발생으로 drop|
         |Http2 적용|image 전송 및 통신속도 향상을 위해 [http2 [spdy]](https://github.com/jhoon8903/clone-insta/blob/BE_SSE_HTML2/backend/src/main.ts) 구현|
         |<br>AWS ec2 배포 환경에서<br>heap Memory 해결|- [문제 분석 후 가설을 통한 해결](https://drive.google.com/file/d/1xLfV0vrMuxGUXJkfsM4PIG7VaYiN27g7/view)<br>- node Heap Memory Size-Scale Up<br>- Dist 빌드 후 배포하여 사용 가능하지만<br>- 빌드 때 마다 재업로드 하는 불편을 해소|
-        
+
         ### 트러블 해결
-        
+
         |:------:|:------|
         |빌드 과정에서 발생하는<br>Heap Memory over 문제 | Dist를 일일이 업로드하기에는 기회비용이 많이 날아감|
         |Heap memory 문제가 발생하는 이유 탐색|- TypeScript Compile 및 JS 인터프리터 중 Instance의 <br>&nbsp;&nbsp;가용 메모리가 부족함을 보고 메모리 확보가 안돼서 라고 가설을 세움|
@@ -155,8 +195,7 @@ page_data:
         |Instance 메모리와는 별개의 문제로 판단<br>node 자체의 memory 확인|- Aws Instance의 node는 16버전, local 환경의 node는 18 버전<br>- 로컬의 버전을 다운그레이드 하였지만 해결 안 됨|
         |Node 자체의 환경 변수에 memory 사용량에 <br>제한이 있다는 것을 확인|환경 변수 export로 메모리를 확보|
         |Swap 및 메모리 환경변수 설정|문제해결|
-        
-    # quote
+
     - type: id_service
       project_name: "내가 그린 기린 그림"
       project_excerpt: "그림판 캐치마인드"
@@ -165,29 +204,29 @@ page_data:
       date: "2023-01-20"
       post: |
         ### 프로젝트링크
-        
+
         [Github Repository](https://github.com/week6project/backend)<br>
         [You Tube](https://www.youtube.com/watch?v=FEHbzJljdP0)<br>
         [Readme](https://github.com/week6project/readme/blob/main/README.md)
         [Docs](https://docs.google.com/document/d/1pAhNMQ9tC1oIWFjZ0gtivlsq8Z8nGtMuzWDmvvgEuPw/edit#heading=h.gyr8iu49yd0)
         [SA](https://docs.google.com/spreadsheets/d/1AIwxkyWStgu2gOLMoRXIZ3oF-4cdgr9mm29BNWrXhC0/edit#gid=110996557)
-        
+
         ### 프로젝트 소개
         그림판을 활용한 캐치마인드 퀴즈 서비스
-        
+
         <p></p>
         <p></p>
         ### 프로젝트
-        
+
         |프로젝트|비슷하구만그램|
         |:---:|:---|
         |프로젝트 기간|2023.01.13 ~ 2023.01.20 (1주)|
         |<br> 팀 구성|FE : 2명<br>BE:3명<br>담당 업무 : 아이템, 와이어 프레임 제작, 초기 세팅, 이미지 form-data 구현, 성능 및 보안 개선 업무|
         |프로젝트 목적|첫 FE & BE 협동 미니 프로젝트|
         |<br><br><br>개선사항|- 콘텐츠 특성상 이미지를 더 빨리 전송할 수 있는 방법을 찾다가 http2를 적용하여 <br>&nbsp;&nbsp;페이지 렌더링 속도 10% 개선<br>- Http2 통신 구현으로 이미지 데이터 전송 속도 약 10% 향상<br>- 이미지 특성상 그 크기 때문에 Cloud 서비스 추가요금이 발생할 수 있다고 가정하고, <br>&nbsp;&nbsp;비 정상적인 업로드 및 접속 공격을 막기 위해 rate_limit 적용<br>- 최초 로컬 로그인만을 지원할 계획에서 실 서비스로 이어질 수도 있다는 가정하에 Social login 기능 구현으로 <br>&nbsp;&nbsp;접속 간소화 및 불필요한 리소스 축소|
-        
+
         ### 프로젝트 주요업무 및 상세역할
-        
+
         |<br>프로젝트 기획 및 협업 커뮤니케이션 조율|- FE 협업 커뮤니케이션 전담<br>- FE 프로젝트 진행속도에 맞추어 개발 스코프 조정<br>- [FE 프로젝트 진행속도에 맞추어 개발 스코프 조정](https://docs.google.com/spreadsheets/d/1o0KZFJbYMaSiaGpebJlZ4heZ-mw8d7ah_8dA_QCiORA/edit#gid=500988334)|
         |Social & Login Authorization|- [JWT/Passport/Axios](https://github.com/F1rstID/clone-insta/blob/main/backend/src/auth/auth.service.ts)<br>- [Social Login](https://drive.google.com/file/d/1ScwTGoW_mVnndWv5hM9mq6RcBvoBgUHI/view)- apple Login은 비용발생으로 drop|
         |Http2 적용|image 전송 및 통신속도 향상을 위해 [http2 [spdy]](https://github.com/jhoon8903/clone-insta/blob/BE_SSE_HTML2/backend/src/main.ts) 구현|
@@ -195,7 +234,7 @@ page_data:
         {:data-align="center"}
                 
         ### 트러블 해결
-        
+
         |:------:|:------|
         |AWS SDK 인증에서 S3에 정상적으로 <br>접속이 안되는 문제 발생 | config 및 환경변수 설정에 문제가 있다고 판단하여,<br>확인도중 AWS S3의 환경 변수명이 정해져 있다는 것을 확인하고 <br>임의로 지정되어 있던 변수명을 변경하여 해결|
         {:data-align="center"}
