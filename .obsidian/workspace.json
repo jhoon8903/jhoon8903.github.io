@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-25-2-Game 5일차.md",
+                "file": "_posts/2023-05-04-개발완료.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-25-2-Game 5일차.md",
+                "file": "_posts/2023-05-04-개발완료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-25-2-Game 5일차.md",
+                "file": "_posts/2023-05-04-개발완료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-25-2-Game 5일차.md"
+                "file": "_posts/2023-05-04-개발완료.md"
               }
             }
           }
@@ -159,9 +159,9 @@
     "_posts/2023-04-26-Game 6일차.md",
     "_posts/2023-04-29-Unity_Object Pooling.md",
     "_posts/2023-05-04-개발완료.md",
-    "_posts/2023-05-04-Unity Method.md",
-    "_posts/2023-04-23-게임개발 3일차 Climbing Game.md",
+    "_posts/2023-05-08-.md",
     "_posts/2023-04-25-2-Game 5일차.md",
+    "_posts/2023-04-23-게임개발 3일차 Climbing Game.md",
     "_posts/2023-03-18-nGrinder 트러블슈팅.md",
     "_posts/2022-12-17-Arrow-function.md",
     "_posts/2022-12-12-Pyhton 풀스택 미니프로젝트 3.md",
