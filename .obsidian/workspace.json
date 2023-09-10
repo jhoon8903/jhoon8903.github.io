@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-05-22-3Match_TestBuild.md",
+                "file": "_posts/2023-07-24-Language Setting.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-05-22-3Match_TestBuild.md",
+                "file": "_posts/2023-07-24-Language Setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-05-22-3Match_TestBuild.md",
+                "file": "_posts/2023-07-24-Language Setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-05-22-3Match_TestBuild.md"
+                "file": "_posts/2023-07-24-Language Setting.md"
               }
             }
           }
@@ -156,10 +156,15 @@
   },
   "active": "aa94897914be3469",
   "lastOpenFiles": [
+    "_posts/2023-07-07-Game Save && Load.md",
+    "_posts/2023-07-24-Language Setting.md",
+    "_posts/2023-06-14-Status Effect.md",
+    "assets/img/posts/Screen Recording 2023-09-11 at 4.20.55 AM.mov.gif",
+    "_posts/2023-06-01-DetectEnemies.md",
+    "_posts/2023-05-22-3Match_TestBuild.md",
     "_posts/2023-05-18-3Match_Merge.md",
     "_posts/2023-05-16-3Match_UnitLevelUP_Swipe.md",
     "_posts/2023-05-17-3Match_Respawn_motion.md",
-    "_posts/2023-05-22-3Match_TestBuild.md",
     "_posts/2023-05-15-3Match_ReSpawn.md",
     "assets/img/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",
     "assets/img/posts/Screen Recording 2023-09-11 at 3.07.25 AM.mov.gif",
@@ -181,9 +186,6 @@
     "_posts/2023-03-28-Dependency Injection.md",
     "_posts/2023-04-01-Parameter_Argument.md",
     "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
-    "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
-    "_posts/2023-04-06-TypeScript_5.0_const_Type Parameters.md",
-    "_posts/2023-04-07-TypeScript-5.0-Enums.md",
     "assets/img/posts/Slime 1.mov",
     "assets/img/posts/GamePT.key"
   ]
