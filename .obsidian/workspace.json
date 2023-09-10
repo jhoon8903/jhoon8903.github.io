@@ -4,45 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c1772f7908ec85d1",
+        "id": "ca4ca7cff06f6db2",
         "type": "tabs",
         "children": [
           {
-            "id": "a664ecd9d2e22570",
+            "id": "4f1789e5d13d8147",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-22-트랜젝션.md",
+                "file": "_posts/2023-05-12_3Match_Grid2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3c10bde60a4212d9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
-          },
-          {
-            "id": "86008902bf059896",
+            "id": "aa94897914be3469",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-05-10-2- 3Match_Grid_Development.md",
+                "file": "_posts/2023-05-12_3Match_Grid2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-05-10-2- 3Match_Grid_Development.md",
+                "file": "_posts/2023-05-12_3Match_Grid2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-05-10-2- 3Match_Grid_Development.md",
+                "file": "_posts/2023-05-12_3Match_Grid2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-05-10-2- 3Match_Grid_Development.md"
+                "file": "_posts/2023-05-12_3Match_Grid2.md"
               }
             }
           }
@@ -177,15 +167,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "86008902bf059896",
+  "active": "aa94897914be3469",
   "lastOpenFiles": [
-    "_posts/2023-05-10-1- 3Match_Raycast_Development.md",
-    "_posts/2023-05-04-개발완료.md",
+    "assets/img/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif",
+    "_posts/2023-05-11_3Match_Merge.md",
     "_posts/2023-05-10-2- 3Match_Grid_Development.md",
+    "_posts/2023-05-10-1- 3Match_Raycast_Development.md",
+    "_posts/2023-05-12_3Match_Grid2.md",
+    "_posts/2023-05-04-개발완료.md",
     "_posts/2023-04-29-Unity_Object Pooling.md",
-    "_posts/2023-04-25-1-Unity_ObjectPooling.md",
     "_posts/2023-04-25-2-Game 5일차.md",
     "_posts/2023-04-26-Game 6일차.md",
+    "_posts/무제 파일.md",
+    "_posts/2023-03-22-트랜젝션.md",
+    "_posts/2023-04-25-1-Unity_ObjectPooling.md",
     "_posts/2023-03-23-정규화.md",
     "_posts/2023-03-27-Indexing.md",
     "_posts/2023-03-27-MSA.md",
@@ -200,11 +195,6 @@
     "_posts/2023-04-10-TypeScript 5.0 Support for export type `*`.md",
     "_posts/2023-04-10-Unity_Setting.md",
     "_posts/2023-04-12-Unity Game PM.md",
-    "_posts/2023-04-13-Unity_Time.deltaTime.md",
-    "_posts/2023-04-14-Game 기획.md",
-    "_posts/2023-04-16-1-Unity_Engine.md",
-    "_posts/2023-04-16-3-Unity_Game_Object.md",
-    "_posts/2023-04-16-6-Unity_texture 출력.md",
     "assets/img/posts/Slime 1.mov",
     "assets/img/posts/GamePT.key"
   ]

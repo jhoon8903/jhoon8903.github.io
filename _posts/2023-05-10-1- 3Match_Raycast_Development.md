@@ -1,12 +1,14 @@
-
 ---
-title: 3Match Laycast Proto Type
-category: unity
-author: "이정훈"
-tags: [unity, c#, game]
-img : https://i.imgur.com/9e68Cnv.gif
+title: 3 Match RayCast
+category: game
+author: 이정훈
+tags:
+  - game
+  - unity
+  - c#
+img: https://i.imgur.com/9e68Cnv.gif
 comments_disable: true
-meta_description: "Unity 3 Match Swipe"
+meta_description: 3 Match RayCast
 ---
 
 
