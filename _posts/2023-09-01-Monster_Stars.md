@@ -1,5 +1,5 @@
 ---
-title: Tutorial
+title: Monster_Stars
 category: unity
 author: 이정훈
 tags:
@@ -8,7 +8,7 @@ tags:
   - game
 img: https://i.imgur.com/M0cdKxz.gif
 comments_disable: true
-meta_description: Tutorial
+meta_description: Monster_Stars
 ---
 ![300](https://i.imgur.com/Ub6jGKe.png)
 
