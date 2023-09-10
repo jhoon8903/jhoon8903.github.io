@@ -1,11 +1,14 @@
 ---
 title: 3Match Grid Proto Type
-category: unity
-author: "이정훈"
-tags: [unity, c#, game]
-img : https://i.imgur.com/9e68Cnv.gif
+category: Unity
+author: 이정훈
+tags:
+  - unity
+  - c#
+  - game
+img: https://i.imgur.com/9e68Cnv.gif
 comments_disable: true
-meta_description: "Unity 3 Match Grid"
+meta_description: Unity 3 Match Grid
 ---
 
 # Unity로 3-Match 퍼즐의 그리드 생성하기
