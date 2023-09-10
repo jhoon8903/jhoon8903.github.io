@@ -6,12 +6,12 @@ tags:
   - unity
   - c#
   - game
-img: Screen Recording 2023-09-11 at 3.22.27 AM.gif
+img: https://i.imgur.com/3gbSK0f.gif
 comments_disable: true
 meta_description: 3 Match_Test Build
 ---
-![[Screen Recording 2023-09-11 at 3.22.27 AM.gif]]
-<!--Upload failed, remote server returned an error: File is over the size limit-->
+
+![](https://i.imgur.com/3gbSK0f.gif)
 
 
 3 Match 움직임 핵심 로직
