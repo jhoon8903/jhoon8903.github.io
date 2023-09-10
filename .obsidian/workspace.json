@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "d82b0b3cf3bdbb23",
+        "id": "c1772f7908ec85d1",
         "type": "tabs",
         "children": [
           {
-            "id": "8ae00dde268aca74",
+            "id": "a664ecd9d2e22570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-05-04-개발완료.md",
+                "file": "_posts/2023-03-22-트랜젝션.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c10bde60a4212d9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
+            "id": "86008902bf059896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-05-10-2- 3Match_Grid_Development.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-05-04-개발완료.md",
+                "file": "_posts/2023-05-10-2- 3Match_Grid_Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-05-04-개발완료.md",
+                "file": "_posts/2023-05-10-2- 3Match_Grid_Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-05-04-개발완료.md"
+                "file": "_posts/2023-05-10-2- 3Match_Grid_Development.md"
               }
             }
           }
@@ -154,35 +177,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8ae00dde268aca74",
+  "active": "86008902bf059896",
   "lastOpenFiles": [
-    "_posts/2023-04-26-Game 6일차.md",
-    "_posts/2023-04-29-Unity_Object Pooling.md",
+    "_posts/2023-05-10-1- 3Match_Raycast_Development.md",
     "_posts/2023-05-04-개발완료.md",
-    "_posts/2023-05-08-.md",
+    "_posts/2023-05-10-2- 3Match_Grid_Development.md",
+    "_posts/2023-04-29-Unity_Object Pooling.md",
+    "_posts/2023-04-25-1-Unity_ObjectPooling.md",
     "_posts/2023-04-25-2-Game 5일차.md",
-    "_posts/2023-04-23-게임개발 3일차 Climbing Game.md",
-    "_posts/2023-03-18-nGrinder 트러블슈팅.md",
-    "_posts/2022-12-17-Arrow-function.md",
-    "_posts/2022-12-12-Pyhton 풀스택 미니프로젝트 3.md",
-    "_posts/2022-12-10-Python 풀스택 미니프로젝트 2.md",
-    "_posts/2022-12-10-Python 풀스택 미니프로젝트 1.md",
-    "_posts/2022-12-05-Python 미니프로젝트.md",
-    "_posts/2022-11-25-java '변수와 상수'.md",
-    "_posts/2022-11-24-javascript 배열 'Array'.md",
-    "_posts/2022-11-22-Python 문법 'map','lambda','filter'.md",
-    "_posts/2022-11-21-Python 조건문_반복문.md",
-    "_posts/2022-11-21-Python 문법 f-string.md",
-    "_posts/2022-11-21-Python 문법 '예외처리'.md",
-    "_posts/2022-11-21-Python import.md",
-    "_posts/2022-11-20-Python 변수 선언과 자료형.md",
-    "_posts/2022-11-20-Python 문자열 다루기.md",
-    "_posts/2022-11-20-Python List와 Dictionary.md",
-    "_posts/2022-11-15-DB 개괄.md",
-    "_posts/2022-11-13-Python-jQuery.md",
-    "_posts/2022-11-14-Python 기초 1.md",
+    "_posts/2023-04-26-Game 6일차.md",
+    "_posts/2023-03-23-정규화.md",
+    "_posts/2023-03-27-Indexing.md",
+    "_posts/2023-03-27-MSA.md",
+    "_posts/2023-03-28-Dependency Injection.md",
+    "_posts/2023-04-01-Parameter_Argument.md",
+    "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
+    "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
+    "_posts/2023-04-06-TypeScript_5.0_const_Type Parameters.md",
+    "_posts/2023-04-07-TypeScript-5.0-Enums.md",
+    "_posts/2023-04-07-TypeScript-5.0-Multiple-Conf.md",
+    "_posts/2023-04-09-TypeScript 5.0 Resolution Customization Flags.md",
+    "_posts/2023-04-10-TypeScript 5.0 Support for export type `*`.md",
+    "_posts/2023-04-10-Unity_Setting.md",
+    "_posts/2023-04-12-Unity Game PM.md",
+    "_posts/2023-04-13-Unity_Time.deltaTime.md",
+    "_posts/2023-04-14-Game 기획.md",
+    "_posts/2023-04-16-1-Unity_Engine.md",
+    "_posts/2023-04-16-3-Unity_Game_Object.md",
+    "_posts/2023-04-16-6-Unity_texture 출력.md",
     "assets/img/posts/Slime 1.mov",
-    "assets/img/posts/GamePT.key",
-    "_posts/2023-04-25-1-Unity_ObjectPooling.md"
+    "assets/img/posts/GamePT.key"
   ]
 }
