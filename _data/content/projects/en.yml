@@ -30,11 +30,14 @@ page_data:
       img_title: "Monster_Stars"
       data: "2023-09-01"
       post: |
+        
         ### 프로젝트링크
         [Google Play Store](https://play.google.com/store/apps/details?id=com.towerdefense.spirit.legion)
         [Demo Video](https://youtu.be/NdrSlYbylhw)
         
-        ---
+        
+        ***
+        
         
         ### 프로젝트 소개
         
@@ -50,7 +53,8 @@ page_data:
   
         #### 게임은 Tile Match Merge, Rogue-like, Defense 요소가 결합된 미드코어 장르입니다.
         
-        ---
+        
+        ***
         
         
         ### Game Features
@@ -63,6 +67,8 @@ page_data:
         상점 시스템 : 부족한 재화는 광고시청 및 재화소비를 통한 상점에서 획득할 수 있습니다.
         전략구성 : 각 유닛은 고유의 특징을 가지고 있어, 다양한 조합을 통해 전략을 구성할 수 있습니다. 
         
+        
+        ***
         
         ### Technical Features
         
@@ -84,7 +90,11 @@ page_data:
           Reporter : 모바일 Reporter를 통해 빌드 상태의 버그 및 에러에 대한 디버깅
         
         
+        ***
+        
+        
         ### OverView
+        
         
         ![](https://i.imgur.com/zXNouI5.png)
         ![](https://i.imgur.com/tGVWqkM.jpg)
