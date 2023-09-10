@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-07-24-Language Setting.md",
+                "file": "_posts/2023-09-01-Monster_Stars.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-07-24-Language Setting.md",
+                "file": "_posts/2023-09-01-Monster_Stars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-07-24-Language Setting.md",
+                "file": "_posts/2023-09-01-Monster_Stars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-07-24-Language Setting.md"
+                "file": "_posts/2023-09-01-Monster_Stars.md"
               }
             }
           }
@@ -156,8 +156,10 @@
   },
   "active": "aa94897914be3469",
   "lastOpenFiles": [
-    "_posts/2023-07-07-Game Save && Load.md",
+    "_posts/2023-08-01-Tutorial.md",
+    "_posts/2023-09-01-Monster_Stars.md",
     "_posts/2023-07-24-Language Setting.md",
+    "_posts/2023-07-07-Game Save && Load.md",
     "_posts/2023-06-14-Status Effect.md",
     "assets/img/posts/Screen Recording 2023-09-11 at 4.20.55 AM.mov.gif",
     "_posts/2023-06-01-DetectEnemies.md",
@@ -184,8 +186,6 @@
     "_posts/2023-03-27-Indexing.md",
     "_posts/2023-03-27-MSA.md",
     "_posts/2023-03-28-Dependency Injection.md",
-    "_posts/2023-04-01-Parameter_Argument.md",
-    "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
     "assets/img/posts/Slime 1.mov",
     "assets/img/posts/GamePT.key"
   ]
