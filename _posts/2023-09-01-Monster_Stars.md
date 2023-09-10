@@ -13,17 +13,17 @@ meta_description: Tutorial
 ![300](https://i.imgur.com/Ub6jGKe.png)
 
 
-**Monster Stars - Merge Defense**   
+### **Monster Stars - Merge Defense**   
+---
 
 **개발** **기간** **: 2023.05.09 ~ 2023.09.08 (120 Days)**
 
 **기획** **: Action Fit** 
 
- **배포** **: Google Play ( Available in** **영국** **and** **필리핀** **)**  
+**배포** **: Google Play ( Available in** **영국** **and** **필리핀** **)**  
 
-  
-
-**Game Introduction**
+### **Game Introduction**
+---
 
 인간, 엘프, 드워프는 몬스터들의 성일 탐내며 침략하려 합니다. 
 
@@ -35,9 +35,10 @@ meta_description: Tutorial
 
 **게임은** **Tile Match Merge, Rogue-like, Defense** **요소가** **결합된** **미드코어** **장르입니다****.
 
-  
+---
 
-**Game Features** 
+### **Game Features** 
+---
 
 **Block Tile Match System** : 3, 4, 5, 특수 매치를 통해 몬스터를 레벨업 할 수 있습니다.
 
@@ -53,6 +54,7 @@ meta_description: Tutorial
 
 **전략구성** : 각 유닛은 고유의 특징을 가지고 있어, 다양한 조합을 통해 전략을 구성할 수 있습니다.
 
+---
 
 ![](https://i.imgur.com/zXNouI5.png)
 
