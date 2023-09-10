@@ -6,7 +6,7 @@ tags:
   - unity
   - c#
   - game
-img: https://i.imgur.com/fcGrcTI.gif
+img: https://i.imgur.com/87uT3wN.gif
 comments_disable: true
 meta_description: 3 Match_Merge
 ---
