@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ca4ca7cff06f6db2",
+        "id": "1836367ae7a00afa",
         "type": "tabs",
         "children": [
           {
-            "id": "aa94897914be3469",
+            "id": "b862b8bd9a92a95f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-01-Monster_Stars.md",
+                "file": "_posts/2023-0-12-Mathf_Class.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b4e3368dc89720de",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-12 19.42.44.excalidraw.md"
               }
             }
           }
@@ -77,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 472.5
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-01-Monster_Stars.md",
+                "file": "_posts/2023-0-12-Mathf_Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-01-Monster_Stars.md",
+                "file": "_posts/2023-0-12-Mathf_Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-01-Monster_Stars.md"
+                "file": "_posts/2023-0-12-Mathf_Class.md"
               }
             }
           }
@@ -151,13 +161,23 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6bb309b88021308",
+  "active": "b862b8bd9a92a95f",
   "lastOpenFiles": [
-    "_posts/2023-08-01-Tutorial.md",
+    "Excalidraw/Drawing 2023-09-12 19.42.44.excalidraw.md",
+    "_posts/2023-0-12-Mathf_Class.md",
+    "_posts/_Basic Template.md",
+    "_posts/−1,1.md",
+    "_posts/2023-04-18-2-Unity_{get; set;}_자동구현 Property.md",
+    "_posts/2023-05-13-Message&&BroadCasting.md",
+    "Excalidraw/Drawing 2023-09-12 18.12.46.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-12 17.56.58.excalidraw.md",
+    "Excalidraw",
     "_posts/2023-09-01-Monster_Stars.md",
+    "_posts/2023-08-01-Tutorial.md",
     "_posts/2023-07-24-Language Setting.md",
     "_posts/2023-07-07-Game Save && Load.md",
     "_posts/2023-06-14-Status Effect.md",
@@ -178,14 +198,6 @@
     "_posts/2023-05-04-개발완료.md",
     "_posts/2023-04-29-Unity_Object Pooling.md",
     "_posts/2023-04-25-2-Game 5일차.md",
-    "_posts/2023-04-26-Game 6일차.md",
-    "_posts/무제 파일.md",
-    "_posts/2023-03-22-트랜젝션.md",
-    "_posts/2023-04-25-1-Unity_ObjectPooling.md",
-    "_posts/2023-03-23-정규화.md",
-    "_posts/2023-03-27-Indexing.md",
-    "_posts/2023-03-27-MSA.md",
-    "_posts/2023-03-28-Dependency Injection.md",
     "assets/img/posts/Slime 1.mov",
     "assets/img/posts/GamePT.key"
   ]
