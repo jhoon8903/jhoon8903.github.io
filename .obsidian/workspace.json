@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-0-12-Mathf_Class.md",
+                "file": "_posts/2023-09-12-Mathf_Class.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b4e3368dc89720de",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-12 19.42.44.excalidraw.md"
               }
             }
           }
@@ -103,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-0-12-Mathf_Class.md",
+                "file": "_posts/2023-09-12-Mathf_Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-0-12-Mathf_Class.md",
+                "file": "_posts/2023-09-12-Mathf_Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-0-12-Mathf_Class.md"
+                "file": "_posts/2023-09-12-Mathf_Class.md"
               }
             }
           }
@@ -167,14 +157,15 @@
   },
   "active": "b862b8bd9a92a95f",
   "lastOpenFiles": [
+    "_posts/2023-09-12.md",
+    "Excalidraw/Drawing 2023-09-12 17.56.58.excalidraw.md",
+    "_posts/2023-09-12-Mathf_Class.md",
     "Excalidraw/Drawing 2023-09-12 19.42.44.excalidraw.md",
-    "_posts/2023-0-12-Mathf_Class.md",
     "_posts/_Basic Template.md",
     "_posts/−1,1.md",
     "_posts/2023-04-18-2-Unity_{get; set;}_자동구현 Property.md",
     "_posts/2023-05-13-Message&&BroadCasting.md",
     "Excalidraw/Drawing 2023-09-12 18.12.46.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-12 17.56.58.excalidraw.md",
     "Excalidraw",
     "_posts/2023-09-01-Monster_Stars.md",
     "_posts/2023-08-01-Tutorial.md",
@@ -197,7 +188,6 @@
     "assets/img/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif",
     "_posts/2023-05-04-개발완료.md",
     "_posts/2023-04-29-Unity_Object Pooling.md",
-    "_posts/2023-04-25-2-Game 5일차.md",
     "assets/img/posts/Slime 1.mov",
     "assets/img/posts/GamePT.key"
   ]
