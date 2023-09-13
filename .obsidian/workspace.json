@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-14-csharp_CS.md",
+                "file": "_posts/2023-09-14-UInity_CS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-14-csharp_CS.md",
+                "file": "_posts/2023-09-14-UInity_CS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-14-csharp_CS.md",
+                "file": "_posts/2023-09-14-UInity_CS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-14-csharp_CS.md"
+                "file": "_posts/2023-09-14-UInity_CS.md"
               }
             }
           }
@@ -157,10 +157,11 @@
   },
   "active": "b862b8bd9a92a95f",
   "lastOpenFiles": [
-    "_posts/2023-09-13-OnCollision.md",
     "_posts/2023-09-14-csharp_CS.md",
-    "_posts/2023-09-12-Mathf_Class.md",
+    "_posts/2023-09-14-UInity_CS.md",
     "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
+    "_posts/2023-09-13-OnCollision.md",
+    "_posts/2023-09-12-Mathf_Class.md",
     "_posts/2023-09-12.md",
     "Excalidraw/Drawing 2023-09-12 17.56.58.excalidraw.md",
     "Excalidraw/Drawing 2023-09-12 19.42.44.excalidraw.md",
@@ -186,7 +187,6 @@
     "assets/img/posts/Screen Recording 2023-09-11 at 3.07.25 AM.mov.gif",
     "_posts/2023-05-12-3Match_Grid2.md",
     "_posts/2023-05-11-3Match_Merge.md",
-    "_posts/2023-05-10-2- 3Match_Grid_Development.md",
     "assets/img/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif",
     "assets/img/posts/Slime 1.mov",
     "assets/img/posts/GamePT.key"
