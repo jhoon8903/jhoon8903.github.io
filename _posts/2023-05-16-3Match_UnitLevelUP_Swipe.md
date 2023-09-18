@@ -1,6 +1,6 @@
 ---
 title: 3 Match Char LevelUp && Swipe
-category: unity
+category: Unity
 author: 이정훈
 tags:
   - unity

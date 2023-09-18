@@ -1,6 +1,6 @@
 ---
 title: Status Effect
-category: unity
+category: Unity
 author: 이정훈
 tags:
   - unity

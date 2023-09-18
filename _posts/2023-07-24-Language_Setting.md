@@ -1,6 +1,6 @@
 ---
 title: Language Setting
-category: unity
+category: Unity
 author: 이정훈
 tags:
   - unity
