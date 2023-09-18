@@ -1,11 +1,12 @@
 ---
 title: Unity Interface
-category: unity
-author: "이정훈"
-tags: [unity]
-img : https://i.imgur.com/GKBP5x7.png
+category: Unity
+author: 이정훈
+tags:
+  - unity
+img: https://i.imgur.com/GKBP5x7.png
 comments_disable: true
-meta_description: "Unity 기본 Interface"
+meta_description: Unity 기본 Interface
 ---
 
 

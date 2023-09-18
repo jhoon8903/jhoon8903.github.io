@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-14-UInity_CS.md",
+                "file": "_posts/2023-03-27-Indexing.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.5
+    "width": 439.5
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-14-UInity_CS.md",
+                "file": "_posts/2023-03-27-Indexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-14-UInity_CS.md",
+                "file": "_posts/2023-03-27-Indexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-14-UInity_CS.md"
+                "file": "_posts/2023-03-27-Indexing.md"
+              }
+            }
+          },
+          {
+            "id": "dca2fe0f72683358",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -157,36 +167,36 @@
   },
   "active": "b862b8bd9a92a95f",
   "lastOpenFiles": [
-    "_posts/2023-09-14-csharp_CS.md",
-    "_posts/2023-09-14-UInity_CS.md",
+    "_posts/2023-03-27-MSA.md",
+    "_posts/2023-03-28-Dependency Injection.md",
+    "_posts/2023-04-01-Parameter_Argument.md",
     "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
-    "_posts/2023-09-13-OnCollision.md",
-    "_posts/2023-09-12-Mathf_Class.md",
-    "_posts/2023-09-12.md",
-    "Excalidraw/Drawing 2023-09-12 17.56.58.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-12 19.42.44.excalidraw.md",
-    "_posts/_Basic Template.md",
-    "_posts/−1,1.md",
+    "_posts/2023-04-10-TypeScript 5.0 Support for export type `*`.md",
+    "_posts/2023-04-10-Unity_Setting.md",
+    "_posts/2023-04-12-Unity Game PM.md",
+    "_posts/2023-04-13-Unity_Time.deltaTime.md",
+    "_posts/2023-04-14-Game 기획.md",
+    "_posts/2023-04-14-Unity_GetButton.md",
+    "_posts/2023-04-16-1-Unity_Engine.md",
+    "_posts/2023-04-16-2-Unity_좌표_체계.md",
+    "_posts/2023-04-16-3-Unity_Game_Object.md",
+    "_posts/2023-04-16-4-Unity_Camera.md",
+    "_posts/2023-04-16-5-Unity_Light.md",
+    "_posts/2023-04-16-6-Unity_texture 출력.md",
+    "_posts/2023-04-16-7-Unity_Script.md",
+    "_posts/2023-04-17-1-Unity_SerializeField.md",
+    "_posts/2023-04-18-1-Unity_Attribute.md",
     "_posts/2023-04-18-2-Unity_{get; set;}_자동구현 Property.md",
-    "_posts/2023-05-13-Message&&BroadCasting.md",
-    "Excalidraw/Drawing 2023-09-12 18.12.46.excalidraw.md",
+    "_posts/2023-04-21-Game기획3.md",
+    "_posts/2023-04-23-게임개발 3일차 Climbing Game.md",
+    "_posts/2023-04-25-1-Unity_ObjectPooling.md",
+    "_posts/2023-04-25-2-Game 5일차.md",
+    "_posts/2023-04-26-Game 6일차.md",
+    "_posts/2023-04-29-Unity_Object Pooling.md",
     "Excalidraw",
-    "_posts/2023-09-01-Monster_Stars.md",
-    "_posts/2023-08-01-Tutorial.md",
-    "_posts/2023-07-24-Language Setting.md",
-    "_posts/2023-07-07-Game Save && Load.md",
-    "_posts/2023-06-14-Status Effect.md",
     "assets/img/posts/Screen Recording 2023-09-11 at 4.20.55 AM.mov.gif",
-    "_posts/2023-06-01-DetectEnemies.md",
-    "_posts/2023-05-22-3Match_TestBuild.md",
-    "_posts/2023-05-18-3Match_Merge.md",
-    "_posts/2023-05-16-3Match_UnitLevelUP_Swipe.md",
-    "_posts/2023-05-17-3Match_Respawn_motion.md",
-    "_posts/2023-05-15-3Match_ReSpawn.md",
     "assets/img/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",
     "assets/img/posts/Screen Recording 2023-09-11 at 3.07.25 AM.mov.gif",
-    "_posts/2023-05-12-3Match_Grid2.md",
-    "_posts/2023-05-11-3Match_Merge.md",
     "assets/img/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif",
     "assets/img/posts/Slime 1.mov",
     "assets/img/posts/GamePT.key"

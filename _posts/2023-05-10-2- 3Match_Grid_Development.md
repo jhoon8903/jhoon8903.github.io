@@ -4,7 +4,6 @@ category: Unity
 author: 이정훈
 tags:
   - unity
-  - c#
   - game
 img: https://i.imgur.com/9e68Cnv.gif
 comments_disable: true

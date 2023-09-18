@@ -5,7 +5,6 @@ author: 이정훈
 tags:
   - game
   - unity
-  - c#
 img: https://i.imgur.com/9e68Cnv.gif
 comments_disable: true
 meta_description: 3 Match RayCast

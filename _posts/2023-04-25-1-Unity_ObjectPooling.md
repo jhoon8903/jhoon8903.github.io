@@ -1,11 +1,13 @@
 ---
 title: 게임 개발 5일차 Unity ObjectPooling 트러블
-category: unity
-author: "이정훈"
-tags: [unity, c#, game]
-img : https://i.imgur.com/BijPhE7.png
+category: Unity
+author: 이정훈
+tags:
+  - unity
+  - game
+img: https://i.imgur.com/BijPhE7.png
 comments_disable: true
-meta_description: "Unity ObjectPooling 트러블"
+meta_description: Unity ObjectPooling 트러블
 ---
 
 ## Object Polling 최적화

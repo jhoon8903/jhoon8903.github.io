@@ -5,7 +5,6 @@ author: 이정훈
 tags:
   - unity
   - game
-  - c#
 img: https://i.imgur.com/nkZIvoY.gif
 comments_disable: true
 meta_description: 3 Match Merge

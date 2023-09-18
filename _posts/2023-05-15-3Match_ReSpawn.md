@@ -1,10 +1,9 @@
 ---
 title: 3 Match ReSpawn
-category: unity
+category: Unity
 author: 이정훈
 tags:
   - unity
-  - c#
   - game
 img: https://i.imgur.com/MdX9wST.gif
 comments_disable: true
