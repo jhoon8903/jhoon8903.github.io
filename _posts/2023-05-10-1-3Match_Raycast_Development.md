@@ -36,8 +36,6 @@ private Vector3 originalScale;
   
 private void Update()  
 {  
-//if (EventSystem.current.IsPointerOverGameObject()) return;  
-  
 	if (Input.GetMouseButtonDown(0))  
 	{  
 		Vector3 MousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);  
