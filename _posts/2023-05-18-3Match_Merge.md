@@ -1,5 +1,5 @@
 ---
-title: 3 Match_Merge
+title: Match_Merge
 category: Unity
 author: 이정훈
 tags:
