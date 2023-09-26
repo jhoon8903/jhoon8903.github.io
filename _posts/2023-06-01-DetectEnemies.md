@@ -9,6 +9,7 @@ img: https://i.imgur.com/0u72cd4.gif
 comments_disable: true
 meta_description: DetectEnemies
 ---
+
 |Gizmo|Action|
 |:--:|:--:|
 |![300](https://i.imgur.com/pWJd6gP.png)|![](https://i.imgur.com/0u72cd4.gif)|

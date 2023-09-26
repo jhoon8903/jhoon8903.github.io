@@ -8,8 +8,6 @@ img: https://i.imgur.com/NCdrbmb.gif
 comments_disable: true
 meta_description: Utniy_Space 공간
 ---
----
-
 # Unity Coordinate System
 
 - 3D 공간에 배치하는 3D 오브젝트는 좌표(Coordinate)를 가짐

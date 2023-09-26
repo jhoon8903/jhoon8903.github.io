@@ -10,6 +10,7 @@ comments_disable: true
 meta_description: Status Effect
 ---
 
+
 ![](https://i.imgur.com/jah0mIQ.gif)
 ## Enemy Status Effect 
 

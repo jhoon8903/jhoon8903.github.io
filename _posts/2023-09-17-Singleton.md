@@ -4,9 +4,9 @@ category: Unity
 author: 이정훈
 tags:
   - unity
-img: 
+img: https://i.imgur.com/vAnJH6G.png
 comments_disable: true
-meta_description: ""
+meta_description: Unity Singleton
 ---
 
 # Singleton 

@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3b1b9986694291e2",
+        "id": "ee09123f73add53f",
         "type": "tabs",
         "children": [
           {
-            "id": "bf592e9266e16f4a",
+            "id": "ad8e18c91fd77a19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-09-16-Unity_유한상태머신.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c1eefed7bee7133",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-09-17-Singleton.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-17-Singleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-17-Singleton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-09-17-Singleton.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,34 +157,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c1eefed7bee7133",
+  "active": "ad8e18c91fd77a19",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-23 08.04.30.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-23 06.50.00.excalidraw.md",
-    "_posts/2023-09-17-Singleton.md",
     "_posts/2023-09-16-Unity_유한상태머신.md",
-    "_posts/2023-09-15-Unity_Space.md",
-    "_posts/2023-09-14-UInity_CS.md",
-    "_posts/2023-09-14-csharp_CS.md",
-    "_posts/2023-09-13-OnCollision.md",
-    "_posts/2023-09-01-Monster_Stars.md",
-    "_posts/2023-08-01-Tutorial.md",
-    "_posts/2023-07-24-Language_Setting.md",
-    "_posts/2023-07-07-Save_Load.md",
-    "_posts/2023-06-01-DetectEnemies.md",
-    "_posts/2023-05-22-3Match_TestBuild.md",
-    "_posts/2023-05-18-3Match_Merge.md",
-    "_posts/2023-05-16-3Match_UnitLevelUP_Swipe.md",
-    "_posts/2023-05-11-3Match_Merge.md",
+    "_posts/2023-09-19-Unity Cinemachine.md",
+    "_posts/2023-04-13-Unity_Time.deltaTime.md",
+    "_posts/2023-04-14-Game 기획.md",
+    "_posts/2023-04-14-Unity_GetButton.md",
+    "_posts/2023-04-16-1-Unity_Engine.md",
+    "_posts/2023-04-16-3-Unity_Game_Object.md",
+    "_posts/2023-04-16-5-Unity_Light.md",
+    "_posts/2023-04-16-7-Unity_Script.md",
+    "_posts/2023-04-17-1-Unity_SerializeField.md",
+    "_posts/2023-04-18-1-Unity_Attribute.md",
+    "_posts/2023-04-18-2-Unity_{get; set;}_자동구현 Property.md",
+    "_posts/2023-04-21-Game기획3.md",
+    "_posts/2023-04-23-게임개발 3일차 Climbing Game.md",
+    "_posts/2023-04-25-1-Unity_ObjectPooling.md",
+    "_posts/2023-04-25-2-Game 5일차.md",
+    "_posts/2023-04-26-Game 6일차.md",
+    "_posts/2023-04-29-Unity_Object Pooling.md",
+    "_posts/2023-05-04-개발완료.md",
     "_posts/2023-05-10-1-3Match_Raycast_Development.md",
     "_posts/2023-05-10-2-3Match_Grid_Development.md",
-    "_posts/2023-05-04-개발완료.md",
-    "_posts/2023-04-26-Game 6일차.md",
-    "_posts/2023-04-25-1-Unity_ObjectPooling.md",
-    "_posts/2023-04-23-게임개발 3일차 Climbing Game.md",
-    "_posts/2023-04-21-Game기획3.md",
-    "_posts/2023-04-18-2-Unity_{get; set;}_자동구현 Property.md",
-    "_posts/2023-04-18-1-Unity_Attribute.md",
+    "_posts/2023-05-11-3Match_Merge.md",
+    "_posts/2023-05-12-3Match_Grid2.md",
+    "_posts/2023-05-13-Message_BroadCasting.md",
+    "_posts/2023-05-15-3Match_ReSpawn.md",
+    "_posts/2023-05-16-3Match_UnitLevelUP_Swipe.md",
     "Excalidraw",
     "assets/img/posts/Screen Recording 2023-09-11 at 4.20.55 AM.mov.gif",
     "assets/img/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",
