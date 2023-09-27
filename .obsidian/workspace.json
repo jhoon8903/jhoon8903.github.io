@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "76c75deb445ee134",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +168,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad8e18c91fd77a19",
+  "active": "76c75deb445ee134",
   "lastOpenFiles": [
     "_posts/2023-09-16-Unity_유한상태머신.md",
     "_posts/2023-09-19-Unity Cinemachine.md",
