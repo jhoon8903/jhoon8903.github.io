@@ -11,22 +11,15 @@
             "id": "ad8e18c91fd77a19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "76c75deb445ee134",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "_posts/2023-09-20-PostProcessing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-09-20-PostProcessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-09-20-PostProcessing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-09-20-PostProcessing.md"
+              }
             }
           },
           {
@@ -168,8 +165,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76c75deb445ee134",
+  "active": "ad8e18c91fd77a19",
   "lastOpenFiles": [
+    "_posts/().md",
+    "_posts/2023-09-20-PostProcessing.md",
     "_posts/2023-09-16-Unity_유한상태머신.md",
     "_posts/2023-09-19-Unity Cinemachine.md",
     "_posts/2023-04-13-Unity_Time.deltaTime.md",
@@ -194,8 +193,6 @@
     "_posts/2023-05-11-3Match_Merge.md",
     "_posts/2023-05-12-3Match_Grid2.md",
     "_posts/2023-05-13-Message_BroadCasting.md",
-    "_posts/2023-05-15-3Match_ReSpawn.md",
-    "_posts/2023-05-16-3Match_UnitLevelUP_Swipe.md",
     "Excalidraw",
     "assets/img/posts/Screen Recording 2023-09-11 at 4.20.55 AM.mov.gif",
     "assets/img/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",
