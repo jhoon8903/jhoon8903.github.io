@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-15-Unity_Space.md",
+                "file": "_posts/2023-09-26-Legacy_Animation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-15-Unity_Space.md",
+                "file": "_posts/2023-09-26-Legacy_Animation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-15-Unity_Space.md",
+                "file": "_posts/2023-09-26-Legacy_Animation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-15-Unity_Space.md"
+                "file": "_posts/2023-09-26-Legacy_Animation.md"
               }
             }
           },
@@ -167,32 +167,33 @@
   },
   "active": "ad8e18c91fd77a19",
   "lastOpenFiles": [
+    "_posts/2023-09-25-Vector3_Rotate.md",
+    "assets/img/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov 1.gif",
+    "assets/img/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov.gif",
+    "_posts/2023-09-26-Legacy_Animation.md",
+    "_posts/2023-09-18-Illumination.md",
+    "_posts/2023-09-19-Unity Cinemachine.md",
+    "_posts/2023-09-24-Vector3_move.md",
     "_posts/2023-09-23-Sky.md",
+    "_posts/2023-04-13-Unity_Time.deltaTime.md",
+    "_posts/_Basic Template.md",
+    "_posts/().md",
+    "_posts/2023-09-15-Unity_Space.md",
+    "_posts/2023-09-14-UInity_CS.md",
+    "_posts/2023-09-14-csharp_CS.md",
+    "_posts/2023-09-13-OnCollision.md",
+    "_posts/2023-09-12-Mathf_Class.md",
+    "_posts/2023-07-24-Language_Setting.md",
+    "_posts/2023-07-07-Save_Load.md",
+    "_posts/2023-04-16-2-Unity_좌표_체계.md",
+    "_posts/2023-04-16-1-Unity_Engine.md",
+    "_posts/2023-04-25-1-Unity_ObjectPooling.md",
+    "_posts/2023-04-29-Unity_Object Pooling.md",
     "_posts/2023-09-24-개발방식.md",
     "_posts/2023-09-22-Rendering Mode.md",
     "_posts/2023-09-21-Unity Texture.md",
     "_posts/2023-09-20-PostProcessing.md",
-    "_posts/().md",
     "_posts/2023-09-16-Unity_유한상태머신.md",
-    "_posts/2023-09-19-Unity Cinemachine.md",
-    "_posts/2023-04-13-Unity_Time.deltaTime.md",
-    "_posts/2023-04-14-Game 기획.md",
-    "_posts/2023-04-14-Unity_GetButton.md",
-    "_posts/2023-04-16-1-Unity_Engine.md",
-    "_posts/2023-04-16-3-Unity_Game_Object.md",
-    "_posts/2023-04-16-5-Unity_Light.md",
-    "_posts/2023-04-16-7-Unity_Script.md",
-    "_posts/2023-04-17-1-Unity_SerializeField.md",
-    "_posts/2023-04-18-1-Unity_Attribute.md",
-    "_posts/2023-04-18-2-Unity_{get; set;}_자동구현 Property.md",
-    "_posts/2023-04-21-Game기획3.md",
-    "_posts/2023-04-23-게임개발 3일차 Climbing Game.md",
-    "_posts/2023-04-25-1-Unity_ObjectPooling.md",
-    "_posts/2023-04-25-2-Game 5일차.md",
-    "_posts/2023-04-26-Game 6일차.md",
-    "_posts/2023-04-29-Unity_Object Pooling.md",
-    "_posts/2023-05-04-개발완료.md",
-    "_posts/2023-05-10-1-3Match_Raycast_Development.md",
     "Excalidraw",
     "assets/img/posts/Screen Recording 2023-09-11 at 4.20.55 AM.mov.gif",
     "assets/img/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",
