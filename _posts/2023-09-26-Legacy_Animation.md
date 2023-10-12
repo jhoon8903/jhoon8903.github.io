@@ -4,7 +4,7 @@ category: Unity
 author: 이정훈
 tags:
   - unity
-img: 
+img: https://i.imgur.com/rtTIPZs.png
 comments_disable: true
 meta_description: Unity Legacy Animation
 ---
