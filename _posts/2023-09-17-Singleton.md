@@ -24,7 +24,9 @@ meta_description: Unity Singleton
 - 게임 매니저 오브젝트는 단 하나만 존재
 - 어떤 곳에서고 손쉽게 게임 매니저 오브젝트에 접근 가능
 
+
 ---
+
 
 # Static
 
