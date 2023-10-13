@@ -4,7 +4,7 @@ category: Unity
 author: 이정훈
 tags:
   - unity
-img: 
+img: https://blog.kakaocdn.net/dn/dlzqNK/btqMVDwWBFS/65yM1KLhiACMTjth5kbSDK/img.gif
 comments_disable: true
 meta_description: Unity Quaternion
 ---

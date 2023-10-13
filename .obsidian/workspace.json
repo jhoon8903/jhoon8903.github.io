@@ -11,8 +11,12 @@
             "id": "ff29e0a495ce4a17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-09-20-PostProcessing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5,
-    "collapsed": true
+    "width": 439.5
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-09-20-PostProcessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-09-20-PostProcessing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-09-20-PostProcessing.md"
+              }
             }
           },
           {
@@ -160,6 +167,7 @@
   },
   "active": "ff29e0a495ce4a17",
   "lastOpenFiles": [
+    "_posts/2023-10-05-Quaternion.md",
     "_posts/2023-10-10-Navigation.md",
     "_posts/2023-10-09-FSM2.md",
     "assets/img/posts/Screen Recording 2023-10-13 at 8.28.47 PM.mov.gif",
@@ -174,7 +182,6 @@
     "_posts/2023-10-08-Coroutine.md",
     "_posts/2023-09-16-Unity_유한상태머신.md",
     "_posts/2023-10-06-OverLap.md",
-    "_posts/2023-10-05-Quaternion.md",
     "_posts/2023-10-04-Crush Point.md",
     "_posts/2023-10-03-Trail_Renderer.md",
     "_posts/2023-10-02-Collider.md",
