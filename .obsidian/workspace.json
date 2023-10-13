@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1eda6ce9e893161a",
+        "id": "6399f22efff72790",
         "type": "tabs",
         "children": [
           {
-            "id": "3c47ca5053ea9443",
+            "id": "ff29e0a495ce4a17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-09-16-Unity_유한상태머신.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-16-Unity_유한상태머신.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-16-Unity_유한상태머신.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-09-16-Unity_유한상태머신.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,10 +158,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c47ca5053ea9443",
+  "active": "ff29e0a495ce4a17",
   "lastOpenFiles": [
-    "_posts/2023-10-08-Coroutine.md",
+    "_posts/2023-10-10-Navigation.md",
+    "_posts/2023-10-09-FSM2.md",
+    "assets/img/posts/Screen Recording 2023-10-13 at 8.28.47 PM.mov.gif",
+    "assets/img/posts/Screen Recording 2023-10-13 at 8.28.10 PM.mov",
+    "assets/img/posts/Screen Recording 2023-10-13 at 8.18.32 PM.mov",
+    "_posts/2023-09-26-Legacy_Animation.md",
+    "_posts/Legacy.md",
+    "_posts/[.md",
+    "_posts/2023-02-02-NEST JS 트러블 슈팅.md",
+    "_posts/2023-07-07-Save_Load.md",
     "_posts/2023-10-07-Audio.md",
+    "_posts/2023-10-08-Coroutine.md",
+    "_posts/2023-09-16-Unity_유한상태머신.md",
     "_posts/2023-10-06-OverLap.md",
     "_posts/2023-10-05-Quaternion.md",
     "_posts/2023-10-04-Crush Point.md",
@@ -179,20 +183,12 @@
     "_posts/2023-09-29-Lerp_Slerp.md",
     "_posts/2023-09-28-Level of Detail.md",
     "_posts/2023-09-27-Shadow.md",
-    "_posts/2023-09-26-Legacy_Animation.md",
     "_posts/2023-09-25-Vector3_Rotate.md",
     "_posts/2023-09-24-Vector3_move.md",
     "_posts/2023-09-23-Sky.md",
     "_posts/2023-09-22-Rendering Mode.md",
     "_posts/2023-09-21-Unity Texture.md",
     "_posts/2023-09-20-PostProcessing.md",
-    "_posts/2023-09-19-Unity Cinemachine.md",
-    "_posts/2023-09-18-Illumination.md",
-    "_posts/2023-09-17-Singleton.md",
-    "_posts/2023-09-16-Unity_유한상태머신.md",
-    "_posts/2023-09-15-Unity_Space.md",
-    "_posts/2023-09-14-UInity_CS.md",
-    "_posts/2023-09-14-csharp_CS.md",
     "assets/img/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov 1.gif",
     "assets/img/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov.gif",
     "Excalidraw",
