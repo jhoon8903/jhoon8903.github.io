@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-08-Coroutine.md",
+                "file": "_posts/2023-09-16-Unity_유한상태머신.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-08-Coroutine.md",
+                "file": "_posts/2023-09-16-Unity_유한상태머신.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-08-Coroutine.md",
+                "file": "_posts/2023-09-16-Unity_유한상태머신.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-08-Coroutine.md"
+                "file": "_posts/2023-09-16-Unity_유한상태머신.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "3c47ca5053ea9443",
   "lastOpenFiles": [
+    "_posts/2023-10-08-Coroutine.md",
     "_posts/2023-10-07-Audio.md",
     "_posts/2023-10-06-OverLap.md",
     "_posts/2023-10-05-Quaternion.md",
@@ -192,7 +193,6 @@
     "_posts/2023-09-15-Unity_Space.md",
     "_posts/2023-09-14-UInity_CS.md",
     "_posts/2023-09-14-csharp_CS.md",
-    "_posts/2023-09-13-OnCollision.md",
     "assets/img/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov 1.gif",
     "assets/img/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov.gif",
     "Excalidraw",
