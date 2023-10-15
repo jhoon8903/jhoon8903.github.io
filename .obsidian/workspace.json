@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dd6695623147bc69",
+        "id": "e60ff8367283ba9f",
         "type": "tabs",
         "children": [
           {
-            "id": "610b5bc31d8e57ed",
+            "id": "0794ff8e4330e487",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-14-다중함수호출_메세지.md",
+                "file": "_posts/2023-10-16-PlayerPrefs.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-14-다중함수호출_메세지.md",
+                "file": "_posts/2023-10-16-PlayerPrefs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-14-다중함수호출_메세지.md",
+                "file": "_posts/2023-10-16-PlayerPrefs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-14-다중함수호출_메세지.md"
+                "file": "_posts/2023-10-16-PlayerPrefs.md"
               }
             }
           },
@@ -166,11 +166,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "610b5bc31d8e57ed",
+  "active": "0794ff8e4330e487",
   "lastOpenFiles": [
+    "_posts/2023-10-15-2-Script-Btn-Event.md",
+    "_posts/2023-10-16-PlayerPrefs.md",
+    "_posts/2023-10-15-1-UI-Anchor Preset.md",
+    "_posts/2023-10-14-2-UI.md",
+    "_posts/2023-10-14-1-다중함수호출_메세지.md",
     "_posts/2023-10-13-Bone_Structure_Optimization.md",
     "_posts/2023-10-12-문자열 보간.md",
-    "_posts/2023-10-14-다중함수호출_메세지.md",
     "_posts/2023-10-11-Resource_Folder.md",
     "_posts/2023-10-10-Navigation.md",
     "_posts/2023-09-30-RigidBody.md",
@@ -193,10 +197,6 @@
     "_posts/2023-10-03-Trail_Renderer.md",
     "_posts/2023-10-02-Collider.md",
     "_posts/2023-10-01-Physics Manager.md",
-    "_posts/2023-09-29-Lerp_Slerp.md",
-    "_posts/2023-09-28-Level of Detail.md",
-    "_posts/2023-09-27-Shadow.md",
-    "_posts/2023-09-25-Vector3_Rotate.md",
     "assets/img/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov 1.gif",
     "assets/img/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov.gif",
     "Excalidraw",
