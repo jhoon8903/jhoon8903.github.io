@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e60ff8367283ba9f",
+        "id": "b18c09f6cc6d64c9",
         "type": "tabs",
         "children": [
           {
-            "id": "0794ff8e4330e487",
+            "id": "1fb20110d61f6a6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
+                "file": "_posts/2023-10-16-6-Light Probe.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
+                "file": "_posts/2023-10-16-6-Light Probe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
+                "file": "_posts/2023-10-16-6-Light Probe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-03-WAS, Web Server, Nest JS.md"
+                "file": "_posts/2023-10-16-6-Light Probe.md"
               }
             }
           },
@@ -165,34 +166,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0794ff8e4330e487",
+  "active": "1fb20110d61f6a6c",
   "lastOpenFiles": [
-    "_posts/2023-04-04-TypeScript_추가된 내용.md",
+    "assets/img/posts/Screen Recording 2023-10-16 at 11.38.14 PM.mov.gif",
+    "_posts/2023-10-16-5-Light_Mapping.md",
+    "_posts/2023-10-16-6-Light Probe.md",
+    "_posts/[.md",
+    "_posts/2023-03-27-Indexing.md",
+    "_posts/2023-03-27-MSA.md",
+    "_posts/2023-03-28-Dependency Injection.md",
+    "_posts/2023-04-01-Parameter_Argument.md",
     "_posts/2023-04-06-TypeScript_5.0_const_Type Parameters.md",
-    "_posts/2023-04-07-TypeScript-5.0-Multiple-Conf.md",
-    "_posts/2023-04-09-TypeScript 5.0 Resolution Customization Flags.md",
-    "_posts/2023-04-10-TypeScript 5.0 Support for export type `*`.md",
-    "_posts/2023-04-10-Unity_Setting.md",
     "_posts/2023-04-12-Unity Game PM.md",
-    "_posts/2023-04-13-Unity_Time.deltaTime.md",
-    "_posts/2023-09-28-Level of Detail.md",
-    "_posts/2023-09-29-Lerp_Slerp.md",
-    "_posts/2023-09-27-Shadow.md",
-    "_posts/2023-09-26-Legacy_Animation.md",
-    "_posts/2023-09-25-Vector3_Rotate.md",
-    "_posts/2023-09-24-Vector3_move.md",
-    "_posts/2023-09-23-Sky.md",
+    "_posts/2023-04-14-Game 기획.md",
     "_posts/2023-09-22-Rendering Mode.md",
-    "_posts/2023-09-21-Unity Texture.md",
-    "_posts/2023-09-20-PostProcessing.md",
-    "_posts/2023-09-19-Unity Cinemachine.md",
-    "_posts/2023-09-18-Illumination.md",
-    "_posts/2023-09-17-Singleton.md",
-    "_posts/2023-09-16-Unity_유한상태머신.md",
-    "_posts/2023-09-14-UInity_CS.md",
-    "_posts/2023-09-13-OnCollision.md",
-    "_posts/2023-09-12-Mathf_Class.md",
-    "_posts/2023-09-14-csharp_CS.md",
+    "_posts/2023-09-25-Vector3_Rotate.md",
+    "_posts/자원 Resource.md",
+    "_posts/2023-01-01-REST API (Resource).md",
+    "_posts/2022-12-31-REST API.md",
+    "_posts/2022-12-30-Express Middleware.md",
+    "_posts/2022-12-23-NPM.md",
+    "_posts/2022-12-22-데이터의 종속성과 중복성.md",
+    "_posts/2022-12-21-Class.md",
+    "_posts/2022-12-20-프로세스와 스레드.md",
+    "_posts/2022-12-20-객체리터럴.md",
+    "_posts/2022-12-19-객체지향-OOP.md",
+    "_posts/2022-12-16-JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?.md",
+    "_posts/2022-12-10-Python 풀스택 미니프로젝트 2.md",
+    "_posts/2022-12-07-Python 미니프로젝트 3.md",
     "assets/img/posts/Screen Recording 2023-10-13 at 8.28.47 PM.mov.gif",
     "assets/img/posts/Screen Recording 2023-10-13 at 8.28.10 PM.mov",
     "assets/img/posts/Screen Recording 2023-10-13 at 8.18.32 PM.mov",
