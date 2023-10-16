@@ -1,6 +1,6 @@
 ---
 title: Unity Level of Detail
-category: Unity Level of Detail
+category: Unity
 author: 이정훈
 tags:
   - unity
@@ -8,6 +8,7 @@ img: https://i.imgur.com/Ii9S3xT.png
 comments_disable: true
 meta_description: Unity Level of Detail
 ---
+
 
 ![](https://i.imgur.com/reEf0SO.jpg)
 
