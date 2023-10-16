@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-16-6-Light Probe.md",
+                "file": "_posts/2023-10-17-csharp_CLR.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-16-6-Light Probe.md",
+                "file": "_posts/2023-10-17-csharp_CLR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-16-6-Light Probe.md",
+                "file": "_posts/2023-10-17-csharp_CLR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-16-6-Light Probe.md"
+                "file": "_posts/2023-10-17-csharp_CLR.md"
               }
             }
           },
@@ -168,9 +168,10 @@
   },
   "active": "1fb20110d61f6a6c",
   "lastOpenFiles": [
+    "_posts/2023-10-16-6-Light Probe.md",
+    "_posts/2023-10-17-csharp_CLR.md",
     "assets/img/posts/Screen Recording 2023-10-16 at 11.38.14 PM.mov.gif",
     "_posts/2023-10-16-5-Light_Mapping.md",
-    "_posts/2023-10-16-6-Light Probe.md",
     "_posts/[.md",
     "_posts/2023-03-27-Indexing.md",
     "_posts/2023-03-27-MSA.md",

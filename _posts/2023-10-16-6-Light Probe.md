@@ -4,7 +4,7 @@ category: Unity
 author: 이정훈
 tags:
   - unity
-img: Screen Recording 2023-10-16 at 11.38.14 PM.mov.gif
+img: https://i.imgur.com/xKT92Ud.gif
 comments_disable: true
 meta_description: Unity Light Probe 라이트 프로브
 ---
@@ -38,8 +38,7 @@ meta_description: Unity Light Probe 라이트 프로브
 |Select All|현재 Scene View에 있는 모든 Light Probe를 선택한다|
 |Duplicate Selected|선택된 Light Probe를 복제<br>여러개를 복제할 수 있다|
 
-![[Screen Recording 2023-10-16 at 11.38.14 PM.mov.gif]]
-
+![](https://i.imgur.com/xKT92Ud.gif)
 ## Anchor Override
 
 ![](https://i.imgur.com/WKYzkGx.jpg)
