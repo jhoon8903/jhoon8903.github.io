@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-17-csharp_CLR.md",
+                "file": "_posts/2023-10-17-4-Input System.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-17-csharp_CLR.md",
+                "file": "_posts/2023-10-17-4-Input System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-17-csharp_CLR.md",
+                "file": "_posts/2023-10-17-4-Input System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-17-csharp_CLR.md"
+                "file": "_posts/2023-10-17-4-Input System.md"
               }
             }
           },
@@ -168,8 +168,11 @@
   },
   "active": "1fb20110d61f6a6c",
   "lastOpenFiles": [
+    "_posts/2023-10-17-3-Occlusion Culling.md",
+    "_posts/2023-10-17-2-Scene Manage.md",
+    "_posts/2023-10-17-4-Input System.md",
+    "_posts/2023-10-17-1-csharp_CLR.md",
     "_posts/2023-10-16-6-Light Probe.md",
-    "_posts/2023-10-17-csharp_CLR.md",
     "assets/img/posts/Screen Recording 2023-10-16 at 11.38.14 PM.mov.gif",
     "_posts/2023-10-16-5-Light_Mapping.md",
     "_posts/[.md",
@@ -192,9 +195,6 @@
     "_posts/2022-12-20-프로세스와 스레드.md",
     "_posts/2022-12-20-객체리터럴.md",
     "_posts/2022-12-19-객체지향-OOP.md",
-    "_posts/2022-12-16-JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?.md",
-    "_posts/2022-12-10-Python 풀스택 미니프로젝트 2.md",
-    "_posts/2022-12-07-Python 미니프로젝트 3.md",
     "assets/img/posts/Screen Recording 2023-10-13 at 8.28.47 PM.mov.gif",
     "assets/img/posts/Screen Recording 2023-10-13 at 8.28.10 PM.mov",
     "assets/img/posts/Screen Recording 2023-10-13 at 8.18.32 PM.mov",
