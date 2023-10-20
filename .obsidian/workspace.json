@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-18-URP.md",
+                "file": "_posts/2023-10-17-5-포톤클라우드.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5,
-    "collapsed": true
+    "width": 439.5
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-18-URP.md",
+                "file": "_posts/2023-10-17-5-포톤클라우드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-18-URP.md",
+                "file": "_posts/2023-10-17-5-포톤클라우드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-18-URP.md"
+                "file": "_posts/2023-10-17-5-포톤클라우드.md"
               }
             }
           },
@@ -168,9 +167,9 @@
   },
   "active": "1fb20110d61f6a6c",
   "lastOpenFiles": [
+    "_posts/2023-10-18-URP.md",
     "_posts/2023-10-17-5-포톤클라우드.md",
     "_posts/2023-10-17-4-Input System.md",
-    "_posts/2023-10-18-URP.md",
     "_posts/2023-10-17-3-Occlusion Culling.md",
     "_posts/2023-10-17-2-Scene Manage.md",
     "_posts/2023-10-17-1-csharp_CLR.md",
