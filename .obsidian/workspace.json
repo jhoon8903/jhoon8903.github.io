@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-19-음수보수법.md",
+                "file": "_posts/2023-10-19-3-부동소수점.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-19-음수보수법.md",
+                "file": "_posts/2023-10-19-3-부동소수점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-19-음수보수법.md",
+                "file": "_posts/2023-10-19-3-부동소수점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-19-음수보수법.md"
+                "file": "_posts/2023-10-19-3-부동소수점.md"
               }
             }
           },
@@ -168,6 +168,9 @@
   },
   "active": "1fb20110d61f6a6c",
   "lastOpenFiles": [
+    "_posts/2023-10-19-2-OverFlow.md",
+    "_posts/2023-10-19-3-부동소수점.md",
+    "_posts/2023-10-19-1-음수보수법.md",
     "_posts/2023-09-14-csharp_CS.md",
     "_posts/2023-09-12-Mathf_Class.md",
     "_posts/2023-09-01-Monster_Stars.md",
@@ -189,7 +192,6 @@
     "assets/img/posts/J5omGCT.png",
     "assets/img/posts/kRmfd56.png",
     "assets/img/posts/Slime 1.mov",
-    "_posts/2023-10-19-음수보수법.md",
     "_posts/2023-10-18-URP.md",
     "_posts/2023-10-17-5-포톤클라우드.md",
     "_posts/2023-10-17-4-Input System.md",
@@ -203,8 +205,6 @@
     "_posts/2023-03-27-MSA.md",
     "_posts/2023-03-28-Dependency Injection.md",
     "_posts/2023-04-01-Parameter_Argument.md",
-    "_posts/2023-04-06-TypeScript_5.0_const_Type Parameters.md",
-    "_posts/2023-04-12-Unity Game PM.md",
     "assets/img/posts/Screen Recording 2023-10-13 at 8.28.10 PM.mov",
     "assets/img/posts/Screen Recording 2023-10-13 at 8.18.32 PM.mov",
     "Excalidraw",
