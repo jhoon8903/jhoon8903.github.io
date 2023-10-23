@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b18c09f6cc6d64c9",
+        "id": "0910e8b062bc58db",
         "type": "tabs",
         "children": [
           {
-            "id": "1fb20110d61f6a6c",
+            "id": "b38a6b4d868bff22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-19-3-부동소수점.md",
+                "file": "_posts/2023-10-19-6-문자열.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-19-3-부동소수점.md",
+                "file": "_posts/2023-10-19-6-문자열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-19-3-부동소수점.md",
+                "file": "_posts/2023-10-19-6-문자열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-19-3-부동소수점.md"
+                "file": "_posts/2023-10-19-6-문자열.md"
               }
             }
           },
@@ -166,10 +166,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1fb20110d61f6a6c",
+  "active": "b38a6b4d868bff22",
   "lastOpenFiles": [
-    "_posts/2023-10-19-2-OverFlow.md",
+    "_posts/2023-10-19-5-부동 소수점 형변환.md",
+    "_posts/2023-10-19-4-박싱언박싱.md",
+    "_posts/2023-10-19-6-문자열.md",
     "_posts/2023-10-19-3-부동소수점.md",
+    "_posts/2023-10-19-2-OverFlow.md",
     "_posts/2023-10-19-1-음수보수법.md",
     "_posts/2023-09-14-csharp_CS.md",
     "_posts/2023-09-12-Mathf_Class.md",
@@ -202,9 +205,6 @@
     "_posts/2023-10-16-5-Light_Mapping.md",
     "_posts/[.md",
     "_posts/2023-03-27-Indexing.md",
-    "_posts/2023-03-27-MSA.md",
-    "_posts/2023-03-28-Dependency Injection.md",
-    "_posts/2023-04-01-Parameter_Argument.md",
     "assets/img/posts/Screen Recording 2023-10-13 at 8.28.10 PM.mov",
     "assets/img/posts/Screen Recording 2023-10-13 at 8.18.32 PM.mov",
     "Excalidraw",
