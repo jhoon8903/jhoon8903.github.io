@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0910e8b062bc58db",
+        "id": "7c9bc74286846232",
         "type": "tabs",
         "children": [
           {
-            "id": "b38a6b4d868bff22",
+            "id": "ebf6c37324899584",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-25-2-메소드 오버로딩.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-25-2-메소드 오버로딩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-25-2-메소드 오버로딩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-10-25-2-메소드 오버로딩.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,10 +158,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b38a6b4d868bff22",
+  "active": "ebf6c37324899584",
   "lastOpenFiles": [
-    "_posts/2023-10-25-1-참조에 의한 매개변수 전달.md",
+    "_posts/2023-10-26-4-상속.md",
+    "_posts/2023-10-26-3-this_Keyword.md",
+    "_posts/2023-10-26-2-Object Copy.md",
+    "_posts/2023-10-26-1-static.md",
     "_posts/2023-10-25-2-메소드 오버로딩.md",
+    "_posts/2023-10-25-1-참조에 의한 매개변수 전달.md",
     "_posts/2023-10-14-2-UI.md",
     "_posts/2023-10-20-비트연산자.md",
     "_posts/2023-10-19-6-문자열.md",
@@ -201,10 +197,6 @@
     "assets/img/posts/Slime 1.mov",
     "_posts/2023-10-18-URP.md",
     "_posts/2023-10-17-5-포톤클라우드.md",
-    "_posts/2023-10-17-4-Input System.md",
-    "_posts/2023-10-17-3-Occlusion Culling.md",
-    "_posts/2023-10-17-2-Scene Manage.md",
-    "_posts/2023-10-17-1-csharp_CLR.md",
     "assets/img/posts/Screen Recording 2023-10-13 at 8.28.10 PM.mov",
     "assets/img/posts/Screen Recording 2023-10-13 at 8.18.32 PM.mov",
     "Excalidraw",
