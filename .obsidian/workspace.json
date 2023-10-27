@@ -11,12 +11,8 @@
             "id": "ebf6c37324899584",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-05-18-3Match_Merge.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-05-18-3Match_Merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-05-18-3Match_Merge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-05-18-3Match_Merge.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,17 +159,17 @@
   },
   "active": "ebf6c37324899584",
   "lastOpenFiles": [
+    "_posts/2023-05-17-3Match_Respawn_motion.md",
+    "_posts/2023-05-16-3Match_UnitLevelUP_Swipe.md",
+    "_posts/2023-05-15-3Match_ReSpawn.md",
     "_posts/2023-09-01-Monster_Stars.md",
+    "_posts/2023-05-18-3Match_Merge.md",
     "_posts/2023-08-01-Tutorial.md",
     "_posts/2023-07-24-Language_Setting.md",
     "_posts/2023-07-07-Save_Load.md",
     "_posts/2023-06-14-Status_Effect.md",
     "_posts/2023-06-01-DetectEnemies.md",
     "_posts/2023-05-22-3Match_TestBuild.md",
-    "_posts/2023-05-18-3Match_Merge.md",
-    "_posts/2023-05-17-3Match_Respawn_motion.md",
-    "_posts/2023-05-16-3Match_UnitLevelUP_Swipe.md",
-    "_posts/2023-05-15-3Match_ReSpawn.md",
     "_posts/2023-05-13-브로드캐스트.md",
     "_posts/2023-05-12-3Match_Grid2.md",
     "Gemfile.lock",
