@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-05-13-브로드캐스트.md",
+                "file": "_posts/2023-05-18-3Match_Merge.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-05-13-브로드캐스트.md",
+                "file": "_posts/2023-05-18-3Match_Merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-05-13-브로드캐스트.md",
+                "file": "_posts/2023-05-18-3Match_Merge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-05-13-브로드캐스트.md"
+                "file": "_posts/2023-05-18-3Match_Merge.md"
               }
             }
           },
@@ -167,7 +167,13 @@
   },
   "active": "ebf6c37324899584",
   "lastOpenFiles": [
+    "_posts/2023-05-22-3Match_TestBuild.md",
+    "_posts/2023-05-18-3Match_Merge.md",
+    "_posts/2023-05-17-3Match_Respawn_motion.md",
+    "_posts/2023-05-16-3Match_UnitLevelUP_Swipe.md",
+    "_posts/2023-05-15-3Match_ReSpawn.md",
     "_posts/2023-05-13-브로드캐스트.md",
+    "_posts/2023-05-12-3Match_Grid2.md",
     "Gemfile.lock",
     "Gemfile",
     "_posts/2023-05-13-Message_BroadCasting.md",
@@ -189,11 +195,6 @@
     "_posts/2023-10-19-1-음수보수법.md",
     "_posts/2023-10-18-URP.md",
     "_posts/2023-10-17-5-포톤클라우드.md",
-    "_posts/2023-10-17-4-Input System.md",
-    "_posts/2023-10-17-3-Occlusion Culling.md",
-    "_posts/2023-10-17-2-Scene Manage.md",
-    "_posts/2023-10-17-1-csharp_CLR.md",
-    "_posts/2023-10-16-6-Light Probe.md",
     "_site/posts/2023-05-11-3Match_Merge.html",
     "_site/posts/2023-05-10-2-3Match_Grid_Development.html",
     "_site/posts/2023-05-10-1-3Match_Raycast_Development.html",
