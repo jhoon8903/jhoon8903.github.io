@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-16-2-Unity_좌표_체계.md",
+                "file": "_posts/2023-04-26-Game 6일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-16-2-Unity_좌표_체계.md",
+                "file": "_posts/2023-04-26-Game 6일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-16-2-Unity_좌표_체계.md",
+                "file": "_posts/2023-04-26-Game 6일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-16-2-Unity_좌표_체계.md"
+                "file": "_posts/2023-04-26-Game 6일차.md"
               }
             }
           },
@@ -167,6 +167,30 @@
   },
   "active": "ebf6c37324899584",
   "lastOpenFiles": [
+    "_posts/2023-04-29-Unity_Object Pooling.md",
+    "_posts/2023-04-26-Game 6일차.md",
+    "_posts/2023-04-25-2-Game 5일차.md",
+    "_posts/2023-04-25-1-Unity_ObjectPooling.md",
+    "_posts/2023-04-23-게임개발 3일차 Climbing Game.md",
+    "_posts/2023-04-21-Game기획3.md",
+    "_posts/2023-04-18-1-Unity_Attribute.md",
+    "_posts/2023-04-17-1-Unity_SerializeField.md",
+    "_posts/2023-04-16-7-Unity_Script.md",
+    "_posts/2023-04-16-6-Unity_texture 출력.md",
+    "_posts/2023-04-16-5-Unity_Light.md",
+    "_posts/2023-04-16-4-Unity_Camera.md",
+    "_posts/2023-04-16-3-Unity_Game_Object.md",
+    "_posts/2023-04-16-2-Unity_좌표_체계.md",
+    "_posts/2023-04-16-1-Unity_Engine.md",
+    "_posts/2023-04-10-UnitySetting.md",
+    "_posts/2023-04-13-Unity_Time.deltaTime.md",
+    "_posts/2023-04-14-Unity_GetButton.md",
+    "_posts/2023-04-14-Game 기획.md",
+    "_posts/2023-04-18-2-Unity_{get; set;}_자동구현 Property.md",
+    "_posts/2023-04-12-Unity Game PM.md",
+    "_posts/2023-04-10-Unity_Setting.md",
+    "_site/posts/2023-04-10-UnitySetting.html",
+    "_posts/2023-04-10-TypeScript 5.0 Support for export type `*`.md",
     "_site/posts/2023-04-29-Unity_Object Pooling.html",
     "_site/posts/2023-04-26-Game 6일차.html",
     "_site/posts/2023-04-25-2-Game 5일차.html",
@@ -176,29 +200,6 @@
     "_site/posts/2023-04-18-2-Unity_{get; set;}_자동구현 Property.html",
     "_site/posts/2023-04-18-1-Unity_Attribute.html",
     "_site/tabs/blog/15/index.html",
-    "_site/tabs/blog/15",
-    "_posts/2023-04-29-Unity_Object Pooling.md",
-    "_posts/2023-04-26-Game 6일차.md",
-    "_posts/2023-04-25-2-Game 5일차.md",
-    "_posts/2023-04-25-1-Unity_ObjectPooling.md",
-    "_posts/2023-04-23-게임개발 3일차 Climbing Game.md",
-    "_posts/2023-04-21-Game기획3.md",
-    "_posts/2023-04-18-2-Unity_{get; set;}_자동구현 Property.md",
-    "_posts/2023-04-18-1-Unity_Attribute.md",
-    "_posts/2023-04-16-1-Unity_Engine.md",
-    "_posts/2023-04-16-2-Unity_좌표_체계.md",
-    "_posts/2023-04-14-Game 기획.md",
-    "_posts/2023-04-16-3-Unity_Game_Object.md",
-    "_site/posts/2023-04-17-1-Unity_SerializeField.html",
-    "_posts/2023-04-16-4-Unity_Camera.md",
-    "_posts/2023-04-16-5-Unity_Light.md",
-    "_posts/2023-04-17-1-Unity_SerializeField.md",
-    "_posts/2023-04-16-7-Unity_Script.md",
-    "_posts/2023-04-16-6-Unity_texture 출력.md",
-    "_posts/2023-04-14-Unity_GetButton.md",
-    "_posts/2023-04-13-Unity_Time.deltaTime.md",
-    "_posts/2023-04-12-Unity Game PM.md",
-    "_posts/2023-04-10-Unity_Setting.md",
     "_posts/2022-11-13-Python-jQuery.md",
     "_site/assets/img/posts/heap3.gif",
     "_site/assets/img/posts/Trouble_Social.gif",
@@ -210,8 +211,6 @@
     "_site/assets/img/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",
     "_site/assets/img/posts/Screen Recording 2023-09-11 at 3.07.25 AM.mov.gif",
     "_site/assets/img/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif",
-    "_site/SECURITY.md",
-    "_posts/2023-04-10-TypeScript 5.0 Support for export type `*`.md",
-    "_posts/2023-04-09-TypeScript 5.0 Resolution Customization Flags.md"
+    "_site/SECURITY.md"
   ]
 }

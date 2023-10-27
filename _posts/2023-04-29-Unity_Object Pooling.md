@@ -1,6 +1,6 @@
 ---
 title: Unity Object Pooling & Respawn
-category: game
+category: Game
 author: 이정훈
 tags:
   - unity
