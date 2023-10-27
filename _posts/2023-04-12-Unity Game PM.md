@@ -1,11 +1,13 @@
 ---
 title: Unity Game 기획
-category: service
-author: "이정훈"
-tags: [unity, service]
-img : https://i.imgur.com/neM9ZKz.png
+category: Unity
+author: 이정훈
+tags:
+  - unity
+  - service
+img: https://i.imgur.com/neM9ZKz.png
 comments_disable: true
-meta_description: "Unity Game 기획"
+meta_description: Unity Game 기획
 ---
 
 # Unity Game 기획
