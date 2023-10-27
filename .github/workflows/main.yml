@@ -1,0 +1,35 @@
+name: Jekyll Build and Deploy
+
+on:
+  push:
+    branches:
+      - main  # 빌드를 트리거할 브랜치
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Ruby
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '3.1.4'  # Ruby 버전을 지정
+
+    - name: Install Bundler
+      run: gem install bundler:2.4.21
+
+    - name: Bundle Install
+      run: bundle install
+
+    - name: Build Jekyll Site
+      uses: actions/jekyll-build-pages@v1
+      with:
+        # 필요한 입력 값들을 설정
+        source: './'  # Jekyll 사이트의 소스 코드 위치
+        destination: './_site'  # 빌드된 사이트가 저장될 위치
+        token: ${{ secrets.GITHUB_TOKEN }}  # GitHub 토큰
+
+    # 이후에 필요한 다른 단계들을 추가
