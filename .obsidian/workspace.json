@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-27-2-튜플 Tuple.md",
+                "file": "_posts/2022-11-13-Python-jQuery.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-27-2-튜플 Tuple.md",
+                "file": "_posts/2022-11-13-Python-jQuery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-27-2-튜플 Tuple.md",
+                "file": "_posts/2022-11-13-Python-jQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-27-2-튜플 Tuple.md"
+                "file": "_posts/2022-11-13-Python-jQuery.md"
               }
             }
           },
@@ -168,10 +167,10 @@
   },
   "active": "ebf6c37324899584",
   "lastOpenFiles": [
-    "_posts/2023-10-27-1-구조체.md",
-    "_posts/2023-10-27-2-튜플 Tuple.md",
-    "_posts/2023-10-26-4-상속.md",
     "_posts/2023-10-26-3-this_Keyword.md",
+    "_posts/2023-10-26-4-상속.md",
+    "_posts/2023-10-27-2-튜플 Tuple.md",
+    "_posts/2023-10-27-1-구조체.md",
     "_posts/2023-10-26-2-Object Copy.md",
     "_posts/2023-09-14-csharp_CS.md",
     "_posts/2023-10-26-1-static.md",
