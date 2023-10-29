@@ -2,8 +2,7 @@
 title: Unity  레이아웃 구조
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Layout]
 img: https://i.imgur.com/GKBP5x7.png
 comments_disable: true
 meta_description: Unity  레이아웃 구조

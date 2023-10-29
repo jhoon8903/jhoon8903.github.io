@@ -2,9 +2,7 @@
 title: 3Match Grid Proto Type
 category: Unity
 author: 이정훈
-tags:
-  - unity
-  - game
+tags: [Unity, Game, Programming, Project]
 img: https://i.imgur.com/9e68Cnv.gif
 comments_disable: true
 meta_description: Unity 3 Match Grid

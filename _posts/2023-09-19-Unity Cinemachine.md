@@ -2,8 +2,7 @@
 title: Unity Cinemachine
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Camera]
 img: https://i.imgur.com/JvHL268.png
 comments_disable: true
 meta_description: Unity Cinemachine

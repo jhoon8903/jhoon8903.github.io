@@ -2,8 +2,7 @@
 title: Unity Resources Folder
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Programming]
 img: https://i.imgur.com/ULdv62G.jpg
 comments_disable: true
 meta_description: Unity Resources Folder

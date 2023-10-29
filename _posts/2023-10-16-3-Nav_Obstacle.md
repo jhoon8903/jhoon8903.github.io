@@ -2,8 +2,7 @@
 title: Unity 동적장애물 - NavMeshObstacle
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Navigation]
 img: https://i.imgur.com/QYnDxe1.gif
 comments_disable: true
 meta_description: Unity 동적장애물 - NavMeshObstacle

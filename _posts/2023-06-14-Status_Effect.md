@@ -2,9 +2,7 @@
 title: Status Effect
 category: Unity
 author: 이정훈
-tags:
-  - unity
-  - game
+tags: [Unity, Game, Project, Programming, Effect]
 img: https://i.imgur.com/jah0mIQ.gif
 comments_disable: true
 meta_description: Status Effect

@@ -2,8 +2,7 @@
 title: Unity Coroutine
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Programming]
 img: https://i.imgur.com/PjJXyGU.png
 comments_disable: true
 meta_description: Unity Coroutine

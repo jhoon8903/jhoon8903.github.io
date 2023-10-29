@@ -2,8 +2,7 @@
 title: Unity Light Probe 라이트 프로브
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Lighting]
 img: https://i.imgur.com/xKT92Ud.gif
 comments_disable: true
 meta_description: Unity Light Probe 라이트 프로브

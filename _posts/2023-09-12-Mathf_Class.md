@@ -1,9 +1,8 @@
 ---
 title: Unity Mathf Class
-category: Unity
+category: C#
 author: 이정훈
-tags:
-  - unity
+tags: [Programming, Language]
 img: https://i.imgur.com/thFCOHI.png
 comments_disable: true
 meta_description: Unity Mathf Class

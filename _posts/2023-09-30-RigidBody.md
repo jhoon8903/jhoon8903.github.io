@@ -2,8 +2,7 @@
 title: Unity RigidBody
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Physic]
 img: https://i.imgur.com/bCgTfRP.jpg
 comments_disable: true
 meta_description: Unity RigidBody

@@ -2,8 +2,7 @@
 title: Unity Trail Renderer
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Effect]
 img: https://i.imgur.com/1VgNyO5.gif
 comments_disable: true
 meta_description: Unity Trail Renderer

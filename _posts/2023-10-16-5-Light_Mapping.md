@@ -2,8 +2,7 @@
 title: Unity 라이트매핑
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Lighting]
 img: https://i.imgur.com/0qJ6Od4.jpg
 comments_disable: true
 meta_description: Unity 라이트매핑

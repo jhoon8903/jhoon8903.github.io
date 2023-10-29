@@ -2,9 +2,7 @@
 title: Language Setting
 category: Unity
 author: 이정훈
-tags:
-  - unity
-  - game
+tags: [Unity, Game, Project, Programming, Language]
 img: https://i.imgur.com/Fynb3bN.png
 comments_disable: true
 meta_description: Language Setting

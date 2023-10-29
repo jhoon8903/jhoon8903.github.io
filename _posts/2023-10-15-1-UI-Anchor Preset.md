@@ -2,8 +2,7 @@
 title: Unity Anchor Preset
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, UGUI]
 img: https://i.imgur.com/HzkrUoY.jpg
 comments_disable: true
 meta_description: Unity Anchor Preset

@@ -11,8 +11,12 @@
             "id": "ebf6c37324899584",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-10-UnitySetting.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "구조체",
+                "query": "tag:architecture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-04-10-UnitySetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-04-10-UnitySetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-04-10-UnitySetting.md"
+              }
             }
           },
           {
@@ -159,6 +167,10 @@
   },
   "active": "ebf6c37324899584",
   "lastOpenFiles": [
+    "_posts/2023-04-07-TypeScript-5.0-Enums.md",
+    "_posts/2023-04-09-TypeScript 5.0 Resolution Customization Flags.md",
+    "_posts/2023-04-10-UnitySetting.md",
+    "_posts/2023-04-10-TypeScript 5.0 Support for export type `*`.md",
     "_posts/2023-10-27-2-튜플 Tuple.md",
     "_posts/2023-10-27-1-구조체.md",
     "_posts/2023-10-26-4-상속.md",
@@ -181,29 +193,25 @@
     "_posts/2023-10-17-2-Scene Manage.md",
     "_posts/2023-10-17-1-csharp_CLR.md",
     "_posts/2023-10-16-6-Light Probe.md",
-    "_posts/2023-10-16-5-Light_Mapping.md",
-    "_posts/2023-10-16-4-Lighting.md",
-    "_posts/2023-10-16-3-Nav_Obstacle.md",
-    "_posts/2023-10-16-2-RayCast.md",
-    "Gemfile.lock",
-    "Gemfile",
-    "_site/posts/2023-05-11-3Match_Merge.html",
-    "_site/posts/2023-05-10-2-3Match_Grid_Development.html",
-    "_site/posts/2023-05-10-1-3Match_Raycast_Development.html",
-    "_site/posts/2023-05-04-개발완료.html",
-    "_site/posts/2023-04-10-UnitySetting.html",
-    "_site/posts/2023-04-29-Unity_Object Pooling.html",
-    "_site/posts/2023-04-26-Game 6일차.html",
-    "_site/posts/2023-04-25-2-Game 5일차.html",
-    "_site/assets/img/posts/heap3.gif",
-    "_site/assets/img/posts/Trouble_Social.gif",
-    "_site/assets/img/posts/Screen Recording 2023-10-16 at 11.38.14 PM.mov.gif",
-    "_site/assets/img/posts/Screen Recording 2023-10-13 at 8.28.47 PM.mov.gif",
-    "_site/assets/img/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov.gif",
-    "_site/assets/img/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov 1.gif",
-    "_site/assets/img/posts/Screen Recording 2023-09-11 at 4.20.55 AM.mov.gif",
-    "_site/assets/img/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",
-    "_site/assets/img/posts/Screen Recording 2023-09-11 at 3.07.25 AM.mov.gif",
-    "_site/assets/img/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif"
+    "_site/posts/2023-10-27-2-튜플 Tuple.html",
+    "_site/posts/2023-10-27-1-구조체.html",
+    "_site/posts/2023-10-26-4-상속.html",
+    "_site/posts/2023-10-26-3-this_Keyword.html",
+    "_site/posts/2023-10-26-2-Object Copy.html",
+    "_site/posts/2023-10-26-1-static.html",
+    "_site/posts/2023-10-25-2-메소드 오버로딩.html",
+    "_site/posts/2023-10-25-1-참조에 의한 매개변수 전달.html",
+    "_site/posts/2023-10-20-비트연산자.html",
+    "_site/posts/2023-10-19-6-문자열.html",
+    "_site/assets/img/projects/stock.png",
+    "_site/assets/img/projects/projects-heading.jpg",
+    "_site/assets/img/projects/project2_thumb.jpg",
+    "_site/assets/img/projects/project1_thumb.jpg",
+    "_site/assets/img/projects/giringrim.png",
+    "_site/assets/img/projects/bisthagumangram.png",
+    "_site/assets/img/projects/background.jpeg",
+    "_site/assets/img/posts/yZ0WUFn.jpg",
+    "_site/assets/img/posts/yOrCGr7.png",
+    "_site/assets/img/posts/vHMYd3Z.png"
   ]
 }

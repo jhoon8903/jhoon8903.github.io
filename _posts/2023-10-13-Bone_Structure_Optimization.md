@@ -2,8 +2,7 @@
 title: Bonn 최적화
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Modeling]
 img: https://i.imgur.com/e3TNb4M.jpg
 comments_disable: true
 meta_description: Bonn 최적화

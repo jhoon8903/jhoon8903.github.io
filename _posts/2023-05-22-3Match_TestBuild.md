@@ -2,9 +2,7 @@
 title: Match_Test Build
 category: Unity
 author: 이정훈
-tags:
-  - unity
-  - game
+tags: [Unity, Game, Project, Programming]
 img: https://i.imgur.com/3gbSK0f.gif
 comments_disable: true
 meta_description: 3 Match_Test Build

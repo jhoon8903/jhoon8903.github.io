@@ -2,9 +2,7 @@
 title: 3Match_Merge 시작
 category: game
 author: 이정훈
-tags:
-  - unity
-  - game
+tags: [Unity, Game, Programming, Project]
 img: https://i.imgur.com/nkZIvoY.gif
 comments_disable: true
 meta_description: 3 Match Merge

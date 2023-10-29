@@ -2,9 +2,7 @@
 title: 게임 개발 5일차 Unity ObjectPooling 트러블
 category: Unity
 author: 이정훈
-tags:
-  - unity
-  - game
+tags: [Unity, Programming, Object]
 img: https://i.imgur.com/BijPhE7.png
 comments_disable: true
 meta_description: Unity ObjectPooling 트러블

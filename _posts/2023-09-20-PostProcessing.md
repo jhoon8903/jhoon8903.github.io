@@ -2,8 +2,7 @@
 title: Unity Post Processing
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Camera, Rendering]
 img: https://i.imgur.com/ron0pZd.jpg
 comments_disable: true
 meta_description: Unity Post Processing

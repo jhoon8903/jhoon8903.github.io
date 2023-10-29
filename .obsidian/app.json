@@ -4,5 +4,6 @@
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "assets/img/posts",
   "userIgnoreFilters": null,
-  "promptDelete": false
+  "promptDelete": false,
+  "propertiesInDocument": "source"
 }

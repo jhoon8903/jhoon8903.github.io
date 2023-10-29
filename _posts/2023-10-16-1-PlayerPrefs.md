@@ -2,8 +2,7 @@
 title: Unity PlayerPrefs
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Save, Programming]
 img: https://i.imgur.com/4zFKGVg.jpg
 comments_disable: true
 meta_description: Unity PlayerPrefs

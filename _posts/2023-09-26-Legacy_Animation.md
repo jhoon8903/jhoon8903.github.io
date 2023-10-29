@@ -2,8 +2,7 @@
 title: Unity Legacy Animation
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Animation]
 img: https://i.imgur.com/rtTIPZs.png
 comments_disable: true
 meta_description: Unity Legacy Animation

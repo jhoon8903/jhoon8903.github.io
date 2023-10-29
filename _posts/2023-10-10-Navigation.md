@@ -2,8 +2,7 @@
 title: Unity Navigation
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Navigation]
 img: https://i.imgur.com/zneH4to.gif
 comments_disable: true
 meta_description: Unity Navigation

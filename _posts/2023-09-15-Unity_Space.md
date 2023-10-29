@@ -2,8 +2,7 @@
 title: Utniy_Space 공간
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Coordinate]
 img: https://i.imgur.com/NCdrbmb.gif
 comments_disable: true
 meta_description: Utniy_Space 공간

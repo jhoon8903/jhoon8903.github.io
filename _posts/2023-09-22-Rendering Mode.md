@@ -2,8 +2,7 @@
 title: Unity Rendering Mode
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Rendering]
 img: https://i.imgur.com/WFyLaBe.gif
 comments_disable: true
 meta_description: Unity Rendering Mode

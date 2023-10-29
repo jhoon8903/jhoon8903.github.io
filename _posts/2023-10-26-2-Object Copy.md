@@ -2,9 +2,7 @@
 title: C# 객체 복사
 category: C#
 author: 이정훈
-tags:
-  - csharp
-  - cs
+tags: [Language, Programming]
 img: https://i.imgur.com/m8yClWp.png
 comments_disable: true
 meta_description: "C# 객체 복사 : 얕은 복사와 깊은 복사"

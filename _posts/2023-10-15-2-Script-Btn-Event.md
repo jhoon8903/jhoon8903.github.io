@@ -2,8 +2,7 @@
 title: Unity Script Event Processing
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, UGUI, Event]
 img: https://i.imgur.com/l4Uyvpe.jpg
 comments_disable: true
 meta_description: Unity Script Event Processing

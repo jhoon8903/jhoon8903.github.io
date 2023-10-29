@@ -2,8 +2,7 @@
 title: Unity OnCollision || OnTrigger
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Physic]
 img: https://i.imgur.com/PkyfS9F.png
 comments_disable: true
 meta_description: Unity OnCollision || OnTrigger

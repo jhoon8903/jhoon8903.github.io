@@ -2,9 +2,7 @@
 title: Monster_Stars
 category: Unity
 author: 이정훈
-tags:
-  - unity
-  - game
+tags: [Unity, Game, Project]
 img: https://i.imgur.com/M0cdKxz.gif
 comments_disable: true
 meta_description: Monster_Stars

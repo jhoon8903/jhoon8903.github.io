@@ -2,8 +2,7 @@
 title: Unity Texture
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Rendering]
 img: https://i.imgur.com/Sz3Vng0.png
 comments_disable: true
 meta_description: Unity Texture

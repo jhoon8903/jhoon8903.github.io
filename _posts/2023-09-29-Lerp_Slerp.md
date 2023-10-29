@@ -2,8 +2,7 @@
 title: Unity_Vector3.Lerp / Vector3.Slerp
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Programming, Vector]
 img: https://i.imgur.com/l68H2Vt.jpg
 comments_disable: true
 meta_description: Unity_Vector3.Lerp / Vector3.Slerp

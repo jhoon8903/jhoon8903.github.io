@@ -2,8 +2,7 @@
 title: Unity Input System
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Controller]
 img: https://i.imgur.com/a8X67jG.jpg
 comments_disable: true
 meta_description: Unity Input System

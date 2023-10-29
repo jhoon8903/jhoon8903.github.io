@@ -2,8 +2,7 @@
 title: Unity 충돌 지점과 법선 벡터
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Physic, Vector]
 img: https://i.imgur.com/hMPvXdL.jpg
 comments_disable: true
 meta_description: Unity 충돌 지점과 법선 벡터

@@ -2,8 +2,7 @@
 title: Unity Illumination
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Light]
 img: https://i.imgur.com/JKTXEnb.png
 comments_disable: true
 meta_description: Unity Illumination

@@ -1,8 +1,8 @@
 ---
 title: Python_jQuery_Ajax 적용하기
-category: python
+category: Python
 author: "이정훈"
-tags: [python]
+tags: [Python]
 img : https://blog.kakaocdn.net/dn/bwLdHi/btqAIEhUJXu/ZJYz3SlI9zCZCf6wmKYlBK/img.png
 comments_disable: true
 meta_description: "jQuery & Ajax 적용하기"

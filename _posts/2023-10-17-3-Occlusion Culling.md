@@ -2,8 +2,7 @@
 title: Unity 오클루전 컬링
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Light]
 img: https://i.imgur.com/LGfzqsQ.gif
 comments_disable: true
 meta_description: Unity Input System

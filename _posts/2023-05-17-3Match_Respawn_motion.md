@@ -2,9 +2,7 @@
 title: 3 Match_Respawn_motion
 category: Unity
 author: 이정훈
-tags:
-  - unity
-  - game
+tags: [Unity, Game, Project, Programming]
 img: https://i.imgur.com/fcGrcTI.gif
 comments_disable: true
 meta_description: 3Match_Respawn_motion

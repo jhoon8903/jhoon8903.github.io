@@ -2,8 +2,7 @@
 title: Unity Level of Detail
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Rendering]
 img: https://i.imgur.com/Ii9S3xT.png
 comments_disable: true
 meta_description: Unity Level of Detail

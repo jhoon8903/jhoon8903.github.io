@@ -2,9 +2,7 @@
 title: C# Class this Keyword
 category: C#
 author: 이정훈
-tags:
-  - csharp
-  - cs
+tags: [Language, Programming]
 img: https://i.imgur.com/m8yClWp.png
 comments_disable: true
 meta_description: C# Class this Keyword

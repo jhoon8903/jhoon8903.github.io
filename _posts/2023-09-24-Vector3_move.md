@@ -2,8 +2,7 @@
 title: Unity Vector 이동
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Vector]
 img: https://i.imgur.com/SfgRWIJ.png
 comments_disable: true
 meta_description: Unity Vector Move

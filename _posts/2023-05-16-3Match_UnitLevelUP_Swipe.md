@@ -2,9 +2,7 @@
 title: 3 Match Char LevelUp && Swipe
 category: Unity
 author: 이정훈
-tags:
-  - unity
-  - game
+tags: [Unity, Game, Project, Programming]
 img: https://i.imgur.com/TbuHkNr.gif
 comments_disable: true
 meta_description: 3 Match Char LevelUp && Swipe

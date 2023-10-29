@@ -2,8 +2,7 @@
 title: Unity Scene 관리
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Scene]
 img: https://i.imgur.com/gQVaaNN.jpg
 comments_disable: true
 meta_description: Unity Scene 관리

@@ -2,8 +2,7 @@
 title: Unity Vector3 회전
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Vector]
 img: https://i.imgur.com/bBfMxFd.gif
 comments_disable: true
 meta_description: Unity Vector Rotate

@@ -2,8 +2,7 @@
 title: Unity Physics Manager
 category: Unity
 author: 이정훈
-tags:
-  - unity
+tags: [Unity, Physic]
 img: https://i.imgur.com/PrhvfgU.jpg
 comments_disable: true
 meta_description: Unity Physics Manager
