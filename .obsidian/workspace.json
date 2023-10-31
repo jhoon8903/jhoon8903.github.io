@@ -11,8 +11,12 @@
             "id": "7792df523c89c1f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-10-30-2-인터페이스선언.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-10-30-2-인터페이스선언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-10-30-2-인터페이스선언.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-10-30-2-인터페이스선언.md"
+              }
             }
           },
           {
@@ -159,9 +168,10 @@
   },
   "active": "7792df523c89c1f6",
   "lastOpenFiles": [
-    "_posts/2023-10-16-2-RayCast.md",
-    "_posts/2023-10-30-2-인터페이스선언.md",
     "_posts/2023-10-30-1-게임기획.md",
+    "_posts/2023-10-30-2-인터페이스선언.md",
+    "_posts/2023-10-31-Text Mesh Pro.md",
+    "_posts/2023-10-16-2-RayCast.md",
     "_posts/2023-10-27-2-튜플 Tuple.md",
     "_posts/2023-10-27-1-구조체.md",
     "_posts/2023-10-26-2-Object Copy.md",
@@ -184,7 +194,6 @@
     "_posts/2023-10-19-4-박싱언박싱.md",
     "_posts/2023-10-19-3-부동소수점.md",
     "_posts/2023-10-19-2-OverFlow.md",
-    "_posts/2023-10-19-1-음수보수법.md",
     "_site/posts/2023-10-27-2-튜플 Tuple.html",
     "_site/posts/2023-10-27-1-구조체.html",
     "_site/posts/2023-10-26-4-상속.html",
