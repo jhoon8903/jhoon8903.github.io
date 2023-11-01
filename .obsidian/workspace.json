@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-01-1-Csharp-Algorithm.md",
+                "file": "_posts/2023-11-01-카드 뒤집기.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-01-1-Csharp-Algorithm.md",
+                "file": "_posts/2023-11-01-카드 뒤집기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-01-1-Csharp-Algorithm.md",
+                "file": "_posts/2023-11-01-카드 뒤집기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-01-1-Csharp-Algorithm.md"
+                "file": "_posts/2023-11-01-카드 뒤집기.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   "active": "7792df523c89c1f6",
   "lastOpenFiles": [
     "_posts/2023-10-30-2-인터페이스선언.md",
+    "_posts/2023-11-01-카드 뒤집기.md",
     "_posts/2023-11-01-1-Csharp-Algorithm.md",
     "_posts/2023-10-30-1-게임기획.md",
     "_posts/2023-10-31-Text Mesh Pro.md",
@@ -193,7 +194,6 @@
     "_posts/2023-10-19-6-문자열.md",
     "_posts/2023-10-19-5-부동 소수점 형변환.md",
     "_posts/2023-10-19-4-박싱언박싱.md",
-    "_posts/2023-10-19-3-부동소수점.md",
     "_site/posts/2023-10-27-2-튜플 Tuple.html",
     "_site/posts/2023-10-27-1-구조체.html",
     "_site/posts/2023-10-26-4-상속.html",
