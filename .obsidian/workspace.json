@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f7ac5c1880f6c405",
+        "id": "9ab4bce77d1e4ce9",
         "type": "tabs",
         "children": [
           {
-            "id": "7792df523c89c1f6",
+            "id": "841e8dc12351590b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-01-카드 뒤집기.md",
+                "file": "_posts/2023-11-02-1-MiniGameStartScene.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-01-카드 뒤집기.md",
+                "file": "_posts/2023-11-02-1-MiniGameStartScene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-01-카드 뒤집기.md",
+                "file": "_posts/2023-11-02-1-MiniGameStartScene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-01-카드 뒤집기.md"
+                "file": "_posts/2023-11-02-1-MiniGameStartScene.md"
               }
             }
           },
@@ -166,10 +166,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7792df523c89c1f6",
+  "active": "841e8dc12351590b",
   "lastOpenFiles": [
-    "_posts/2023-10-30-2-인터페이스선언.md",
+    "_posts/2023-11-02-1-MiniGameStartScene.md",
     "_posts/2023-11-01-카드 뒤집기.md",
+    "_posts/2023-10-30-2-인터페이스선언.md",
     "_posts/2023-11-01-1-Csharp-Algorithm.md",
     "_posts/2023-10-30-1-게임기획.md",
     "_posts/2023-10-31-Text Mesh Pro.md",
@@ -193,7 +194,6 @@
     "_posts/2023-10-20-비트연산자.md",
     "_posts/2023-10-19-6-문자열.md",
     "_posts/2023-10-19-5-부동 소수점 형변환.md",
-    "_posts/2023-10-19-4-박싱언박싱.md",
     "_site/posts/2023-10-27-2-튜플 Tuple.html",
     "_site/posts/2023-10-27-1-구조체.html",
     "_site/posts/2023-10-26-4-상속.html",
