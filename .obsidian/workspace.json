@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8db19f988baa0c70",
+        "id": "57404c34b2b1c25f",
         "type": "tabs",
         "children": [
           {
-            "id": "841e8dc12351590b",
+            "id": "1155b815facf7289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-03-ASCII Char 문자 다루기.md",
+                "file": "_posts/2023-11-04-3진수 뒤집기.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-03-ASCII Char 문자 다루기.md",
+                "file": "_posts/2023-11-04-3진수 뒤집기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-03-ASCII Char 문자 다루기.md",
+                "file": "_posts/2023-11-04-3진수 뒤집기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-03-ASCII Char 문자 다루기.md"
+                "file": "_posts/2023-11-04-3진수 뒤집기.md"
               }
             }
           },
@@ -165,10 +165,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "841e8dc12351590b",
+  "active": "1155b815facf7289",
   "lastOpenFiles": [
+    "_posts/2023-11-04-3진수 뒤집기.md",
+    "_posts/2023-11-03-2-Aggregate.md",
+    "_posts/2023-11-03-1-ASCII Char 문자 다루기.md",
     "_posts/2023-11-02-MiniGameStartScene.md",
-    "_posts/2023-11-03-ASCII Char 문자 다루기.md",
     "_posts/2023-11-02-2-MiniGameGameScene.md",
     "_posts/_Basic Template.md",
     "_posts/2023-11-01-카드 뒤집기.md",
@@ -191,8 +193,6 @@
     "_posts/2023-04-10-TypeScript 5.0 Support for export type `*`.md",
     "_posts/2023-10-26-4-상속.md",
     "_posts/2023-10-26-1-static.md",
-    "_posts/2023-10-25-2-메소드 오버로딩.md",
-    "_posts/2023-10-25-1-참조에 의한 매개변수 전달.md",
     "_site/posts/2023-10-27-2-튜플 Tuple.html",
     "_site/posts/2023-10-27-1-구조체.html",
     "_site/posts/2023-10-26-4-상속.html",

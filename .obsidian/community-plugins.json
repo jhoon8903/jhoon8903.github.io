@@ -1,5 +1,7 @@
 [
   "obsidian-imgur-plugin",
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-linter",
+  "quick-latex"
 ]
