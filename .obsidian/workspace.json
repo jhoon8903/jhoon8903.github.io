@@ -11,8 +11,12 @@
             "id": "71153985c66e3c3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-11-05-TicTacToe.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-11-05-TicTacToe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-11-05-TicTacToe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-11-05-TicTacToe.md"
+              }
             }
           },
           {
@@ -159,6 +167,7 @@
   },
   "active": "71153985c66e3c3f",
   "lastOpenFiles": [
+    "_posts/2023-11-05-TicTacToe.md",
     "_posts/2023-11-04-2-StringBuilder.md",
     "_posts/2023-10-27-1-구조체.md",
     "_posts/2023-10-27-2-튜플 Tuple.md",
@@ -184,7 +193,6 @@
     "_posts/2023-04-07-TypeScript-5.0-Enums.md",
     "_posts/2023-04-09-TypeScript 5.0 Resolution Customization Flags.md",
     "_posts/2023-04-10-TypeScript 5.0 Support for export type `*`.md",
-    "_posts/2023-10-26-4-상속.md",
     "_site/posts/2023-10-27-2-튜플 Tuple.html",
     "_site/posts/2023-10-27-1-구조체.html",
     "_site/posts/2023-10-26-4-상속.html",
