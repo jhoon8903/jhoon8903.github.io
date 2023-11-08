@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Template.md",
+                "file": "_posts/another-test-markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,16 +204,19 @@
   },
   "active": "dad4a306c97cb487",
   "lastOpenFiles": [
+    "_posts/another-test-markdown.md",
+    "_posts/2023-11-08-MarkDown.md",
+    "_posts/Template.md",
     "_site/language/2023/11/08/MarkDown.html",
     "_site/language/2023/11/08",
     "_site/language/2023/11",
     "_site/language/2023",
     "_site/language",
+    "_site/2023/11/08/2023-11-08-MarkDown.html",
+    "_site/2023/11/08",
+    "_site/2023/11",
+    "_site/2023",
     "_includes/extensions/mathjax_support.html",
-    "_includes/mathjax_support.html",
-    "_posts/Template.md",
-    "_posts/another-test-markdown.md",
-    "_posts/2023-11-08-MarkDown.md",
     "_posts/quick-mardown-example.md",
     "_posts/table-example.md",
     "_posts/test-markdown.md",
@@ -236,10 +239,6 @@
     "_posts/2023-11-04-1-3진수 뒤집기.md",
     "_posts/2023-11-02-2-MiniGameGameScene.md",
     "_posts/_Basic Template.md",
-    "_site/posts/2023-10-27-2-튜플 Tuple.html",
-    "_site/posts/2023-10-27-1-구조체.html",
-    "_site/posts/2023-10-26-4-상속.html",
-    "_site/posts/2023-10-26-3-this_Keyword.html",
     "_site/assets/img/projects/stock.png",
     "_site/assets/img/projects/projects-heading.jpg",
     "_site/assets/img/projects/project2_thumb.jpg",
