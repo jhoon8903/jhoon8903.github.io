@@ -29,10 +29,11 @@ jobs:
 
       - name: Build Jekyll site
         run: |
-          bundle exec jekyll build
+          bundle exec jekyll serve-build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.SECRET }}
           publish_dir: ./_site  # Jekyll의 기본 output directory
+      
