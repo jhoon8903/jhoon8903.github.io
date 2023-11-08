@@ -45,7 +45,7 @@ copyright: "Unpublished Work (cleft) 2022-{currentYear} {author}"
 description: >- # this means to ignore newlines until "baseurl:"
   Unity 개발 주제의 다양한 내용의 개인성장 개발 블로그
 
-baseurl: /jhoon8903.github.io # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jhoon8903.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
