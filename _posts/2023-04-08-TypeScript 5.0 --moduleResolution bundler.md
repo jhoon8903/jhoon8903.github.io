@@ -1,14 +1,16 @@
 ---
+layout: post
 title: TypeScript 5.0 --moduleResolution bundler
-category: javascript
-author: "이정훈"
-tags: [javascript, typescript, information]
-img : https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2023/03/5-0-feature-image-square-bounds-1.png
-comments_disable: true
-meta_description: "TypeScript 5.0 --moduleResolution bundler"
+subtitle: TypeScript 5.0 Update Notice
+categories: TypeScript
+author: Daniel
+tags: 
+ - TypeScript
+banner:
+ image : https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2023/03/5-0-feature-image-square-bounds-1.png
 ---
 
-# --moduleResolution bundler
+## --moduleResolution bundler
 
 TypeScript 4.7에서는 Node.js의 ECMAScript 모듈에 대한 정확한 탐색 규칙을 더 잘 모델링하기 위해 
 --module 및 --moduleResolution 설정에 대해 node16 및 nodenext 옵션을 도입했습니다. 

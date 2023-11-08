@@ -1,15 +1,17 @@
 ---
+layout: post
 title: TypeScript 5.0 추가된 내용
-category: javascript
-author: "이정훈"
-tags: [javascript, typescript, information]
-img : https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2023/03/5-0-feature-image-square-bounds-1.png
-comments_disable: true
-meta_description: "TypeScript 5.0 추가된 내용"
+subtitle: TypeScript 5.0 Update Notice
+categories: TypeScript
+author: Daniel
+tags: 
+ - TypeScript
+banner:
+ image : https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2023/03/5-0-feature-image-square-bounds-1.png
 ---
 
 
-# beta 및 RC 이후 추가된 내용
+## beta 및 RC 이후 추가된 내용
 
 ### 1. 데코레이터 위치 변경 허용
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
+                "file": "_posts/2023-04-16-2-Unity_좌표_체계.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
+                "file": "_posts/2023-04-16-2-Unity_좌표_체계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
+                "file": "_posts/2023-04-16-2-Unity_좌표_체계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-03-WAS, Web Server, Nest JS.md"
+                "file": "_posts/2023-04-16-2-Unity_좌표_체계.md"
               }
             }
           },
@@ -204,21 +204,34 @@
   },
   "active": "f8d4e2bb738c3a07",
   "lastOpenFiles": [
-    "_posts/2023-04-04-TypeScript_추가된 내용.md",
-    "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
-    "_site/cs/2023/04/03/WAS,-Web-Server,-Nest-JS.html",
-    "_site/cs/2023/04/03",
-    "_site/2023/11/08/2023-04-03-WAS,-Web-Server,-Nest-JS.html",
+    "_posts/2023-04-16-1-Unity_Engine.md",
+    "_posts/2023-04-14-Unity_GetButton.md",
+    "_posts/2023-04-14-Game 기획.md",
+    "_posts/2023-04-13-Unity_Time.deltaTime.md",
+    "_posts/2023-04-10-UnitySetting.md",
+    "_posts/2023-04-16-2-Unity_좌표_체계.md",
+    "_site/unity/2023/04/14/Unity_GetButton.html",
+    "_site/unity/2023/04/14",
+    "_site/2023/11/08/2023-04-14-Unity_GetButton.html",
     "_site/2023/11/08",
     "_site/2023/11",
     "_site/2023",
+    "_site/game/2023/04/14/Game-기획.html",
+    "_site/game/2023/04/14",
+    "_site/2023/11/08/2023-04-14-Game-기획.html",
+    "_posts/2023-04-10-TypeScript 5.0 Support for export type `*`.md",
+    "_posts/2023-04-09-TypeScript 5.0 Resolution Customization Flags.md",
+    "_site/unity/2023/04/10/UnitySetting.html",
+    "_posts/2023-04-08-TypeScript 5.0 --moduleResolution bundler.md",
+    "_posts/2023-04-07-TypeScript-5.0-Multiple-Conf.md",
+    "_posts/2023-04-07-TypeScript-5.0-Enums.md",
+    "_posts/2023-04-06-TypeScript_5.0_const_Type Parameters.md",
+    "_posts/2023-04-05-TypeScript_Decorators.md",
+    "_posts/2023-04-04-TypeScript_추가된 내용.md",
+    "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
     "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
     "_posts/2023-04-01-Parameter_Argument.md",
-    "_site/cs/2023/04/01/Parameter_Argument.html",
-    "_site/cs/2023/04/01",
-    "_site/2023/11/08/2023-04-01-Parameter_Argument.html",
     "_posts/2023-03-28-Dependency Injection.md",
-    "_site/nestjs/2023/03/28/Dependency-Injection.html",
     "_posts/2023-03-27-MSA.md",
     "_posts/2023-03-27-Indexing.md",
     "_posts/2023-03-23-정규화.md",
@@ -227,19 +240,6 @@
     "_posts/2023-03-20-시간복잡도와 공간복잡도.md",
     "_posts/2023-03-20-스택 그리고 큐.md",
     "_posts/2023-03-19-Postgresql HA(이중화 및 고가용성) && auto Failover.md",
-    "_posts/2023-03-17-rpm Package 생성.md",
-    "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
-    "_posts/2023-03-18-Ubuntu nGrinder Agent Install.md",
-    "_posts/2023-03-18-nGrinder 트러블슈팅.md",
-    "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
-    "_posts/2023-03-17-Test 트러블슈팅.md",
-    "_posts/2023-03-16-Test 준비.md",
-    "_posts/2023-03-15-PDCA.md",
-    "_posts/2023-02-11-5. Components and Props.md",
-    "_posts/2023-02-11-6. State and Lifecycle.md",
-    "_posts/2023-02-11-4. Rendering Elements.md",
-    "_posts/2023-02-11-3. JSX.md",
-    "_posts/2023-02-11-2. React.md",
     "assets/images/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.07.25 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",

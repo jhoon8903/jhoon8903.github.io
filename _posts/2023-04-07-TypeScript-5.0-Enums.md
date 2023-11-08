@@ -1,13 +1,15 @@
 ---
+layout: post
 title: TypeScript 5.0 Enums
-category: javascript
-author: "이정훈"
-tags: [javascript, typescript, information]
-img : https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2023/03/5-0-feature-image-square-bounds-1.png
-comments_disable: true
-meta_description: "TypeScript 5.0 Enums"
+subtitle: TypeScript 5.0 Update Notice
+categories: TypeScript
+author: Daniel
+tags: 
+ - TypeScript
+banner:
+ image : https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2023/03/5-0-feature-image-square-bounds-1.png
 ---
-# All enums Are Union enums
+## All enums Are Union enums
 
 TypeScript가 처음으로 Enum을 도입했을 때, 그것들은 동일한 타입을 가진 일련의 숫자 상수에 불과했습니다.
 

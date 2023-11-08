@@ -1,15 +1,17 @@
 ---
+layout: post
 title:  TypeScript 5.0 Multiple Conf Files 확장 지원
-category: javascript
-author: "이정훈"
-tags: [javascript, typescript, information]
-img : https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2023/03/5-0-feature-image-square-bounds-1.png
-comments_disable: true
-meta_description: "TypeScript 5.0 Multiple Configuration Files in extends support"
+subtitle: TypeScript 5.0 Update Notice
+categories: TypeScript
+author: Daniel
+tags: 
+ - TypeScript
+banner:
+ image : https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2023/03/5-0-feature-image-square-bounds-1.png
 ---
 
 
-# Multiple Configuration Files in extends Support
+## Multiple Configuration Files in extends Support
 
 여러 프로젝트를 관리할 때, 다른 tsconfig.json 파일이 확장할 수 있는 "기본" 설정 파일이 있으면 
 도움이 됩니다. 

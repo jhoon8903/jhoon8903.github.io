@@ -1,14 +1,16 @@
 ---
+layout: post
 title: TypeScript 5.0 const Type Parameters
-category: javascript
-author: "이정훈"
-tags: [javascript, typescript, information]
-img : https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2023/03/5-0-feature-image-square-bounds-1.png
-comments_disable: true
-meta_description: "TypeScript 5.0 const Type Parameters"
+subtitle: TypeScript 5.0 Update Notice
+categories: TypeScript
+author: Daniel
+tags: 
+ - TypeScript
+banner:
+ image : https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2023/03/5-0-feature-image-square-bounds-1.png
 ---
 
-# TypeScript에서 const Type Parameters 사용하기
+## TypeScript에서 const Type Parameters 사용하기
 
 TypeScript에서 객체의 유형을 추론할 때 일반적으로 공통적인 유형을 선택합니다. 
 예를 들어, 다음 예제에서 `names`의 추론된 유형은 `string[]`입니다.

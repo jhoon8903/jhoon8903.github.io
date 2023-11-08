@@ -1,11 +1,13 @@
 ---
+layout: post
 title: Unity  레이아웃 구조
-category: Unity
-author: 이정훈
-tags: [Unity, Layout]
-img: https://i.imgur.com/GKBP5x7.png
-comments_disable: true
-meta_description: Unity  레이아웃 구조
+subtitle: 유니티의 작업 환경 View
+categories: Unity
+author: Daniel
+tags:
+ - Unity
+banner:
+ image: https://i.imgur.com/GKBP5x7.png
 ---
 
 ![](https://i.imgur.com/GKBP5x7.png)

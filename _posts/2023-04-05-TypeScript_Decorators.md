@@ -1,14 +1,16 @@
 ---
+layout: post
 title: TypeScript 5.0 Decorators
-category: javascript
-author: "이정훈"
-tags: [javascript, typescript, information]
-img : https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2023/03/5-0-feature-image-square-bounds-1.png
-comments_disable: true
-meta_description: "TypeScript 5.0 Decorators"
+subtitle: TypeScript 5.0 Update Notice
+categories: TypeScript
+author: Daniel
+tags: 
+ - TypeScript
+banner:
+ image : https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2023/03/5-0-feature-image-square-bounds-1.png
 ---
 
-# ECMAScript 데코레이터를 사용한 코드 재사용성 향상
+## ECMAScript 데코레이터를 사용한 코드 재사용성 향상
 
 ECMAScript에서 데코레이터는 클래스와 멤버를 재사용 가능한 방식으로  
 사용자 정의 할 수 있는 새로운 기능입니다. 

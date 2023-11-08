@@ -1,16 +1,19 @@
 ---
+layout: post
 title: Unity 문법
+subtitle: 유니티 Time.DeltaTime
 category: Unity
-author: 이정훈
-tags: [Unity, Time]
-img: https://img.etnews.com/photonews/2103/1396211_20210325190939_408_0012.jpg
-comments_disable: true
-meta_description: Unity 문법
+author: Daniel
+tags: 
+ - Unity
+banner:
+ image: https://img.etnews.com/photonews/2103/1396211_20210325190939_408_0012.jpg
 ---
 
 ![](https://media.tenor.com/Fm8FYgSdTPEAAAAi/rolling-cat.gif)
 
-# 게임 개발하면서 작성하는 순서 없는 문법
+게임 개발하면서 작성하는 순서 없는 문법
+--
 
 ## Time.deltaTime
 ```csharp

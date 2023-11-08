@@ -1,14 +1,16 @@
 ---
+layout: post
 title: TypeScript 5.0 Resolution Customization Flags
-category: javascript
-author: "이정훈"
-tags: [javascript, typescript, information]
-img : https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2023/03/5-0-feature-image-square-bounds-1.png
-comments_disable: true
-meta_description: "TypeScript 5.0 Resolution Customization Flags"
+subtitle: TypeScript 5.0 Update Notice
+categories: TypeScript
+author: Daniel
+tags: 
+ - TypeScript
+banner:
+ image : https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2023/03/5-0-feature-image-square-bounds-1.png
 ---
 
-# TypeScript 5.0의  Resolution Customization Flags 기능
+## TypeScript 5.0의  Resolution Customization Flags 기능
 
 JavaScript 도구는 이제 위에서 설명한 번들러 모드와 같은 "하이브리드" resolution rules을 모델링할 수 있습니다. 
 
