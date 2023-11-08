@@ -1,14 +1,19 @@
 ---
+layout: post
 title: MySQL 통계 ORDER BY
-category: MySQL
-author: "이정훈"
-tags: [MySQL, database]
-img : ":mysql.png"
-comments_disable: true
-meta_description: "My SQL Query"
+subtitle: 정렬알고리즘에 사용 가능한 쿼리
+categories: MySQL
+author: Daniel
+tags: 
+ - MySQL
+ - Database
+ - Query
+banner:
+ image : assets/images/post/mysql.png
 ---
 
 ORDER BY
+--
 - 정렬을 위해 사용 
 - ORDER BY fieldName DESC : 내림차순
 ![](https://i.imgur.com/vMvSNT9.png)

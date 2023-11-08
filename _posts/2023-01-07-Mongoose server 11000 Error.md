@@ -1,11 +1,17 @@
 ---
+layout: post
 title: Mongoose server 11000 Error
-category: 트러블슈팅
-author: "이정훈"
-tags: [트러블슈팅, mongodb, mongoose]
-img : ":CPCzrTw.png"
-comments_disable: true
-meta_description: "Mongoose server 11000 Error"
+subtitle: Database 연결 실패 트러블슈팅
+categories: Trouble
+author: Daniel
+tags: 
+ - Trouble
+ - Project
+ - Network
+ - Programming
+ - NodeJS
+ - Database
+img : assets/images/posts/CPCzrTw.png
 ---
 
 ![](https://i.imgur.com/vvjUw24.png)

@@ -1,11 +1,14 @@
 ---
+layout: post
 title: Vaildation (검증)
-category: 트러블슈팅
-author: "이정훈"
-tags: [트러블슈팅, mongoose, mongodb]
-img : ":W3t6zdq.png"
-comments_disable: true
-meta_description: "moongoose vaildation"
+subtitle: 유저정보 검증하기
+categories: Trouble
+author: Daniel
+tags: 
+ - Database
+ - Trouble
+banner:
+ image : assets/images/posts/W3t6zdq.png
 ---
 
 function is1(value) {

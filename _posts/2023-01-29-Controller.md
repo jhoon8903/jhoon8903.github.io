@@ -1,11 +1,15 @@
 ---
-title: Controller
-category: nestjs
-author: "이정훈"
-tags: [nestjs]
-img : https://i.imgur.com/HGnED1T.png
-comments_disable: true
-meta_description: "Nest JS Controller"
+layout: post
+title: Nest JS Controller
+subtitle: Controller 데코레이터
+categories: NestJS
+author: Daniel
+tags: 
+ - NestJS
+ - Programming
+ - Framework
+banner:
+ image : https://i.imgur.com/HGnED1T.png
 ---
 
 ![](https://i.imgur.com/HGnED1T.png)

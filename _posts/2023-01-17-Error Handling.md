@@ -1,11 +1,14 @@
 ---
+layout: post
 title: 에러 핸들링
-category: javascript
-author: "이정훈"
-tags: [javascript]
-img : https://velog.velcdn.com/images/jeeho102/post/5e053405-ca9d-47dc-a015-7b433aaa1478/image.png
-comments_disable: true
-meta_description: "error handling"
+subtitle: Try Chtch 에러 핸들링 하기
+categories: Programming
+author: Daniel
+tags: 
+ - NodeJS
+ - Programming
+banner:
+ image : https://velog.velcdn.com/images/jeeho102/post/5e053405-ca9d-47dc-a015-7b433aaa1478/image.png
 ---
 
 ## 에러 핸들링 (Error handling)

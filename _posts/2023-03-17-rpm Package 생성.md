@@ -1,11 +1,16 @@
 ---
+layout: post
 title: rpm Package 생성
-category: test
-author: "이정훈"
-tags: [rpm, test, 자동화]
-img : ":RPM_Logo.svg.png"
-comments_disable: true
-meta_description: "rpm 패키지 생성"
+subtitle: 환경 자동 관리를 위한 RPM Pakage Manger 생성
+categories: Project 
+author: Daniel
+tags: 
+ - Project
+ - Test
+ - Automation
+ - ToolTip
+banner:
+ image : assets/images/posts/RPM_Logo.svg.png
 ---
 
 CentOS 기준

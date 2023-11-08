@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-01-05-Mongdb.md",
+                "file": "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-01-05-Mongdb.md",
+                "file": "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-01-05-Mongdb.md",
+                "file": "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-01-05-Mongdb.md"
+                "file": "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md"
               }
             }
           },
@@ -204,30 +204,42 @@
   },
   "active": "f8d4e2bb738c3a07",
   "lastOpenFiles": [
-    "_posts/2023-01-05-CORS.md",
-    "_site/network/2023/01/05/CORS.html",
-    "_site/network/2023/01/05",
-    "_site/net/2023/01/05/CORS.html",
-    "_site/net/2023/01/05",
-    "_site/net/2023/01",
-    "_site/net/2023",
-    "_site/net",
-    "_site/cs/2023/01/05/CORS.html",
-    "_site/cs/2023/01/05",
-    "_site/cs/2023/01",
-    "_posts/2023-01-04-TCP_UDP.md",
-    "_posts/2023-01-03-REQRES.md",
-    "_posts/2023-01-02-Route.md",
-    "_posts/2023-01-01-restapi개발.md",
-    "_posts/2023-01-01-REST API (Resource).md",
-    "_posts/2022-12-31-REST API.md",
-    "_posts/2022-12-30-Express Middleware.md",
-    "_posts/2022-12-24-module.md",
-    "_posts/2022-12-23-NPM.md",
-    "_posts/2022-12-23-Node & REPL.md",
-    "_posts/2022-12-22-데이터의 종속성과 중복성.md",
-    "_posts/2022-12-21-Class.md",
-    "_posts/2022-12-20-프로세스와 스레드.md",
+    "_posts/2023-03-19-Postgresql HA(이중화 및 고가용성) && auto Failover.md",
+    "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
+    "_site/project/2023/03/19/PG_POOL-II-INSTALL-&-HA-&-WATCH-DOG.html",
+    "_site/project/2023/03/19",
+    "_site/2023/11/08/2023-03-19-PG_POOL-II-INSTALL-&-HA-&-WATCH-DOG.html",
+    "_site/2023/11/08",
+    "_site/2023/11",
+    "_site/2023",
+    "_posts/2023-03-18-Ubuntu nGrinder Agent Install.md",
+    "_site/2023/03/19/PG_POOL-II-INSTALL-&-HA-&-WATCH-DOG.html",
+    "_site/2023/03/19",
+    "_site/2023/03",
+    "_posts/2023-03-18-nGrinder 트러블슈팅.md",
+    "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
+    "_posts/2023-03-17-Test 트러블슈팅.md",
+    "_posts/2023-03-17-rpm Package 생성.md",
+    "_site/project/2023/03/18/Ubuntu-nGrinder-Agent-Install.html",
+    "_posts/2023-03-16-Test 준비.md",
+    "_posts/2023-03-15-PDCA.md",
+    "_posts/2023-02-11-5. Components and Props.md",
+    "_posts/2023-02-11-6. State and Lifecycle.md",
+    "_posts/2023-02-11-4. Rendering Elements.md",
+    "_posts/2023-02-11-3. JSX.md",
+    "_posts/2023-02-11-2. React.md",
+    "_posts/2023-02-11-1. html_SPA.md",
+    "_posts/2023-02-08-10. Docker Image 생성.md",
+    "_posts/2023-02-07-9. docker shell 환경 진입.md",
+    "_posts/2023-02-07-8. Docker Redis.md",
+    "_posts/2023-02-06-7.  Docker Commands.md",
+    "_posts/2023-02-05-6. C group - Name Space.md",
+    "_posts/2023-02-05-5. Docker Image to Container.md",
+    "_posts/2023-02-04-4. Docker Theory.md",
+    "_posts/2023-02-04-3. Docker Use.md",
+    "_posts/2023-02-04-2. Docker를 알아보자.md",
+    "_posts/2023-02-04-1. Docker.md",
+    "_posts/2023-02-03-NEST JS 트러블슈팅 2.md",
     "assets/images/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.07.25 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",
@@ -237,18 +249,6 @@
     "assets/images/posts/Screen Recording 2023-10-13 at 8.28.47 PM.mov.gif",
     "assets/images/posts/Screen Recording 2023-10-16 at 11.38.14 PM.mov.gif",
     "_site/assets/images/posts/Pasted_image_20230331193302.png",
-    "_site/assets/images/posts/Pasted_image_20230331193202.png",
-    "assets/images/posts/Pasted.md",
-    "_posts/2022-12-20-객체리터럴.md",
-    "_posts/2023-11-08-MarkDown.md",
-    "_posts/another-test-markdown.md",
-    "_posts/quick-mardown-example.md",
-    "_posts/table-example.md",
-    "_posts/Template.md",
-    "_posts/test-markdown.md",
-    "_posts/Video Play Post Example.md",
-    "README.md",
-    "_site/assets/images/posts/Pasted.md",
-    "_posts/2022-12-18-for.md"
+    "_site/assets/images/posts/Pasted_image_20230331193202.png"
   ]
 }

@@ -1,15 +1,21 @@
 ---
+layout: post
 title: Naver Cloud postgresql-14 Install
-category: test
-author: "이정훈"
-tags: [test, server, database, postgresql]
-img : ":postglogo.png"
-comments_disable: true
-meta_description: "Naver Cloud postgresql-14 Install (CENTOS 7)"
+subtitle: 네이버 클라우드 인스턴스를 이용한 postgresql 설치
+categories: Project
+author: Daniel
+tags:
+ - Database
+ - Cloud
+ - Project
+ - OpenSource
+ - Tooltip
+banner:
+ - image : assets/images/posts/postglogo.png
 ---
 
-
-# CentOS 7.8 기준
+CentOS 7.8 기준
+--
 
 ## postgresql 14 Install
 

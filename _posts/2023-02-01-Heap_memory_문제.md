@@ -1,14 +1,19 @@
 ---
+layout: post
 title: Nest JS Bulid heap memory 이슈
-category: 트러블슈팅
-author: "이정훈"
-tags: [트러블슈팅, service]
-img : https://i.imgur.com/Yfc1IPP.jpg
-comments_disable: true
-meta_description: "Nest JS Bulid heap memory 이슈"
+subtitle: EC2 Heap Memory 에러 해결
+categories: Trouble
+author: Daniel
+tags: 
+ - Trouble
+ - CS
+ - AWS
+banner:
+ image : https://i.imgur.com/Yfc1IPP.jpg
 ---
 
-# t2.micro 에서 Nest JS build 실패
+t2.micro 에서 Nest JS build 실패
+--
 
 Nest Js 에서 빌드 중 -  heap limit Allocation failed - Javascript heap out of memory 문제 발생. 
 
@@ -56,6 +61,7 @@ t2.micro 의 Ram 은 1gb 이므로 2배수인 2gb로 스왑 = > 빌드 실패
 ### 4. Node JS Memory 증량
 
 Node JS의 경우 버전별로 가용 최대 메모리 사이즈가 다르다
+
 |버전|최대 가용 메모리|
 |:---:|:----:|
 |v12 이하|1.35gb|

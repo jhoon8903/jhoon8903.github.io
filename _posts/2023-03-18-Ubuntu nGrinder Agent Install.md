@@ -1,14 +1,20 @@
 ---
+layout: post
 title: Ubuntu nGrinder Agent Install
-category: test
-author: "이정훈"
-tags: [test, nGrinder, cloud]
-img : ":kRmfd56.png"
-comments_disable: true
-meta_description: "Ubuntu nGrinder Agent Install"
+subtitle: 네이버 클라우드에 테스트를 위한 nGrinder 설치
+categories : Project
+author: Daniel
+tags: 
+ - Tooltip
+ - Test
+ - Cloud
+ - Project
+banner:
+ image : assets/images/posts/kRmfd56.png
 ---
 
-# Instance Create
+Instance Create
+--
 
 ![](https://i.imgur.com/kRmfd56.png)
 

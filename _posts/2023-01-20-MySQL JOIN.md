@@ -1,14 +1,19 @@
 ---
+layout: post
 title: MySQL JOIN
-category: MySQL
-author: "이정훈"
-tags: [MySQL, database]
-img : ":mysql.png"
-comments_disable: true
-meta_description: "My SQL Query"
+subtitle: MySQL Query JOIN
+categories: MySQL
+author: Daniel
+tags: 
+ - MySQL
+ - Database
+ - Query
+banner:
+ image : assets/images/posts/mysql.png
 ---
 
-# JOIN ( 여러 TABLE을 연결 )
+JOIN ( 여러 TABLE을 연결 )
+--
 
  - 두 Table의 공통된 정보 (key value)를 기준으로 [한 Table]처럼 보는 것
 	 - ex) user_id Field 기준으로 user 와 orders Table을 연결해서 한눈에 보는 것

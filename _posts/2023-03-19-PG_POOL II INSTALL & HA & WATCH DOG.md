@@ -1,13 +1,20 @@
 ---
+layout: post
 title: PG_POOL II INSTALL & HA & WATCH DOG
-category: test
-author: "이정훈"
-tags: [test, postgresql]
-img : ":pg2.png"
-comments_disable: true
-meta_description: "PG_POOL II INSTALL & HA & WATCH DOG"
+subtitle: 장애대응 오픈소스 설치
+categories: Project
+author: Daniel
+tags: 
+ - Project
+ - OpenSource
+ - ToolTip
+ - Cloud
+banner:
+ image : assets/images/posts/pg2.png
 ---
-# CentOS 7
+CentOS 7
+--
+
 ```
 sudo yum install -y dnf
 ```
