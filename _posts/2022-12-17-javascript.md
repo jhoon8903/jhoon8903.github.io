@@ -1,11 +1,14 @@
 ---
-title: JavaScript
-category: cs
-author: "이정훈"
-tags: [javascript]
-img : https://user-images.githubusercontent.com/114923190/209463375-3894baf5-f616-4f80-8c9a-590ecf8ef6bc.png
-comments_disable: true
-meta_description: "javascript란?"
+layout: post
+title: What is JavaScript
+subtitle: 자바스크립트란 무엇인가?
+categories: JavaScript
+author: Daniel
+tags: 
+ - JavaScript
+ - Language
+banner:
+ image : https://user-images.githubusercontent.com/114923190/209463375-3894baf5-f616-4f80-8c9a-590ecf8ef6bc.png
 ---
 
 ## JavaScript 란? 

@@ -1,16 +1,21 @@
 ---
+layout: post
 title: Async-Await-1
-category: cs
-author: "이정훈"
-tags: [cs, javascript]
-img: ":Yopc9NI.jpg"
-comments_disable: true
-meta_description: "Javascript Async Await gif"
+subtitle: 비동기 함수 Async Await
+categories: JavaScript
+author: Daniel
+tags: 
+ - JavaScript
+ - Programming
+ - Language
+banner:
+ image: /assets/images/posts/Yopc9NI.jpg
 ---
 
 원문 : https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke#syntax
 
-# Async / Await
+Async / Await
+--
 
 ## Async / Await 실행 예문
 

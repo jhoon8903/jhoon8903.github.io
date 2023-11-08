@@ -1,14 +1,19 @@
 ---
+layout: post
 title: var, let, const
-category: cs
-author: "이정훈"
-tags: [cs, javascript]
-img : ":ffCqyCc.png"
-comments_disable: true
-meta_description: "Javascript var, let, const"
+subtitle: JavaScript의 변수
+categories: JavaScript
+author: Daniel
+tags: 
+ - JavaScript
+ - Language
+ - Programming
+banner:
+ image : /assets/images/posts/ffCqyCc.png
 ---
 
-# 변수 선언
+변수 선언
+--
 ## 선언 (declaration) => 초기화 (initialization)
 
 ## var

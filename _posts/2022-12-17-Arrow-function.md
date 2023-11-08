@@ -1,11 +1,15 @@
 ---
-title: Arrow function
-category: cs
-author: "이정훈"
-tags: [javascript, cs]
-img : ":arrow.png"
-comments_disable: true
-meta_description: "Javascript Arrow Function 화살표함수"
+layout: post
+title: JavaScript Arrow function
+subtitle: JavaScript 화살표 함수
+categories: JavaScript
+author: Daniel
+tags: 
+ - JavaScript
+ - Language
+ - Programming
+banner:
+ image : /assets/images/posts/arrow.png
 ---
 
 화살표 함수는 ECMAScript 6(ES6)에서 도입된 JavaScript에서 함수 표현식을 생성하기 위한 간결하고 보다 현대적인 구문입니다. 화살표 함수는 더 짧은 구문을 제공하며 기존 함수 표현식과 비교하여 동작에 약간의 차이가 있습니다.

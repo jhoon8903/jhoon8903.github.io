@@ -1,14 +1,19 @@
 ---
+layout: post
 title: Async-Await-2
-category: javascript
-author: "이정훈"
-tags: [javascript, cs]
-img : ":async2.png"
-comments_disable: true
-meta_description: "Javascript Async Await"
+subtitle: 자바스크립트 비동기 함수 2
+category: JavaScript
+author: Daniel
+tags: 
+ - JavaScript
+ - Language
+ - Programming
+banner:
+ image : /assets/images/posts/async2.png
 ---
 
-# 동기 (Synchronous) & 비동기(Asynchronous)
+동기 (Synchronous) & 비동기(Asynchronous)
+--
 
 - '동기'로 실행된다 = 먼저 실행된 코드의 결과나 나올때까지 '대기'하는 것
 - '비동기'로 실행된다 = 실행된 순서와 관계 없이 결과가 나오는 것
