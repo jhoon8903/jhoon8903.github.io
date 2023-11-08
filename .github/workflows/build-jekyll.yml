@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - master # Here source code branch is `master`, it could be other branch
+  pull_request:
+    branches:
+      - main
 
 jobs:
   build_and_deploy:
@@ -35,3 +38,5 @@ jobs:
           cname: "" # Default is to not use a cname
           actor: "" # Default is the GITHUB_ACTOR
           pre_build_commands: "" # Installing additional dependencies (Arch Linux)
+          jekyll_build_options: "--future" # 미래의 포스트를 빌드하기 위한 옵션
+          # 필요한 추가적인 jekyll build 옵션들을 여기에 추가할 수 있습니다.
