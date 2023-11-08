@@ -25,7 +25,11 @@ jobs:
         run: git config --global --add safe.directory /github/workspace
 
       - name: Install Bundler
-        run: gem install bundler -v '2.4.21'
+        run: gem install bundler -v '2.4.21' --user-install
+
+      - name: Set Bundler path
+        run: echo "PATH=$HOME/.gem/ruby/3.0.0/bin:$PATH" >> $GITHUB_ENV
+      
 
       - name: Install dependencies
         run: bundle install
