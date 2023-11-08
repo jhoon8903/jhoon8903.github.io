@@ -1,14 +1,21 @@
 ---
+layout: post
 title: Postgresql HA(이중화 및 고가용성) && auto Failover
-category: test
-author: "이정훈"
-tags: [test, postgresql, HA]
-img : ":HA.png"
-comments_disable: true
-meta_description: "repmgr 고가용성 구현"
+subtitle: 고가용성을 위한 Postgresql OpenSource Setting 
+categories: Project
+author: Daniel
+tags: 
+ - ToolTip
+ - OpenSource
+ - Database
+ - Automation
+ - Cloud
+banner:
+ image : assets/images/posts/HA.png
 ---
 
-# CENTOS 7.6 / Postgresql -14.7 기준
+CENTOS 7.6 / Postgresql -14.7 기준
+--
 
 ## 공통 (Master, Slave1, Slave2)
 

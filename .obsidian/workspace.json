@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
+                "file": "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
+                "file": "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
+                "file": "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md"
+                "file": "_posts/2023-04-03-WAS, Web Server, Nest JS.md"
               }
             }
           },
@@ -204,23 +204,35 @@
   },
   "active": "f8d4e2bb738c3a07",
   "lastOpenFiles": [
-    "_posts/2023-03-19-Postgresql HA(이중화 및 고가용성) && auto Failover.md",
-    "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
-    "_site/project/2023/03/19/PG_POOL-II-INSTALL-&-HA-&-WATCH-DOG.html",
-    "_site/project/2023/03/19",
-    "_site/2023/11/08/2023-03-19-PG_POOL-II-INSTALL-&-HA-&-WATCH-DOG.html",
+    "_posts/2023-04-04-TypeScript_추가된 내용.md",
+    "_posts/2023-04-03-WAS, Web Server, Nest JS.md",
+    "_site/cs/2023/04/03/WAS,-Web-Server,-Nest-JS.html",
+    "_site/cs/2023/04/03",
+    "_site/2023/11/08/2023-04-03-WAS,-Web-Server,-Nest-JS.html",
     "_site/2023/11/08",
     "_site/2023/11",
     "_site/2023",
+    "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
+    "_posts/2023-04-01-Parameter_Argument.md",
+    "_site/cs/2023/04/01/Parameter_Argument.html",
+    "_site/cs/2023/04/01",
+    "_site/2023/11/08/2023-04-01-Parameter_Argument.html",
+    "_posts/2023-03-28-Dependency Injection.md",
+    "_site/nestjs/2023/03/28/Dependency-Injection.html",
+    "_posts/2023-03-27-MSA.md",
+    "_posts/2023-03-27-Indexing.md",
+    "_posts/2023-03-23-정규화.md",
+    "_posts/2023-03-22-트랜젝션.md",
+    "_posts/2023-03-21-배열과 링크드리스트.md",
+    "_posts/2023-03-20-시간복잡도와 공간복잡도.md",
+    "_posts/2023-03-20-스택 그리고 큐.md",
+    "_posts/2023-03-19-Postgresql HA(이중화 및 고가용성) && auto Failover.md",
+    "_posts/2023-03-17-rpm Package 생성.md",
+    "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
     "_posts/2023-03-18-Ubuntu nGrinder Agent Install.md",
-    "_site/2023/03/19/PG_POOL-II-INSTALL-&-HA-&-WATCH-DOG.html",
-    "_site/2023/03/19",
-    "_site/2023/03",
     "_posts/2023-03-18-nGrinder 트러블슈팅.md",
     "_posts/2023-03-18-Naver Cloud postgresql-14 Install (CENTOS 7).md",
     "_posts/2023-03-17-Test 트러블슈팅.md",
-    "_posts/2023-03-17-rpm Package 생성.md",
-    "_site/project/2023/03/18/Ubuntu-nGrinder-Agent-Install.html",
     "_posts/2023-03-16-Test 준비.md",
     "_posts/2023-03-15-PDCA.md",
     "_posts/2023-02-11-5. Components and Props.md",
@@ -228,18 +240,6 @@
     "_posts/2023-02-11-4. Rendering Elements.md",
     "_posts/2023-02-11-3. JSX.md",
     "_posts/2023-02-11-2. React.md",
-    "_posts/2023-02-11-1. html_SPA.md",
-    "_posts/2023-02-08-10. Docker Image 생성.md",
-    "_posts/2023-02-07-9. docker shell 환경 진입.md",
-    "_posts/2023-02-07-8. Docker Redis.md",
-    "_posts/2023-02-06-7.  Docker Commands.md",
-    "_posts/2023-02-05-6. C group - Name Space.md",
-    "_posts/2023-02-05-5. Docker Image to Container.md",
-    "_posts/2023-02-04-4. Docker Theory.md",
-    "_posts/2023-02-04-3. Docker Use.md",
-    "_posts/2023-02-04-2. Docker를 알아보자.md",
-    "_posts/2023-02-04-1. Docker.md",
-    "_posts/2023-02-03-NEST JS 트러블슈팅 2.md",
     "assets/images/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.07.25 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",

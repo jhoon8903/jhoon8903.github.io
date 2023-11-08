@@ -1,25 +1,29 @@
 ---
+layout: post
 title: Parameter-Argument
-category: cs
-author: "이정훈"
-tags: [cs]
-img : https://www.scaler.com/topics/images/difference-between-arguments-and-parameters-in-c_thumbnail.webp
-comments_disable: true
-meta_description: "Parameter-Argument"
+subtitle: 파라매터 변수에 대해서
+category: CS
+author: Daniel
+tags: 
+ - CS
+ - Programming
+banner:
+ image : https://www.scaler.com/topics/images/difference-between-arguments-and-parameters-in-c_thumbnail.webp
 ---
 
-# Parameter
-## 함수를 정의할 때 사용되는 변수
+Parameter
+--
+### 함수를 정의할 때 사용되는 변수
 
-# Argument
-## 실제 함수를 '호출할 때 넘기는' 변수값을 의미한다.
+## Argument
+### 실제 함수를 '호출할 때 넘기는' 변수값을 의미한다.
 
 ![](https://i.imgur.com/yOLJPMJ.png)
 
 
 ***
 
-# 인자 • 인수 • 매개변수 (Parameter)
+## 인자 • 인수 • 매개변수 (Parameter)
 ![](https://i.imgur.com/V0VHKZf.png)
 
 ### 매개변수 : 인자를 받기 위한 '매개체' 로써 선언된 변수

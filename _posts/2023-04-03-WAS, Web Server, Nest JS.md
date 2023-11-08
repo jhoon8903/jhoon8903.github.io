@@ -1,21 +1,26 @@
 ---
-title: WAS, Web Server, Nest JS 
-category: cs
-author: "이정훈"
-tags: [cs, nest js, node js]
-img : https://www.temok.com/blog/wp-content/uploads/2022/04/What-is-the-Difference-between-Web-Server-vs-Application-Server-1-2.jpg
-comments_disable: true
-meta_description: "WAS, Web Server, Node JS "
+layout: post
+title: WAS, Web Server, Nest JS
+subtitle: WAS와 Web Server
+categories: CS
+author: Daniel
+tags: 
+ - CS
+ - NestJS
+ - NodeJS
+banner:
+ image : https://www.temok.com/blog/wp-content/uploads/2022/04/What-is-the-Difference-between-Web-Server-vs-Application-Server-1-2.jpg
 ---
 
-# 결론 '상황에 따라 변하는 정보를 제공할 수 있는가?'
+결론 '상황에 따라 변하는 정보를 제공할 수 있는가?'
+--
 
 ![](https://www.temok.com/blog/wp-content/uploads/2022/04/What-is-a-Web-Server.jpg)
 [TEMOK](https://www.temok.com/blog/web-server-vs-application-server/)
 
 ***
 
-# Web Server ?
+## Web Server ?
 
 - 웹 서버는 [HTTP Protocol](https://jhoon8903.github.io/posts/2022-12-18-Http)을 처리합니다.
 - HTTP 요청이 Web Server(이하 WS)에서 우신될 때마다 HTTP 응답을 반환합니다.
@@ -46,7 +51,7 @@ meta_description: "WAS, Web Server, Node JS "
 
 ***
 
-# Web Application Server ?
+## Web Application Server ?
 
 - WAS는 HTTP와 같은 다양한 Protocol을 사용하는 Business Logic에 대한 
   Client Application Access를 제공
@@ -55,25 +60,25 @@ meta_description: "WAS, Web Server, Node JS "
 - Dynamic Information, Data, Method 드의 형태를 취하는 Logic이 포함됨
 ![](https://i.imgur.com/d4mPFZl.jpg)
 
-## Web Application Server의 주요기능
+### Web Application Server의 주요기능
 - Dynamic Business Logic을 제공
 - 계산, 데이터 처리 및 저장과 같은 백엔드 기능을 처리할 수 있음
 - Application, Security, Dependency Injection, EJB 및 Data Pooling Deploy 가능
 - WS 보다 많은 기능을 갖춘 상위 서버
 
-## Dynimic Web page의 장 • 단점
+### Dynimic Web page의 장 • 단점
 
-### 장점
+#### 장점
 - Client Req에 따라 Dynamic page를 생성, 제공 하므로 서비스가 다양해짐
 - 삽입, 수정, 삭제 등의 작업 관리가 쉬움
 
-### 단점
+#### 단점
 - Client에게 Web page 를 구성해주기 전, 처리하는 Business Logic이 있어 상대적으로 느림
 - 추가적인 비용 발생
 
 ***
 
-# WS 와 WAS의 차이점
+## WS 와 WAS의 차이점
 
 |Web Server|Web Application Server|
 |:------|:------|
@@ -85,14 +90,14 @@ meta_description: "WAS, Web Server, Node JS "
 
 ***
 
-# WS와 WAS를 분리하는 이유
+## WS와 WAS를 분리하는 이유
 
-## Web Server가 필요한 이유
+### Web Server가 필요한 이유
  
 - 정적인 파일들을 WAS까지 가지 않고 빠르게 처리가 가능
 - 정적 컨텐츠만 처리하도록 기능을 분배하여 서버의 부담을 줄일 수 있음
 
-## WAS가 필요한 이유?
+### WAS가 필요한 이유?
 
 - Web Page는 Static / Dynamic 모두 존재
 - Client 요청에 맞게 적절한 Contents를 만들어서 제공해야 한다.  
@@ -100,9 +105,9 @@ meta_description: "WAS, Web Server, Node JS "
 - WAS를 통해 요청에 맞는 데이터를 DB에서 가져와서 비즈니스 로직에 맞게 그때 그때 결과를 만들어서   
   제공함으로써 자원을 효율적으로 사용할 수 있다.
 
-## WAS가 Web Server의 기능도 모두 수행하면 되지 않을까?
+### WAS가 Web Server의 기능도 모두 수행하면 되지 않을까?
 
-### 1.  기능을 분리하여 서버 부하 방지
+#### 1.  기능을 분리하여 서버 부하 방지
 - WAS는 DB 조회나 다양한 Business Logic을 처리하느라 바쁘기 때문에 Static Contents는 
   WS에서 빠르게 Client에 제공하는 것이 좋다.
   
@@ -111,20 +116,20 @@ meta_description: "WAS, Web Server, Node JS "
   
 - 페이지 노출 시간이 증가.
 
-### 2.   물리적으로 분리하여 보안 강화
+#### 2.   물리적으로 분리하여 보안 강화
 - SSL에 대한 암복호화 처리에 Web Server를 사용
   
-### 3.  여러 대의 WAS를 연결 가능
+#### 3.  여러 대의 WAS를 연결 가능
 - Load Balancing을 위해서 Web Server를 사용
 - fail over(장애 극복), fail back 처리에 유리
 - 특히 대용량 웹 어플리케이션의 경우(여러 개의 서버 사용) Web Server와 WAS를 분리하여  
   무중단 운영을 위한 장애 극복에 쉽게 대응할 수 있다.
 - 예를 들어, 앞 단의 Web Server에서 오류가 발생한 WAS를 이용하지 못하도록 한 후 WAS를 재시작함으로써 사용자는 오류를 느끼지 못하고 이용할 수 있다.
 
-### 4. 여러 웹 어플리케이션 서비스 가능
+#### 4. 여러 웹 어플리케이션 서비스 가능
 - 예를 들어, 하나의 서버에서 PHP Application과 Java Application을 함께 사용하는 경우
 
-### 5.  기타
+#### 5.  기타
 - 접근 허용 IP 관리, 2대 이상의 서버에서의 세션 관리 등도 Web Server에서 처리하면 효율적이다.
 
 즉, 자원 이용의 효율성 및 장애 극복, 배포 및 유지보수의 편의성 을 위해 Web Server와 WAS를 분리한다.   
@@ -134,10 +139,10 @@ Web Server를 WAS 앞에 두고 필요한 WAS들을 Web Server에 플러그인 �
 
 ***
 
-# Express Js, Nest JS는 WAS 인가?
+## Express Js, Nest JS는 WAS 인가?
 ![](https://i.imgur.com/O8HKbUL.png)
 
-## "자바 진영의 WAS 기능은 엄밀히 말해, Node.js로 구현이 가능"
+### "자바 진영의 WAS 기능은 엄밀히 말해, Node.js로 구현이 가능"
 
 JS는 본래 브라우저에서만 동작할 수 있는 언어였으나 Node.js를 통해 JS 언어로 브라우저 뿐만 아니라 각종   
 범용 프로그램을 만들 수 있게 되었습니다. 

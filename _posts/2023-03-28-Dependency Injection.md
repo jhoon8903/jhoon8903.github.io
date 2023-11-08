@@ -1,14 +1,19 @@
 ---
+layout: post
 title: Dependency Injection
-category: cs
-author: "이정훈"
-tags: [cs]
-img : ":slKBeos.jpg"
-comments_disable: true
-meta_description: "Dependency Injection"
+subtitle: Nest JS 의존성 주입
+category: NestJS
+author: Daniel
+tags: 
+ - CS
+ - NestJS
+ - Programming
+banner:
+ image : assets/images/posts/slKBeos.jpg
 ---
 
-# DI
+DI
+--
 
 
 ![](https://i.imgur.com/slKBeos.jpg)
@@ -27,12 +32,13 @@ meta_description: "Dependency Injection"
 
 ---
 
-# NEST JS에서의 의존성 주입
+## NEST JS에서의 의존성 주입
 
 ![](https://i.imgur.com/TMc918y.jpg)
 
 ---
 CODE
+
 ```typescript
 class Animal{
 	private cat: Cat;

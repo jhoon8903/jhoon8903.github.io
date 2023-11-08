@@ -1,12 +1,13 @@
 ---
+latout: post
 title: Unity LifeCycle
-category: Unity
-author: 이정훈
+subtitle: 유니티의 LifeCycle
+categories: Unity
+author: Daniel
 tags:
-  - unity
-img: https://img.etnews.com/photonews/2103/1396211_20210325190939_408_0012.jpg
-comments_disable: true
-meta_description: Unity LifeCycle
+  - Unity
+banner:
+ image: https://img.etnews.com/photonews/2103/1396211_20210325190939_408_0012.jpg
 ---
 
 # 게임은 하나의 연극이다.
