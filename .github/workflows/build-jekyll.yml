@@ -14,7 +14,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: actions/cache@v3
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0' # Specify your required Ruby version here
+
+      - name: Cache Gems
+        uses: actions/cache@v3
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
@@ -28,6 +34,8 @@ jobs:
         run: |
           gem install bundler -v '2.4.21' --user-install
           echo "PATH=$(ruby -r rubygems -e 'puts Gem.user_dir')/bin:$PATH" >> $GITHUB_ENV
+          bundler -v # Add this line to confirm Bundler version
+
      
       - name: Check Bundler path
         run: which bundle
