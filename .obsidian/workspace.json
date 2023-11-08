@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/another-test-markdown.md",
+                "file": "_posts/2023-11-08-MarkDown.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,47 +165,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "58d816ead0b88735",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2a06f21a663abadd",
-        "type": "window",
-        "children": [
-          {
-            "id": "cee095783db6a0b1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dad4a306c97cb487",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "_posts/2023-11-08-MarkDown.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1030,
-        "y": 25,
-        "width": 788,
-        "height": 1627,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "dad4a306c97cb487",
+  "active": "a81260d263ec790e",
   "lastOpenFiles": [
     "_posts/another-test-markdown.md",
     "_posts/2023-11-08-MarkDown.md",
+    "_site/Screenshot 2023-11-08 at 12.29.20 PM.jpg",
+    "Screenshot 2023-11-08 at 12.29.20 PM.jpg",
     "_posts/Template.md",
     "_site/language/2023/11/08/MarkDown.html",
     "_site/language/2023/11/08",
@@ -246,8 +211,6 @@
     "_site/assets/img/projects/giringrim.png",
     "_site/assets/img/projects/bisthagumangram.png",
     "_site/assets/img/projects/background.jpeg",
-    "_site/assets/img/posts/yZ0WUFn.jpg",
-    "_site/assets/img/posts/yOrCGr7.png",
-    "_site/assets/img/posts/vHMYd3Z.png"
+    "_site/assets/img/posts/yZ0WUFn.jpg"
   ]
 }
