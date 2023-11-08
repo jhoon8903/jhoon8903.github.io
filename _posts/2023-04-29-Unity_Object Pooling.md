@@ -1,8 +1,15 @@
 ---
+layout: post
 title: Unity Object Pooling & Respawn
-category: Game
-author: 이정훈
-tags: [Unity, Programming, Object]
+subtitle: 오브젝트 풀링하여 장애물을 리스폰하는 기능
+categories: Project
+author: Daniel
+tags: 
+ - Unity
+ - Game
+ - Project
+ - Object
+ - Script
 img: https://i.imgur.com/uV1fePt.gif
 comments_disable: true
 meta_description: Unity Object Pooling Respawn

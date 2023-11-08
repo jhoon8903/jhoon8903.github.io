@@ -2,7 +2,7 @@
 layout: post
 title: Unity_GetButton
 subtitle: 유니티 Input Manager Setting
-category: Unity
+categories: Unity
 author: Daniel
 tags: 
  - Unity

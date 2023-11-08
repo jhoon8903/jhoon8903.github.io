@@ -1,11 +1,15 @@
 ---
+layout: post
 title: 게임 개발 3일차 - Climbing Game
-category: Game
-author: 이정훈
-tags: [Unity, Game, Project]
-img: https://i.imgur.com/WxdHmJe.gif
-comments_disable: true
-meta_description: 게임 개발 3일차 - Climbing Game
+subtitle: 프로토 타입 빌드 
+categories: Project
+author: Daniel
+tags: 
+ - Unity
+ - Game
+ - Project
+banner:
+ image: https://i.imgur.com/WxdHmJe.gif
 ---
 
 ## Version 1.0

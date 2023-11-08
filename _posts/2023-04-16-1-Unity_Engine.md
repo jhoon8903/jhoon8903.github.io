@@ -2,10 +2,11 @@
 layout: post
 title: Unity Engine
 subtitle: 유니티 엔진 인터페이스
-category: Unity
+categories: Unity
 author: Daniel
 tags: 
  - Unity
+ - View
 banner:
  image: https://img.etnews.com/photonews/2103/1396211_20210325190939_408_0012.jpg
 ---

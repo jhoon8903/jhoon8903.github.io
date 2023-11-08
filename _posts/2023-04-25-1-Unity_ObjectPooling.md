@@ -1,11 +1,18 @@
 ---
-title: 게임 개발 5일차 Unity ObjectPooling 트러블
-category: Unity
-author: 이정훈
-tags: [Unity, Programming, Object]
-img: https://i.imgur.com/BijPhE7.png
-comments_disable: true
-meta_description: Unity ObjectPooling 트러블
+layout: post
+title: 게임 개발 5일차 Unity ObjectPooling 트러블\
+subtitle: Object Pooling 문제 해결
+categories: Trouble
+author: Daniel
+tags:
+ - Unity
+ - Trouble
+ - Game
+ - Projet
+ - Object
+ - Script
+banner:
+ image: https://i.imgur.com/BijPhE7.png
 ---
 
 ## Object Polling 최적화

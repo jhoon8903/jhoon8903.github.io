@@ -1,11 +1,15 @@
 ---
+layout: post
 title: Unity Texture 출력
-category: Unity
-author: 이정훈
-tags: [Unity, Object]
-img: https://img.etnews.com/photonews/2103/1396211_20210325190939_408_0012.jpg
-comments_disable: true
-meta_description: Unity Texture 출력
+subtitle: 오브젝트의 질감을 더해주는 Texture 설정
+categories: Unity
+author: Daniel
+tags:
+ - Unity
+ - Object
+ - Texture
+banner:
+ image: https://img.etnews.com/photonews/2103/1396211_20210325190939_408_0012.jpg
 ---
 
 ### 2D 게임 오브젝트 Texture 출력

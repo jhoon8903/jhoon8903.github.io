@@ -2,10 +2,11 @@
 layout: post
 title: Unity 문법
 subtitle: 유니티 Time.DeltaTime
-category: Unity
+categories: Unity
 author: Daniel
 tags: 
  - Unity
+ - Time
 banner:
  image: https://img.etnews.com/photonews/2103/1396211_20210325190939_408_0012.jpg
 ---

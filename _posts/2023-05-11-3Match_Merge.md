@@ -1,11 +1,17 @@
 ---
+layout: post
 title: 3Match_Merge 시작
-category: game
-author: 이정훈
-tags: [Unity, Game, Programming, Project]
-img: https://i.imgur.com/nkZIvoY.gif
-comments_disable: true
-meta_description: 3 Match Merge
+subtitle: 퍼즐의 병합기능 구현
+categories: Project
+author: Daniel
+tags:
+ - Unity
+ - Game
+ - Script
+ - Object
+ - Project
+banner:
+ image: https://i.imgur.com/nkZIvoY.gif
 ---
 
 

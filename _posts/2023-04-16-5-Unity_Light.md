@@ -1,11 +1,14 @@
 ---
+layout: post
 title: Unity Light
-category: Unity
-author: 이정훈
-tags: [Unity, Light]
-img: https://img.etnews.com/photonews/2103/1396211_20210325190939_408_0012.jpg
-comments_disable: true
-meta_description: Unity Light
+subtitle: 유니티에서 빛을 담당하는 Light 오브젝트
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Light
+banner:
+ image: https://img.etnews.com/photonews/2103/1396211_20210325190939_408_0012.jpg
 ---
 
 ###  Light 💡

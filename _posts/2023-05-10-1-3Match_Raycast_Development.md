@@ -1,11 +1,18 @@
 ---
+layout: post
 title: 3 Match RayCast
-category: Unity
-author: 이정훈
-tags: [Unity, Game, Programming, Project]
-img: https://i.imgur.com/9e68Cnv.gif
-comments_disable: true
-meta_description: 3 Match RayCast
+subtitle: Raycast를 이용한 오브젝트 인식
+categories: Project
+author: Daniel
+tags: 
+ - Unity
+ - Project
+ - Game
+ - Physic
+ - Object
+ - Script
+banner:
+ image: https://i.imgur.com/9e68Cnv.gif
 ---
 
 

@@ -1,11 +1,17 @@
 ---
+layout: post
 title: 3Match Grid Proto Type
-category: Unity
-author: 이정훈
-tags: [Unity, Game, Programming, Project]
-img: https://i.imgur.com/9e68Cnv.gif
-comments_disable: true
-meta_description: Unity 3 Match Grid
+subtitle: 퍼즐 그리드를 생성하여 배치하기
+categories: Project
+author: Daniel
+tags: 
+ - Unity
+ - Game
+ - Project
+ - Script
+ - Object
+banner:
+ image: https://i.imgur.com/9e68Cnv.gif
 ---
 
 # Unity로 3-Match 퍼즐의 그리드 생성하기

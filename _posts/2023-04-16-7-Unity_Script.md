@@ -1,11 +1,14 @@
 ---
-title: Unity C# Script
-category: Unity
-author: 이정훈
-tags: [Unity, Script]
-img: https://img.etnews.com/photonews/2103/1396211_20210325190939_408_0012.jpg
-comments_disable: true
-meta_description: Unity C# Script
+layout: post
+title: Unity Script
+subtitle: 유니티에서 명령을 내리는 C# 기반의 Script
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Script
+banner:
+ image: https://img.etnews.com/photonews/2103/1396211_20210325190939_408_0012.jpg
 ---
 
 # Unity C# Script
