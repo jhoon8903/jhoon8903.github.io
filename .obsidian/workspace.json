@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8a5edb64f8e8c17a",
+        "id": "bd6fddf78943bfe8",
         "type": "tabs",
         "children": [
           {
-            "id": "a81260d263ec790e",
+            "id": "f8d4e2bb738c3a07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-08-MarkDown.md",
+                "file": "_posts/2022-11-13-Python-jQuery.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-08-MarkDown.md",
+                "file": "_posts/2022-11-13-Python-jQuery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-08-MarkDown.md",
+                "file": "_posts/2022-11-13-Python-jQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-08-MarkDown.md"
+                "file": "_posts/2022-11-13-Python-jQuery.md"
               }
             }
           },
@@ -165,8 +165,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a81260d263ec790e",
+  "floating": {
+    "id": "6dc889658f88ff05",
+    "type": "floating",
+    "children": [
+      {
+        "id": "62f42a637b508f56",
+        "type": "window",
+        "children": [
+          {
+            "id": "ac92d32a960a7369",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a81260d263ec790e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_posts/2023-11-08-GitPage Build Trouble.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3134,
+        "y": 172,
+        "width": 788,
+        "height": 1627,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f8d4e2bb738c3a07",
   "lastOpenFiles": [
+    "_posts/2023-11-08-GitPage Build Trouble.md",
+    "_posts/2023-11-08-MarkDown.md",
     "untitled folder",
     "_site/language/2023/11/08/MarkDown.html",
     "_site/language/2023/11/08",
@@ -177,7 +216,6 @@
     "_site/assets/videos/devstories.webm",
     "_site/assets/videos",
     "_site/assets/js/main.js",
-    "_site/assets/js",
     "_site/assets/images/stock.png",
     "_site/assets/images/posts/yZ0WUFn.jpg",
     "_site/assets/images/posts/yOrCGr7.png",
@@ -190,7 +228,6 @@
     "_site/assets/images/posts/post_pic1.jpg",
     "_site/README.md",
     "_posts/another-test-markdown.md",
-    "_posts/2023-11-08-MarkDown.md",
     "_posts/Template.md",
     "_posts/quick-mardown-example.md",
     "_posts/table-example.md",
