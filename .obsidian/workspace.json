@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "72ae921c9ee0176b",
+        "id": "8a5edb64f8e8c17a",
         "type": "tabs",
         "children": [
           {
-            "id": "dad4a306c97cb487",
+            "id": "a81260d263ec790e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-08-MarkDown.md",
+                "file": "_posts/Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,8 +165,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+  "floating": {
+    "id": "58d816ead0b88735",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2a06f21a663abadd",
+        "type": "window",
+        "children": [
+          {
+            "id": "cee095783db6a0b1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dad4a306c97cb487",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_posts/2023-11-08-MarkDown.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1030,
+        "y": 25,
+        "width": 788,
+        "height": 1627,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "dad4a306c97cb487",
   "lastOpenFiles": [
+    "_posts/Template.md",
+    "_posts/another-test-markdown.md",
+    "_posts/2023-11-08-MarkDown.md",
+    "_posts/quick-mardown-example.md",
+    "_posts/table-example.md",
+    "_posts/test-markdown.md",
+    "_posts/Video Play Post Example.md",
+    "_posts/welcome-to-jekyll.md",
+    "_posts/an-exhibit-of-markdown.md",
+    "_posts/mermaid-example.md",
+    "_posts/plantuml-example.md",
     "_posts/2023-11-07-2-암호화.md",
     "_posts/2023-11-07-1-Programmers.md",
     "_posts/2023-11-06-CompareTo.md",
@@ -182,17 +230,6 @@
     "_posts/2023-11-02-2-MiniGameGameScene.md",
     "_posts/_Basic Template.md",
     "_posts/2023-11-01-카드 뒤집기.md",
-    "_posts/2023-10-30-2-인터페이스선언.md",
-    "_posts/2023-11-01-1-Csharp-Algorithm.md",
-    "_posts/2023-10-30-1-게임기획.md",
-    "_posts/2023-10-16-2-RayCast.md",
-    "_posts/2023-10-26-2-Object Copy.md",
-    "_posts/2023-10-26-3-this_Keyword.md",
-    "_posts/2023-10-18-URP.md",
-    "_posts/2023-10-08-Coroutine.md",
-    "_posts/2023-04-25-1-Unity_ObjectPooling.md",
-    "_posts/2023-01-20-MySQL 기초문법.md",
-    "_posts/2023-04-10-UnitySetting.md",
     "_site/posts/2023-10-27-2-튜플 Tuple.html",
     "_site/posts/2023-10-27-1-구조체.html",
     "_site/posts/2023-10-26-4-상속.html",

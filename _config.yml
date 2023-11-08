@@ -239,6 +239,10 @@ google_site_verification: [ZnCjB9-_C2NThddaJCXR5oJFldug5tREvpiQqFPZgDQ]
 # Build settings
 # highlighter: none
 markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 kramdown:
   input: GFM
 

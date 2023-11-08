@@ -6,5 +6,7 @@ author: Daniel
 categories: 
 tags: 
 banner:
-  image: https://bit.ly/3xTmdUP
+  image:
+use_math: true
+
 ---
