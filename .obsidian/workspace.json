@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-12-20-프로세스와 스레드.md",
+                "file": "_posts/2023-01-05-Mongdb.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-12-20-프로세스와 스레드.md",
+                "file": "_posts/2023-01-05-Mongdb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-12-20-프로세스와 스레드.md",
+                "file": "_posts/2023-01-05-Mongdb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-12-20-프로세스와 스레드.md"
+                "file": "_posts/2023-01-05-Mongdb.md"
               }
             }
           },
@@ -204,6 +204,41 @@
   },
   "active": "f8d4e2bb738c3a07",
   "lastOpenFiles": [
+    "_posts/2023-01-05-CORS.md",
+    "_site/network/2023/01/05/CORS.html",
+    "_site/network/2023/01/05",
+    "_site/net/2023/01/05/CORS.html",
+    "_site/net/2023/01/05",
+    "_site/net/2023/01",
+    "_site/net/2023",
+    "_site/net",
+    "_site/cs/2023/01/05/CORS.html",
+    "_site/cs/2023/01/05",
+    "_site/cs/2023/01",
+    "_posts/2023-01-04-TCP_UDP.md",
+    "_posts/2023-01-03-REQRES.md",
+    "_posts/2023-01-02-Route.md",
+    "_posts/2023-01-01-restapi개발.md",
+    "_posts/2023-01-01-REST API (Resource).md",
+    "_posts/2022-12-31-REST API.md",
+    "_posts/2022-12-30-Express Middleware.md",
+    "_posts/2022-12-24-module.md",
+    "_posts/2022-12-23-NPM.md",
+    "_posts/2022-12-23-Node & REPL.md",
+    "_posts/2022-12-22-데이터의 종속성과 중복성.md",
+    "_posts/2022-12-21-Class.md",
+    "_posts/2022-12-20-프로세스와 스레드.md",
+    "assets/images/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif",
+    "assets/images/posts/Screen Recording 2023-09-11 at 3.07.25 AM.mov.gif",
+    "assets/images/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",
+    "assets/images/posts/Screen Recording 2023-09-11 at 4.20.55 AM.mov.gif",
+    "assets/images/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov.gif",
+    "assets/images/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov 1.gif",
+    "assets/images/posts/Screen Recording 2023-10-13 at 8.28.47 PM.mov.gif",
+    "assets/images/posts/Screen Recording 2023-10-16 at 11.38.14 PM.mov.gif",
+    "_site/assets/images/posts/Pasted_image_20230331193302.png",
+    "_site/assets/images/posts/Pasted_image_20230331193202.png",
+    "assets/images/posts/Pasted.md",
     "_posts/2022-12-20-객체리터럴.md",
     "_posts/2023-11-08-MarkDown.md",
     "_posts/another-test-markdown.md",
@@ -212,43 +247,8 @@
     "_posts/Template.md",
     "_posts/test-markdown.md",
     "_posts/Video Play Post Example.md",
-    "_posts/2022-12-20-프로세스와 스레드.md",
-    "assets/images/posts/Pasted image 20230331182016.png",
     "README.md",
     "_site/assets/images/posts/Pasted.md",
-    "assets/images/posts/Pasted.md",
-    "_site/cs/2022/12/20/프로세스와-스레드.html",
-    "_site/cs/2022/12/20",
-    "_site/2023/11/08/2022-12-20-프로세스와-스레드.html",
-    "_site/2023/11/08",
-    "_site/2023/11",
-    "_site/2023",
-    "_site/2022/12/20/프로세스와-스레드.html",
-    "_site/2022/12/20",
-    "_site/2022/12",
-    "_site/2022",
-    "_posts/2022-12-18-for.md",
-    "_posts/2022-12-19-객체지향-OOP.md",
-    "_posts/2022-12-18-if문.md",
-    "_posts/2022-12-18-Http.md",
-    "_posts/2022-12-18-Async-Await-2.md",
-    "_posts/2022-12-17-호이스팅.md",
-    "_posts/2022-12-17-var, let, const.md",
-    "_posts/2022-12-17-Promise.md",
-    "_posts/2022-12-17-javascript.md",
-    "_posts/2022-12-17-Arrow-function.md",
-    "_posts/2022-12-17-Async-Await-1.md",
-    "_posts/2022-12-16-JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?.md",
-    "_posts/2022-12-05-Git Blog 만들기.md",
-    "_posts/2022-12-05-Python 미니프로젝트.md",
-    "_site/assets/images/stock.png",
-    "_site/assets/images/posts/yZ0WUFn.jpg",
-    "_site/assets/images/posts/yOrCGr7.png",
-    "_site/assets/images/posts/vHMYd3Z.png",
-    "_site/assets/images/posts/slKBeos.jpg",
-    "_site/assets/images/posts/servertest.png",
-    "_site/assets/images/posts/rest.png",
-    "_site/assets/images/posts/postgresql-logo.png",
-    "_site/assets/images/posts/postglogo.png"
+    "_posts/2022-12-18-for.md"
   ]
 }

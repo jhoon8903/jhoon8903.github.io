@@ -1,11 +1,14 @@
 ---
+layout: post
 title: REST API (Resource)
-category: protocol
-author: "이정훈"
-tags: [protocol, api]
-img : https://i.imgur.com/hCzFxRi.png
-comments_disable: true
-meta_description: "REST API (Resource)"
+subtitle: URI의 이해와 설명
+categories: Network
+author: Daniel
+tags: 
+ - Network
+ - CS
+banner:
+ image : https://i.imgur.com/hCzFxRi.png
 ---
 
 # Representational State Transfer

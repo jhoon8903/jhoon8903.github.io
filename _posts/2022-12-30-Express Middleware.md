@@ -1,14 +1,18 @@
 ---
+layout: post
 title: Express Middleware
-category: javascript
-author: "이정훈"
-tags: [node, javascript]
-img : https://i.imgur.com/0FQEQuL.png
-comments_disable: true
-meta_description: "Express Middleware"
+subtitle: Node Js의 프레임워크 Express JS
+categories: NodeJS
+author: Daniel
+tags: 
+ - NodeJS
+ - Programming
+ - Framework
+banner:
+ image : https://i.imgur.com/0FQEQuL.png
 ---
 
-# Express의 Middleware
+## Express의 Middleware
 
 express 자체가 자체적으로 최소한 Routing 및 Middleware 기능을 갖춘 WEB Framework 
 req, res 이후 일반적으로 next라는 변수로 표시
