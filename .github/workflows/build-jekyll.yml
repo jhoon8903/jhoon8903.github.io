@@ -35,30 +35,15 @@ jobs:
           gem install bundler -v '2.4.21' --user-install
           echo "PATH=$(ruby -r rubygems -e 'puts Gem.user_dir')/bin:$PATH" >> $GITHUB_ENV
           bundler -v # Add this line to confirm Bundler version
-
-     
+ 
       - name: Check Bundler path
         run: which bundle
-      
-
+    
       - name: Set Bundler path
         run: echo "PATH=$HOME/.gem/ruby/3.0.0/bin:$PATH" >> $GITHUB_ENV
-      
 
       - name: Install dependencies
         run: bundle install
   
       - name: Build Jekyll site
         run: bundle exec jekyll build --future
-    
-
-      - uses: jeffreytse/jekyll-deploy-action@v0.5.0
-        with:
-          provider: "github"
-          token: ${{ secrets.SECRET }}
-          branch: ""
-          jekyll_src: "./"
-          jekyll_cfg: "_config.yml"
-          bundler_ver: "2.4.21" # 여기를 수정했습니다.
-          jekyll_build_options: "--future" # 미래의 포스트를 빌드하기 위한 옵션
-          # 필요한 추가적인 jekyll build 옵션들을 여기에 추가할 수 있습니다.
