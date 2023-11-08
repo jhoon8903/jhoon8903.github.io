@@ -56,7 +56,7 @@ jobs:
         with:
           provider: "github"
           token: ${{ secrets.SECRET }}
-          branch: "gh-pages"
+          branch: ""
           jekyll_src: "./"
           jekyll_cfg: "_config.yml"
           bundler_ver: "2.4.21" # 여기를 수정했습니다.
