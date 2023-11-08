@@ -45,7 +45,7 @@ copyright: "Unpublished Work (cleft) 2022-{currentYear} {author}"
 description: >- # this means to ignore newlines until "baseurl:"
   Unity 개발 주제의 다양한 내용의 개인성장 개발 블로그
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /jhoon8903.github.io # the subpath of your site, e.g. /blog
 url: "https://jhoon8903.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
@@ -100,7 +100,67 @@ google_site_verification: [ZnCjB9-_C2NThddaJCXR5oJFldug5tREvpiQqFPZgDQ]
 #   - lang: ru
 #     img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
 #     text: Russian
-
+# Where things are
+jekyll-spaceship:
+  # default enabled processors
+  processors:
+    - table-processor
+    - mathjax-processor
+    - plantuml-processor
+    - mermaid-processor
+    - polyfill-processor
+    - media-processor
+    - emoji-processor
+    - element-processor
+  mathjax-processor:
+    src:
+      - https://polyfill.io/v3/polyfill.min.js?features=es6
+      - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+    config:
+      tex:
+        inlineMath:
+          - ["$", "$"]
+          - ['\(', '\)']
+        displayMath:
+          - ["$$", "$$"]
+          - ['\[', '\]']
+      svg:
+        fontCache: "global"
+    optimize: # optimization on building stage to check and add mathjax scripts
+      enabled: true # value `false` for adding to all pages
+      include: [] # include patterns for math expressions checking (regexp)
+      exclude: [] # exclude patterns for math expressions checking (regexp)
+  plantuml-processor:
+    mode: default # mode value 'pre-fetch' for fetching image at building stage
+    css:
+      class: plantuml
+    syntax:
+      code: "plantuml!"
+      custom: ["@startuml", "@enduml"]
+    src: http://www.plantuml.com/plantuml/svg/
+  mermaid-processor:
+    mode: default # mode value 'pre-fetch' for fetching image at building stage
+    css:
+      class: mermaid
+    syntax:
+      code: "mermaid!"
+      custom: ["@startmermaid", "@endmermaid"]
+    config:
+      theme: default
+    src: https://mermaid.ink/svg/
+  media-processor:
+    default:
+      id: "media-{id}"
+      class: "media"
+      width: "100%"
+      height: 350
+      frameborder: 0
+      style: "max-width: 600px; outline: none;"
+      allow: "encrypted-media; picture-in-picture"
+  emoji-processor:
+    css:
+      class: emoji
+    src: https://github.githubassets.com/images/icons/emoji/
 # You can choose a theme color
 # Default theme colors as below:
 # coolblack: #090a0b
