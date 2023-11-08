@@ -1,15 +1,19 @@
 ---
-title: Python 기초 1
-category: Python
-author: "이정훈"
-tags: [Python]
-img : https://blog.kakaocdn.net/dn/bL8ETY/btrsc1dKdvU/PKl3b1kLTKsKuWAY9u2XT1/img.png
-comments_disable: true
-meta_description: "Python 기초 1"
+layout: post
+title: Python Basic 1
+subtitle : Python 변수, 자료형에 대해서
+author: Daniel
+categories: Python
+tags: 
+ - Python
+ - Language
+ - Programming
+banner:
+ image : https://blog.kakaocdn.net/dn/bL8ETY/btrsc1dKdvU/PKl3b1kLTKsKuWAY9u2XT1/img.png
 ---
 
-# Python 기초 문법
-
+Python 기초 문법
+--
 ## 변수 & 기본연산
 
 ```null

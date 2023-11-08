@@ -1,14 +1,19 @@
 ---
-title: Python 문법 f-string
-category: python
-author: "이정훈"
-tags: [python]
-img : https://blog.kakaocdn.net/dn/bL8ETY/btrsc1dKdvU/PKl3b1kLTKsKuWAY9u2XT1/img.png
-comments_disable: true
-meta_description: "Python 문법 f-string"
+layout: post
+title: Python f-string
+subtitle: 파이썬의 문자열 보간
+categories: Python
+author: Daniel
+tags:
+ - Python
+ - Programming
+ - Language
+banner:
+ image : https://blog.kakaocdn.net/dn/bL8ETY/btrsc1dKdvU/PKl3b1kLTKsKuWAY9u2XT1/img.png
 ---
 
-# f-string
+f-string
+--
 
 -   변수로 더 직관적인 문자열 만들기
 

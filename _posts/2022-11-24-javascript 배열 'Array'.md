@@ -1,11 +1,15 @@
 ---
+layout: post
 title: javascript 배열 'Array'
-category: javascript
-author: "이정훈"
-tags: [javascript]
-img : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU
-comments_disable: true
-meta_description: "javascript 배열 'Array'"
+subtitle: 자바스크립트의 Array
+categories: JavaScript
+author: Daniel
+tags: 
+ - JavaScript
+ - Programming
+ - Language
+banner: 
+ image : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU
 ---
 
 ## 배열 (array)

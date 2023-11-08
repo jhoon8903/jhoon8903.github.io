@@ -1,11 +1,15 @@
 ---
+layout: post
 title: javaScript 문법 '조건문'
-category: javascript
-author: "이정훈"
-tags: [javascript]
-img : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU
-comments_disable: true
-meta_description: "javaScript 문법 '조건문'"
+subtitle: 자바스크립트이 조건문
+categories: JavaScript
+author: Daniel
+tags: 
+ - JavaScript
+ - Programming
+ - Lanaguage
+banner:
+ image : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU
 ---
 
 ## 조건문

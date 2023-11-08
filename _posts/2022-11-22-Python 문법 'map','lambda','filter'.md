@@ -1,14 +1,19 @@
 ---
-title: Python 문법 'map','lambda','filter'
-category: python
-author: "이정훈"
-tags: [python]
-img : https://blog.kakaocdn.net/dn/bL8ETY/btrsc1dKdvU/PKl3b1kLTKsKuWAY9u2XT1/img.png
-comments_disable: true
-meta_description: "Python 문법 'map','lambda','filter'"
+layout: post
+title: Python 문법 'map','filter'
+subtitle: 파이썬의 매핑 메소드
+categories: Python
+author: Daniel
+tags: 
+ - Python
+ - Language
+ - Programming
+banner:
+ image : https://blog.kakaocdn.net/dn/bL8ETY/btrsc1dKdvU/PKl3b1kLTKsKuWAY9u2XT1/img.png
 ---
 
-# map
+map
+--
 
 -   data_list
 
@@ -54,7 +59,8 @@ result = map(lambda x: ('성인' if x['age'] >= 20 else '청소년'), people)
 print(list(result))
 ```
 
-# filter
+filter
+--
 
 -   map과 유사하며, True 값만 취하기
 

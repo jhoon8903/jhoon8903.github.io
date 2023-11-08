@@ -1,11 +1,15 @@
 ---
+layout: post
 title: javaScript 함수
-category: javascript
-author: "이정훈"
-tags: [javascript]
-img : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU
-comments_disable: true
-meta_description: "javaScript 함수"
+subtitle: JavaScript Function
+categories: JavaScript
+author: Daniel
+tags: 
+ - JavaScript
+ - Lanaguage
+ - Proramming
+banner:
+ image : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU
 ---
 
 ## 함수

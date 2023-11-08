@@ -1,11 +1,15 @@
 ---
+layout: post
 title: Flask mongodb data 삭제
-category: python
-author: "이정훈"
-tags: [python, flask, mongodb, 트러블슈팅]
-img : https://play-lh.googleusercontent.com/keVVojxW-b11NTKWZg8GulfLlhqBpATvqGFViblYsI0fxW_8a0sIPgyRlB94Gu1AQMY
-comments_disable: true
-meta_description: "Flask mongodb data 삭제"
+subtitle: Python의 Flask를 이용한 API통신
+categories: Python
+author: Daniel
+tags: 
+ - Python
+ - Network
+ - Programming
+banner: 
+ image : https://play-lh.googleusercontent.com/keVVojxW-b11NTKWZg8GulfLlhqBpATvqGFViblYsI0fxW_8a0sIPgyRlB94Gu1AQMY
 ---
 
 ## Flask를 통해 등록된 게시글의 삭제
@@ -86,7 +90,7 @@ function card_delete(a) {
 
 -   삭제시 자동으로 reload 되어 void 공간이 보이지 않도록 조치
 
-### 6. Fail note
+### Fail note
 
 1.  Flask 이해도 부족으로 route methods[POST,DELETE]  
     활용에 어려움을 겪음

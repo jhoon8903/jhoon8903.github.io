@@ -1,14 +1,19 @@
 ---
+layout : post
 title: Python import
-category: python
-author: "이정훈"
-tags: [python]
-img : https://blog.kakaocdn.net/dn/bL8ETY/btrsc1dKdvU/PKl3b1kLTKsKuWAY9u2XT1/img.png
-comments_disable: true
-meta_description: "Python import"
+subtitle: Import
+categories: Python
+author: Daniel
+tags: 
+ - Python
+ - Programming
+ - Language
+banner:
+ image : https://blog.kakaocdn.net/dn/bL8ETY/btrsc1dKdvU/PKl3b1kLTKsKuWAY9u2XT1/img.png
 ---
 
-# 파일불러오기 'import'
+파일불러오기 'import'
+--
 
 ## 여러개 파일로 분리하기
 

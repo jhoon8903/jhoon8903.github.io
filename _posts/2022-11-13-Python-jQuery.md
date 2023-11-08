@@ -1,17 +1,19 @@
 ---
-lauout : post
-title: Python_jQuery_Ajax 적용하기
+layout: post
+title: Python_jQuery_Ajax
+subtitle : Python Jquery 적용하기
 author: Daniel
-category: Python
+categories: Python
 tags:
  - Python
  - Programming
  - Language
 banner:
- image : https://blog.kakaocdn.net/dn/bwLdHi/btqAIEhUJXu/ZJYz3SlI9zCZCf6wmKYlBK/img.png
+ image: https://blog.kakaocdn.net/dn/bwLdHi/btqAIEhUJXu/ZJYz3SlI9zCZCf6wmKYlBK/img.png
 ---
 
-# JQuery는 외우는거 아니다.
+JQuery는 외우는거 아니다.
+--
 
 ![](https://i.imgur.com/kDhijQV.png)
 
@@ -21,9 +23,7 @@ banner:
 '$('#id').append(temp_html) = id값을 html 추가  
 * 필요에 따라 값을 지정하여 넣고 빼고 가능
 
-***
-
-# JQuery & Ajax
+## JQuery & Ajax
 
 #### GET 방식 : data를 조회(read) 요청 할 때
 

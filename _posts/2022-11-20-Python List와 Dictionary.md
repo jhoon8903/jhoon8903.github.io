@@ -1,14 +1,19 @@
 ---
-title: Python List와 Dictionary
-category: python
-author: "이정훈"
-tags: [python]
-img : https://blog.kakaocdn.net/dn/bL8ETY/btrsc1dKdvU/PKl3b1kLTKsKuWAY9u2XT1/img.png
-comments_disable: true
-meta_description: "Python List와 Dictionary"
+layout: post
+title: Python DataType
+subtitle : Python List와 Dictionary
+categories: Python
+author: Daniel
+tags:
+ - Python
+ - Programming
+ - Language
+banner:
+ image : https://blog.kakaocdn.net/dn/bL8ETY/btrsc1dKdvU/PKl3b1kLTKsKuWAY9u2XT1/img.png
 ---
 
-# 리스트 (list)
+리스트 (list)
+--
 
 ### 리스트 기초
 

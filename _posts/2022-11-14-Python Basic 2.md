@@ -1,15 +1,19 @@
 ---
-title: Python 기초 2
-category: Python
-author: "이정훈"
-tags: [Python]
-img : https://blog.kakaocdn.net/dn/bL8ETY/btrsc1dKdvU/PKl3b1kLTKsKuWAY9u2XT1/img.png
-comments_disable: true
-meta_description: "Python 기초 2"
+layout : post
+title: Python Basic 2
+subtitle : Python define, loop, conditional에 대해서
+author: Daniel
+categories: Python
+tags:
+ - Python
+ - Programming
+ - Language
+banner:
+ image : https://blog.kakaocdn.net/dn/bL8ETY/btrsc1dKdvU/PKl3b1kLTKsKuWAY9u2XT1/img.png
 ---
 
-# 함수 (def)
-
+함수 (def)
+--
 ## 함수의 정의
 
 ### 이름은 선택에 따라 결정가능

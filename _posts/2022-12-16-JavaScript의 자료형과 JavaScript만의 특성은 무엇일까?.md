@@ -1,11 +1,15 @@
 ---
-title: JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?
-category: javascript
-author: "이정훈"
-tags: [javascript]
-img : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU
-comments_disable: true
-meta_description: "JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?"
+layout: post
+title: JavaScript의 자료형 특성
+subtitle: JavaScript의 자료형과 특성은 무엇인가?
+categories: JavaScript
+author: Daniel
+tags: 
+ - JavaScript
+ - Programming
+ - Language
+banner: 
+ image : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU
 ---
 
 미니프로젝트를 진행하고 코드를 짜보면서 기초는 때고 다음단계로 넘어가겠구나 했는데 이게 왠걸,,  
@@ -13,7 +17,8 @@ javaScript책을 보고 강의를 들으면서 나는 진짜 JS에 1도 모르�
 
 그냥 겉핥기식으로만 공부하는건 나중에 크게 문제가 될 것 같아 좀 더 깊게 파고들어야겠다.
 
-# JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?
+JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?
+--
 
 ## Loosely Typed의 Dynamic 언어
 

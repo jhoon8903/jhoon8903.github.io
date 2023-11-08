@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-11-13-Python-jQuery.md",
+                "file": "_posts/2023-11-08-MarkDown.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-11-13-Python-jQuery.md",
+                "file": "_posts/2023-11-08-MarkDown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-11-13-Python-jQuery.md",
+                "file": "_posts/2023-11-08-MarkDown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-11-13-Python-jQuery.md"
+                "file": "_posts/2023-11-08-MarkDown.md"
               }
             }
           },
@@ -205,17 +205,41 @@
   "active": "f8d4e2bb738c3a07",
   "lastOpenFiles": [
     "_posts/2023-11-08-GitPage Build Trouble.md",
-    "_posts/2023-11-08-MarkDown.md",
-    "untitled folder",
-    "_site/language/2023/11/08/MarkDown.html",
-    "_site/language/2023/11/08",
-    "_site/language/2023/11",
-    "_site/language/2023",
-    "_site/language",
-    "_site/jekyll-theme-yat.gemspec",
-    "_site/assets/videos/devstories.webm",
-    "_site/assets/videos",
-    "_site/assets/js/main.js",
+    "_posts/another-test-markdown.md",
+    "_posts/2022-12-17-Arrow-function.md",
+    "_posts/2022-12-16-JavaScript의 자료형과 JavaScript만의 특성은 무엇일까?.md",
+    "_posts/2022-12-13-Python 풀스택 미니프로젝트 회고.md",
+    "_site/javascript/2022/12/16/JavaScript의-자료형과-JavaScript만의-특성은-무엇일까.html",
+    "_site/javascript/2022/12/16",
+    "_site/a/2022/12/16/JavaScript의-자료형과-JavaScript만의-특성은-무엇일까.html",
+    "_site/a/2022/12/16",
+    "_site/a/2022/12",
+    "_site/a/2022",
+    "_site/a",
+    "_site/ja/2022/12/16/JavaScript의-자료형과-JavaScript만의-특성은-무엇일까.html",
+    "_site/ja/2022/12/16",
+    "_site/ja/2022/12",
+    "_posts/2022-12-12-Pyhton 풀스택 미니프로젝트 3.md",
+    "_posts/2022-12-10-Python 풀스택 미니프로젝트 2.md",
+    "_posts/test-markdown.md",
+    "_posts/Video Play Post Example.md",
+    "_posts/2022-12-07-Flask mongodb data 삭제.md",
+    "_posts/2022-12-10-Python 풀스택 미니프로젝트 1.md",
+    "_posts/2022-12-07-Python 미니프로젝트 3.md",
+    "_posts/2022-12-06-Python 미니프로젝트 2.md",
+    "_posts/2022-12-05-Python 미니프로젝트.md",
+    "_posts/2022-12-05-Git Blog 만들기.md",
+    "_posts/2022-11-25-java '변수와 상수'.md",
+    "_posts/2022-11-24-javascript 배열 'Array'.md",
+    "_posts/2022-11-24-javaScript 함수.md",
+    "_posts/2022-11-24-javaScript 문법 '조건문'.md",
+    "_posts/2022-11-24-javascript 문법 '연산자'.md",
+    "_posts/2022-11-24-javaScript 'Class, Object'.md",
+    "_posts/2022-11-24- javaScript 문법 '반복문'.md",
+    "_posts/2022-11-22-Python 문법 'map','lambda','filter'.md",
+    "_posts/2022-11-21-Python 조건문_반복문.md",
+    "_posts/2022-11-21-Python 문법 f-string.md",
+    "_posts/2022-11-21-Python 문법 '예외처리'.md",
     "_site/assets/images/stock.png",
     "_site/assets/images/posts/yZ0WUFn.jpg",
     "_site/assets/images/posts/yOrCGr7.png",
@@ -225,30 +249,6 @@
     "_site/assets/images/posts/rest.png",
     "_site/assets/images/posts/postgresql-logo.png",
     "_site/assets/images/posts/postglogo.png",
-    "_site/assets/images/posts/post_pic1.jpg",
-    "_site/README.md",
-    "_posts/another-test-markdown.md",
-    "_posts/Template.md",
-    "_posts/quick-mardown-example.md",
-    "_posts/table-example.md",
-    "_posts/test-markdown.md",
-    "_posts/Video Play Post Example.md",
-    "_posts/welcome-to-jekyll.md",
-    "_posts/an-exhibit-of-markdown.md",
-    "_posts/mermaid-example.md",
-    "_posts/plantuml-example.md",
-    "_posts/2023-11-07-2-암호화.md",
-    "_posts/2023-11-07-1-Programmers.md",
-    "_posts/2023-11-06-CompareTo.md",
-    "_posts/2023-11-05-TicTacToe.md",
-    "_posts/2023-11-04-2-StringBuilder.md",
-    "_posts/2023-10-27-1-구조체.md",
-    "_posts/2023-10-27-2-튜플 Tuple.md",
-    "_posts/2023-10-31-Text Mesh Pro.md",
-    "_posts/2023-11-02-MiniGameStartScene.md",
-    "_posts/2023-11-03-1-ASCII Char 문자 다루기.md",
-    "_posts/2023-11-03-2-Aggregate.md",
-    "_posts/2023-11-04-1-3진수 뒤집기.md",
-    "_posts/2023-11-02-2-MiniGameGameScene.md"
+    "_site/assets/images/posts/post_pic1.jpg"
   ]
 }
