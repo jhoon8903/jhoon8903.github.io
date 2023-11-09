@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Naver Cloud postgresql-14 Install
+title: Naver Cloud postgresql 14 Install
 subtitle: 네이버 클라우드 인스턴스를 이용한 postgresql 설치
 categories: Project
 author: Daniel
@@ -11,15 +11,15 @@ tags:
  - OpenSource
  - Tooltip
 banner:
- - image : assets/images/posts/postglogo.png
+ image: assets/images/posts/postglogo.png
 ---
-
-CentOS 7.8 기준
+CentOS 7.8
 --
 
 ## postgresql 14 Install
 
-제작한 Custom Package
+제작한 Custom Package   
+
 ```
 sudo wget https://github.com/jhoon8903/packageRepo/raw/main/db-packages-1.1-1.el7.x86_64.rpm
 sudo yum install -y db-packages-1.1-1.el7.x86_64.rpm
@@ -48,6 +48,7 @@ dnf install -y postgresql14 postgresql14-libs postgresql14-devel postgresql14-ll
 ```
 
 ## pg pool-II Install
+
 ```
 sudo yum update -y
 ```

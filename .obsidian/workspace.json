@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bd6fddf78943bfe8",
+        "id": "778c9b88c4ec6cff",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-09.md",
+                "file": "_posts/2023-03-18-Naver Cloud postgresql 14 Install.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-09.md",
+                "file": "_posts/2023-03-18-Naver Cloud postgresql 14 Install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-09.md",
+                "file": "_posts/2023-03-18-Naver Cloud postgresql 14 Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-09.md"
+                "file": "_posts/2023-03-18-Naver Cloud postgresql 14 Install.md"
               }
             }
           },
@@ -167,9 +167,30 @@
   },
   "active": "f8d4e2bb738c3a07",
   "lastOpenFiles": [
-    "_posts/Template.md",
-    "_posts/2023-11-09.md",
+    "_site/project/2023/03/18/Naver-Cloud-postgresql-14-Install.html",
+    "_posts/2023-03-18-nGrinder 트러블슈팅.md",
+    "_posts/2023-03-18-Naver Cloud postgresql 14 Install.md",
+    "_posts/2023-03-18-Ubuntu nGrinder Agent Install.md",
+    "_posts/2023-03-17-Test 트러블슈팅.md",
+    "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
+    "assets/images/posts/kRmfd56.png",
+    "assets/images/posts/postglogo.png",
+    "_posts/2023-11-09-개인과제 프로젝트 1.md",
+    "_site/project/2023/11/10/TextRPG_Title.html",
+    "_site/project/2023/11/10",
+    "_site/project/2023/11/09/개인과제-프로젝트-1.html",
+    "_site/project/2023/11/09",
+    "_site/Screenshot 2023-11-09 at 11.37.46 PM.jpg",
+    "_posts/quick-mardown-example.md",
+    "_posts/another-test-markdown.md",
+    "_posts/Video Play Post Example.md",
+    "_posts/test-markdown.md",
+    "_posts/table-example.md",
+    "_posts/2023-11-10-TextRPG_Title.md",
+    "_posts/무제 파일.md",
+    "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
     "_posts/2023-11-08-MarkDown.md",
+    "_posts/Template.md",
     "_posts/2023-01-05-CORS.md",
     "_posts/2023-01-07-Mongoose server 11000 Error.md",
     "_posts/2023-01-20-MySQL 기초 응용 문법.md",
@@ -180,38 +201,17 @@
     "_posts/2023-01-20-MySQL 통계 응용.md",
     "_posts/2023-01-20-SQL Query.md",
     "_posts/2023-01-25-내가 그린 기린 그림 2.md",
-    "_posts/2023-03-21-배열과 링크드리스트.md",
-    "_posts/2023-04-16-3-Unity_Game_Object.md",
-    "_posts/2023-04-29-Unity_Object Pooling.md",
-    "_posts/2023-07-24-Language_Setting.md",
-    "_posts/2023-10-16-4-Lighting.md",
-    "_posts/2023-10-26-1-static.md",
-    "_posts/2023-11-08-GitPage Build Trouble.md",
-    "_posts/2023-11-07-2-암호화.md",
-    "_posts/2023-11-07-1-Programmers.md",
-    "_posts/2023-11-06-CompareTo.md",
-    "_posts/2023-11-05-TicTacToe.md",
     "_site/algorithm/2023/11/04/2-StringBuilder.html",
-    "_posts/2023-11-04-2-StringBuilder.md",
-    "_posts/2023-11-03-1-ASCII Char 문자 다루기.md",
     "_site/2023/11/09/2023-11-04-2-StringBuilder.html",
     "_site/2023/11/09",
     "_site/2023/11",
     "_site/2023",
     "_site/algo/2023/11/04/2-StringBuilder.html",
-    "_site/algo/2023/11/04",
-    "_site/algo/2023/11",
-    "_site/algo/2023",
-    "_site/algo",
     "assets/images/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.07.25 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 4.20.55 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov.gif",
-    "assets/images/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov 1.gif",
-    "assets/images/posts/Screen Recording 2023-10-13 at 8.28.47 PM.mov.gif",
-    "assets/images/posts/Screen Recording 2023-10-16 at 11.38.14 PM.mov.gif",
-    "_site/assets/images/posts/Pasted_image_20230331193302.png",
-    "_site/assets/images/posts/Pasted_image_20230331193202.png"
+    "assets/images/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov 1.gif"
   ]
 }
