@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-10-TextRPG_Title.md",
+                "file": "_posts/2023-11-09-개인과제 프로젝트 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-10-TextRPG_Title.md",
+                "file": "_posts/2023-11-09-개인과제 프로젝트 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-10-TextRPG_Title.md",
+                "file": "_posts/2023-11-09-개인과제 프로젝트 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-10-TextRPG_Title.md"
+                "file": "_posts/2023-11-09-개인과제 프로젝트 2.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   "active": "f8d4e2bb738c3a07",
   "lastOpenFiles": [
     "_posts/2023-11-09-개인과제 프로젝트 1.md",
+    "_posts/2023-11-09-개인과제 프로젝트 2.md",
+    "_site/project/2023/11/09/개인과제-프로젝트-2.html",
     "_posts/2023-11-10-TextRPG_Title.md",
     "_posts/another-test-markdown.md",
     "_posts/quick-mardown-example.md",
@@ -192,7 +194,6 @@
     "_posts/2023-10-18-URP.md",
     "_posts/2023-10-19-1-음수보수법.md",
     "_posts/2023-10-19-2-OverFlow.md",
-    "_posts/2023-10-19-3-부동소수점.md",
     "_site/c#/2023/10/25/2-메소드-오버로딩.html",
     "_site/2023/11/10/2023-10-25-2-메소드-오버로딩.html",
     "_site/2023/11/10",
@@ -202,7 +203,6 @@
     "_site/algorithm/2023/11/06",
     "_site/2023/11/06/CompareTo.html",
     "_site/2023/11/06",
-    "_site/project/2023/03/18/Naver-Cloud-postgresql-14-Install.html",
     "assets/images/posts/kRmfd56.png",
     "assets/images/posts/postglogo.png",
     "_site/Screenshot 2023-11-09 at 11.37.46 PM.jpg",
