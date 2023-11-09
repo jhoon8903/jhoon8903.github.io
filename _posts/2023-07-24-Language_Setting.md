@@ -1,8 +1,15 @@
 ---
+layout: post
 title: Language Setting
-category: Unity
-author: 이정훈
-tags: [Unity, Game, Project, Programming, Language]
+subtitle: 언어 모델 세팅
+categories: Project
+author: Daniel
+tags: 
+ - Unity
+ - Project
+ - Game
+ - Script
+ - Data
 img: https://i.imgur.com/Fynb3bN.png
 comments_disable: true
 meta_description: Language Setting

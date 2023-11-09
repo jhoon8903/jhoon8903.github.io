@@ -1,13 +1,17 @@
 ---
+layout: post
 title: DetectEnemies
-category: Unity
-author: 이정훈
+subtitle: 적 감지와 공격
+categories: Project
+author: Daniel
 tags:
-  - unity
-  - game
-img: https://i.imgur.com/0u72cd4.gif
-comments_disable: true
-meta_description: DetectEnemies
+ - Unity
+ - Game
+ - Physic
+ - Object
+ - Script
+banner:
+ image: https://i.imgur.com/0u72cd4.gif
 ---
 
 |Gizmo|Action|
@@ -18,6 +22,7 @@ meta_description: DetectEnemies
 
 
 ## Vertical Area Detecte
+
 ```csharp
 public override List<GameObject> DetectEnemies()
         {
@@ -46,6 +51,7 @@ public override List<GameObject> DetectEnemies()
 ```
 
 ## Circle Area Detecte
+
 ```csharp
 public override List<GameObject> DetectEnemies()
     {

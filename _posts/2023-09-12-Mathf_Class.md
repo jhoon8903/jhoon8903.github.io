@@ -1,17 +1,22 @@
 ---
-title: Unity Mathf Class
+layout: post
+title: Mathf Class
+subtitle: C#에서 수학적 계산을 지원하는 Class
 category: C#
-author: 이정훈
-tags: [Programming, Language]
-img: https://i.imgur.com/thFCOHI.png
-comments_disable: true
-meta_description: Unity Mathf Class
+author: Daniel
+tags: 
+ - Programming
+ - Csharp
+ - Language
+ - Math
+banner:
+ image: https://i.imgur.com/thFCOHI.png
 ---
 
 ![](https://i.imgur.com/thFCOHI.png)
 
-# Mathf Class 
----
+Mathf Class 
+--
 Unity에서 제공하는 다양한 수학 함수
 
 ###  상수

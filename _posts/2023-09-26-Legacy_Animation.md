@@ -1,14 +1,18 @@
 ---
+layout: post
 title: Unity Legacy Animation
-category: Unity
-author: 이정훈
-tags: [Unity, Animation]
-img: https://i.imgur.com/rtTIPZs.png
-comments_disable: true
-meta_description: Unity Legacy Animation
+subtitle: 유니티 레거시 Animation
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Animation
+banner:
+ image: https://i.imgur.com/rtTIPZs.png
 ---
 
-# Animation 
+Animation
+==
 - Legacy Animation : 하위 호환성을 고려한 애니메이션, 소스코드로 컨트롤 해야 함
 - Mecanim Animation : 모션 캡처 애니메이션, 리타겟팅 기능
 

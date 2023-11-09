@@ -1,14 +1,18 @@
 ---
+layout: post
 title: Unity Singleton
-category: Unity
-author: 이정훈
-tags: [Unity, Programming]
-img: https://i.imgur.com/vAnJH6G.png
-comments_disable: true
-meta_description: Unity Singleton
+subtitle: 데이터 정적관리
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Csharp
+ - Script
+banner:
+ image: https://i.imgur.com/vAnJH6G.png
 ---
-
-# Singleton 
+Singleton
+==
 
 - 게임 매니저처럼 관리자 역할을 하는 오브젝트는 일반적으로 프로그램에 단 하나만 존재해야함
 - 언제 어디서든 즉시 접근 가능해야함
@@ -27,7 +31,8 @@ meta_description: Unity Singleton
 ---
 
 
-# Static
+Static
+==
 
 - 싱글턴 패턴을 구현 시 정적(static) 변수의 특징을 활용
 - 메모리에 단 하나만 존재하고 모든 오브젝트가 공유

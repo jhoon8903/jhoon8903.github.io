@@ -1,14 +1,18 @@
 ---
+layout: post
 title: Unity Illumination
-category: Unity
-author: 이정훈
-tags: [Unity, Light]
-img: https://i.imgur.com/JKTXEnb.png
-comments_disable: true
-meta_description: Unity Illumination
+subtitle: Unity의 광원효과
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Light
+banner:
+ image: https://i.imgur.com/JKTXEnb.png
 ---
 
-# Global Illumination
+Global Illumination
+==
 
 - 물체 표면에 직접 들어오는 빛뿐만 아니라 다른 물체의 표면에서 반사되어 들어온 간접광까지 표현
 - 매우 높은 처리량 요구
@@ -42,7 +46,8 @@ meta_description: Unity Illumination
 - 실시간 그림자와 미리 구워진 그림자가 자연스럽게 합성되지 않음
 - 가장 오버헤드가 적음(성능이 제일 좋음)
 
-# Light Component
+Light Component
+--
 
 ![](https://i.imgur.com/JKTXEnb.png)
 

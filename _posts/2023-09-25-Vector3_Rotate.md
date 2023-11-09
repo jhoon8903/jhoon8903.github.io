@@ -1,11 +1,15 @@
 ---
+layout: post
 title: Unity Vector3 회전
-category: Unity
-author: 이정훈
-tags: [Unity, Vector]
-img: https://i.imgur.com/bBfMxFd.gif
-comments_disable: true
-meta_description: Unity Vector Rotate
+subtitle: Rotate를 이용한 오브젝트 회전
+categories: Unity
+author: Daniel
+tags:
+ - Unity
+ - Vector
+ - Transform
+banner:
+ image: https://i.imgur.com/bBfMxFd.gif
 ---
 
 

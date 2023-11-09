@@ -1,11 +1,17 @@
 ---
+layout: post
 title: 3 Match_Respawn_motion
-category: Unity
-author: 이정훈
-tags: [Unity, Game, Project, Programming]
-img: https://i.imgur.com/fcGrcTI.gif
-comments_disable: true
-meta_description: 3Match_Respawn_motion
+subtitle: 머지이후 액션 모션 구현
+categories: Project
+author: Daniel
+tags: 
+ - Unity
+ - Project
+ - Object
+ - Script
+ - Vector
+banner:
+ image: https://i.imgur.com/fcGrcTI.gif
 ---
 
 ![](https://i.imgur.com/fcGrcTI.gif)

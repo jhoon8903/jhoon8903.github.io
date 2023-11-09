@@ -1,11 +1,16 @@
 ---
+layout: post
 title: Unity Post Processing
-category: Unity
-author: 이정훈
-tags: [Unity, Camera, Rendering]
-img: https://i.imgur.com/ron0pZd.jpg
-comments_disable: true
-meta_description: Unity Post Processing
+subtitle: 유니티 후처리 작업
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Camera
+ - PostProcessing
+ - Rendering
+banner:
+ image: https://i.imgur.com/ron0pZd.jpg
 ---
 
 # Post Processing

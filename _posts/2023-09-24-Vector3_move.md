@@ -1,15 +1,20 @@
 ---
+layout: post
 title: Unity Vector 이동
-category: Unity
-author: 이정훈
-tags: [Unity, Vector]
-img: https://i.imgur.com/SfgRWIJ.png
-comments_disable: true
-meta_description: Unity Vector Move
+subtitle: 유니티에서 Vector를 다루는 방법
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Vector
+ - Tranform
+banner:
+ image: https://i.imgur.com/SfgRWIJ.png
 ---
 
 
-# Struct Vector3
+Struct Vector3
+==
 
 |속성|설명|
 |:--:|:--|

@@ -1,11 +1,17 @@
 ---
+layout: post
 title: Match_Test Build
-category: Unity
-author: 이정훈
-tags: [Unity, Game, Project, Programming]
-img: https://i.imgur.com/3gbSK0f.gif
-comments_disable: true
-meta_description: 3 Match_Test Build
+subtitle: 오브젝트 스와이프 로직
+categories: Project
+author: Daniel
+tags: 
+ - Unity
+ - Game
+ - Project
+ - Script
+ - Object
+banner:
+ image: https://i.imgur.com/3gbSK0f.gif
 ---
 
 ![](https://i.imgur.com/3gbSK0f.gif)

@@ -1,14 +1,18 @@
 ---
+layout: post
 title: Unity Texture
-category: Unity
-author: 이정훈
-tags: [Unity, Rendering]
-img: https://i.imgur.com/Sz3Vng0.png
-comments_disable: true
-meta_description: Unity Texture
+subtitle: 텍스쳐 랜더링 적용
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Rendering
+banner:
+ image: https://i.imgur.com/Sz3Vng0.png
 ---
 
-# 텍스처 (Texture)
+텍스처 (Texture)
+==
 
 3D 모델의 표면에 매핑시킬 이미지 파일을 지칭
 PSD, PNG, JPEG, TIFF, GIF, BMP, TGA 등 다양하게 지원

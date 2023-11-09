@@ -1,11 +1,16 @@
 ---
+layout: post
 title: Match_Merge
-category: Unity
-author: 이정훈
-tags: [Unity, Game, Project, Programming]
-img: https://i.imgur.com/87uT3wN.gif
-comments_disable: true
-meta_description: 3 Match_Merge
+subtitle: 매치 로직 구현
+categories: Project
+author: Daniel
+tags: 
+ - Project
+ - Game
+ - Script
+ - Object
+banner:
+ image: https://i.imgur.com/87uT3wN.gif
 ---
 
 ![](https://i.imgur.com/87uT3wN.gif)

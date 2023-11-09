@@ -1,14 +1,18 @@
 ---
+layout : post
 title: Unity Cinemachine
-category: Unity
-author: 이정훈
-tags: [Unity, Camera]
-img: https://i.imgur.com/JvHL268.png
-comments_disable: true
-meta_description: Unity Cinemachine
+subtile: 유니티 카메라 시네머신의 개념
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Camera
+banner:
+ image: https://i.imgur.com/JvHL268.png
 ---
 
-# Cinemachine
+Cinemachine
+==
 
 - 카메라 움직임을 손쉽게 제어하는 Unity 공식 Package
 - 카메라 연출에 필요한 코드와 조정 작업 대부분을 대체

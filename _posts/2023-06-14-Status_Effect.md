@@ -1,11 +1,17 @@
 ---
+layout: post
 title: Status Effect
-category: Unity
-author: 이정훈
-tags: [Unity, Game, Project, Programming, Effect]
-img: https://i.imgur.com/jah0mIQ.gif
-comments_disable: true
-meta_description: Status Effect
+subtitle: 군중제어 적용하기
+categories: Project
+author: Daniel
+tags: 
+ - Unity
+ - Game
+ - Physic
+ - Script
+ - Property
+banner:
+ image: https://i.imgur.com/jah0mIQ.gif
 ---
 
 

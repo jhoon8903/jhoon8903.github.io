@@ -1,11 +1,17 @@
 ---
+layout: post
 title: 3 Match Char LevelUp && Swipe
-category: Unity
-author: 이정훈
-tags: [Unity, Game, Project, Programming]
-img: https://i.imgur.com/TbuHkNr.gif
-comments_disable: true
-meta_description: 3 Match Char LevelUp && Swipe
+subtitle: 오브젝트 스왑하여 병합하기
+categories: Project
+author: Daniel
+tags: 
+ - Unity
+ - Game
+ - Project
+ - Object
+ - Script
+banner:
+ image: https://i.imgur.com/TbuHkNr.gif
 ---
 
 ![](https://i.imgur.com/TbuHkNr.gif)

@@ -1,13 +1,17 @@
 ---
+layout: post
 title: Utniy_Space 공간
-category: Unity
-author: 이정훈
-tags: [Unity, Coordinate]
-img: https://i.imgur.com/NCdrbmb.gif
-comments_disable: true
-meta_description: Utniy_Space 공간
+subtitle: Unity 공간에 대해서
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+banner:
+ image: https://i.imgur.com/NCdrbmb.gif
 ---
-# Unity Coordinate System
+
+Unity Coordinate System
+==
 
 - 3D 공간에 배치하는 3D 오브젝트는 좌표(Coordinate)를 가짐
 - 원점 Vector3 (0,0,0) 을 기준

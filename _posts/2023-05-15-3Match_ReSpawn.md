@@ -1,11 +1,17 @@
 ---
+layout: post
 title: 3 Match ReSpawn
-category: Unity
-author: 이정훈
-tags: [Unity, Game, Project, Programming]
-img: https://i.imgur.com/MdX9wST.gif
-comments_disable: true
-meta_description: 3 Match ReSpawn
+subtitle: 매치 이후 사라진 오브젝트를 채워넣기
+categories: Project
+author: Daniel
+tags:
+ - Unity
+ - Project
+ - Game
+ - Object
+ - Script
+banner:
+ image: https://i.imgur.com/MdX9wST.gif
 ---
 # 3 Match Merge 이후 Respawn 로직
 

@@ -1,11 +1,15 @@
 ---
+layout: post
 title: Monster_Stars
-category: Unity
-author: 이정훈
-tags: [Unity, Game, Project]
-img: https://i.imgur.com/M0cdKxz.gif
-comments_disable: true
-meta_description: Monster_Stars
+subtitle: 프로젝트 빌드 완성
+category: Project
+author: Daniel
+tags: 
+ - Project
+ - Game
+ - 게임기획
+banner:
+ image: https://i.imgur.com/M0cdKxz.gif
 ---
 
 ![300](https://i.imgur.com/Ub6jGKe.png)
