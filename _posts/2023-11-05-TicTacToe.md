@@ -3,7 +3,7 @@ layout: post
 title: C# TicTacToe Console Game
 subtitle: 틱택토 콘솔게임 만들기
 author: Daniel
-category: C#
+categories: C#
 tags: 
  - Programming
  - Csharp

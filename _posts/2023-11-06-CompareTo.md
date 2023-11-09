@@ -3,7 +3,7 @@ layout: post
 title: 문자열 내 마음대로 정렬하기 (Array, CompareTo)
 subtitle: 배열 정렬과 비교로 알고리즘 해결하기
 author: Daniel
-category: Algorithm
+categories: Algorithm
 tags: 
  - Algorithm
  - Programming

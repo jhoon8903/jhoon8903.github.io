@@ -1,9 +1,9 @@
 ---
 layout: post
 title: C# StringBuilder
-subtile: String Bulider로 알고리즘 해결하기
+subtitle: String Bulider로 알고리즘 해결하기
 author: Daniel
-category: Algorithm
+categories: Algorithm
 tags: 
  - Programming
  - Csharp
