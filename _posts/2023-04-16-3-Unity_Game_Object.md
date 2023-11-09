@@ -7,9 +7,8 @@ author: Daniel
 tags: 
  - Unity
  - Object
-img: https://img.etnews.com/photonews/2103/1396211_20210325190939_408_0012.jpg
-comments_disable: true
-meta_description: Unity Game Object
+banner:
+ image: https://img.etnews.com/photonews/2103/1396211_20210325190939_408_0012.jpg
 ---
 
 # Game Object 종류

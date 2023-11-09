@@ -10,9 +10,8 @@ tags:
  - Project
  - Object
  - Script
-img: https://i.imgur.com/uV1fePt.gif
-comments_disable: true
-meta_description: Unity Object Pooling Respawn
+banner:
+ image: https://i.imgur.com/uV1fePt.gif
 ---
 
 

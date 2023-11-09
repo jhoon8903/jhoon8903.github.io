@@ -11,7 +11,8 @@ tags:
  - Programming
  - NodeJS
  - Database
-img : assets/images/posts/CPCzrTw.png
+banner:
+ image : assets/images/posts/CPCzrTw.png
 ---
 
 ![](https://i.imgur.com/vvjUw24.png)

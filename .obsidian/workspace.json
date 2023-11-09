@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-26-1-static.md",
+                "file": "_posts/2023-01-05-CORS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-26-1-static.md",
+                "file": "_posts/2023-01-05-CORS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-26-1-static.md",
+                "file": "_posts/2023-01-05-CORS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-26-1-static.md"
+                "file": "_posts/2023-01-05-CORS.md"
               }
             }
           },
@@ -167,6 +167,21 @@
   },
   "active": "f8d4e2bb738c3a07",
   "lastOpenFiles": [
+    "_posts/2023-01-07-Mongoose server 11000 Error.md",
+    "_posts/2023-01-20-MySQL 기초 응용 문법.md",
+    "_posts/2023-01-20-MySQL 기초문법.md",
+    "_posts/2023-01-20-MySQL 기초문법 활용(삽질).md",
+    "_posts/2023-01-20-MySQL 통계 GROUP BY.md",
+    "_posts/2023-01-20-MySQL 통계 ORDER BY.md",
+    "_posts/2023-01-20-MySQL 통계 응용.md",
+    "_posts/2023-01-20-SQL Query.md",
+    "_posts/2023-01-25-내가 그린 기린 그림 2.md",
+    "_posts/2023-03-21-배열과 링크드리스트.md",
+    "_posts/2023-04-16-3-Unity_Game_Object.md",
+    "_posts/2023-04-29-Unity_Object Pooling.md",
+    "_posts/2023-07-24-Language_Setting.md",
+    "_posts/2023-10-16-4-Lighting.md",
+    "_posts/2023-10-26-1-static.md",
     "_posts/2023-11-08-MarkDown.md",
     "_posts/2023-11-08-GitPage Build Trouble.md",
     "_posts/2023-11-07-2-암호화.md",
@@ -188,21 +203,6 @@
     "_site/algo/2023",
     "_site/algo",
     "_posts/2023-11-02-MiniGameStartScene.md",
-    "_posts/2023-11-01-카드 뒤집기.md",
-    "_posts/2023-10-31-Text Mesh Pro.md",
-    "_posts/2023-10-30-2-인터페이스선언.md",
-    "_posts/2023-10-30-1-게임기획.md",
-    "_posts/2023-10-27-2-튜플 Tuple.md",
-    "_posts/2023-10-27-1-구조체.md",
-    "_posts/2023-10-26-4-상속.md",
-    "_posts/2023-10-26-3-this_Keyword.md",
-    "_posts/2023-10-26-2-Object Copy.md",
-    "_posts/2023-10-26-1-static.md",
-    "_posts/2023-10-25-2-메소드 오버로딩.md",
-    "_posts/2023-10-25-1-참조에 의한 매개변수 전달.md",
-    "_posts/2023-10-20-비트연산자.md",
-    "_posts/2023-10-19-6-문자열.md",
-    "_posts/2023-10-19-5-부동 소수점 형변환.md",
     "assets/images/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.07.25 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",

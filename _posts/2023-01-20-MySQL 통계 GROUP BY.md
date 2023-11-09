@@ -9,7 +9,7 @@ tags:
  - Database
  - Query
 banner:
- image : assets/images/post/mysql.png
+ image : assets/images/posts/mysql.png
 ---
 
 범주의 통계를 내주는 GROUP BY

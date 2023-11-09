@@ -9,7 +9,7 @@ tags:
  - Database
  - Query
 banner:
- image : assets/images/post/mysql.png
+ image : assets/images/posts/mysql.png
 ---
 
 ORDER BY

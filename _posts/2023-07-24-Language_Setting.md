@@ -10,9 +10,8 @@ tags:
  - Game
  - Script
  - Data
-img: https://i.imgur.com/Fynb3bN.png
-comments_disable: true
-meta_description: Language Setting
+banner:
+ image: https://i.imgur.com/Fynb3bN.png
 ---
 
 ## Language Setting 
