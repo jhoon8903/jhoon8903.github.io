@@ -7,6 +7,4 @@ categories:
 tags: 
 banner:
   image:
-use_math: true
-
 ---
