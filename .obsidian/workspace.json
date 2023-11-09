@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-18-Naver Cloud postgresql 14 Install.md",
+                "file": "_posts/2023-11-10-TextRPG_Title.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-18-Naver Cloud postgresql 14 Install.md",
+                "file": "_posts/2023-11-10-TextRPG_Title.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-18-Naver Cloud postgresql 14 Install.md",
+                "file": "_posts/2023-11-10-TextRPG_Title.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-03-18-Naver Cloud postgresql 14 Install.md"
+                "file": "_posts/2023-11-10-TextRPG_Title.md"
               }
             }
           },
@@ -167,15 +167,17 @@
   },
   "active": "f8d4e2bb738c3a07",
   "lastOpenFiles": [
+    "_posts/2023-11-09-개인과제 프로젝트 1.md",
+    "_posts/2023-11-08-MarkDown.md",
+    "_posts/2023-11-10-TextRPG_Title.md",
+    "_posts/2023-03-18-Naver Cloud postgresql 14 Install.md",
     "_site/project/2023/03/18/Naver-Cloud-postgresql-14-Install.html",
     "_posts/2023-03-18-nGrinder 트러블슈팅.md",
-    "_posts/2023-03-18-Naver Cloud postgresql 14 Install.md",
     "_posts/2023-03-18-Ubuntu nGrinder Agent Install.md",
     "_posts/2023-03-17-Test 트러블슈팅.md",
     "_posts/2023-03-19-PG_POOL II INSTALL & HA & WATCH DOG.md",
     "assets/images/posts/kRmfd56.png",
     "assets/images/posts/postglogo.png",
-    "_posts/2023-11-09-개인과제 프로젝트 1.md",
     "_site/project/2023/11/10/TextRPG_Title.html",
     "_site/project/2023/11/10",
     "_site/project/2023/11/09/개인과제-프로젝트-1.html",
@@ -186,10 +188,8 @@
     "_posts/Video Play Post Example.md",
     "_posts/test-markdown.md",
     "_posts/table-example.md",
-    "_posts/2023-11-10-TextRPG_Title.md",
     "_posts/무제 파일.md",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
-    "_posts/2023-11-08-MarkDown.md",
     "_posts/Template.md",
     "_posts/2023-01-05-CORS.md",
     "_posts/2023-01-07-Mongoose server 11000 Error.md",
@@ -206,7 +206,6 @@
     "_site/2023/11/09",
     "_site/2023/11",
     "_site/2023",
-    "_site/algo/2023/11/04/2-StringBuilder.html",
     "assets/images/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.07.25 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",
