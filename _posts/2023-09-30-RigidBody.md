@@ -1,13 +1,18 @@
 ---
-title: Unity RigidBody
-category: Unity
-author: 이정훈
-tags: [Unity, Physic]
-img: https://i.imgur.com/bCgTfRP.jpg
-comments_disable: true
-meta_description: Unity RigidBody
+layout: post
+title: RigidBody
+subtitle: 유니티의 물리 효과를 적용시키는 Rigidbody 컴포넌트
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Physic
+banner:
+ image: https://i.imgur.com/bCgTfRP.jpg
 ---
-# RigidBody
+
+RigidBody
+--
 
 - 물리학 용어 : 외력을 가해도 크기나 형태가 변하지 않는 이상적인 물체
 - 아주 큰 힘을 받지 않는 한 부서지지 않는 대부분의 고체는 강첼로 간주한다.

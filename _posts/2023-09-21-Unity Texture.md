@@ -12,7 +12,7 @@ banner:
 ---
 
 텍스처 (Texture)
-==
+--
 
 3D 모델의 표면에 매핑시킬 이미지 파일을 지칭
 PSD, PNG, JPEG, TIFF, GIF, BMP, TGA 등 다양하게 지원

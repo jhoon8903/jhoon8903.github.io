@@ -1,13 +1,18 @@
 ---
+layout: post
 title: Unity PlayerPrefs
-category: Unity
-author: 이정훈
-tags: [Unity, Save, Programming]
-img: https://i.imgur.com/4zFKGVg.jpg
-comments_disable: true
-meta_description: Unity PlayerPrefs
+subtitle: 저장 다루기
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Data
+banner:
+ image: https://i.imgur.com/4zFKGVg.jpg
 ---
-# PlayerPrefs
+PlayerPrefs
+--
+
 - 유니티 기본 저장 기능
 - 저장 가능 변수 int, float, string, bool
 

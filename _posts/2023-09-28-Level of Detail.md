@@ -1,17 +1,23 @@
 ---
+layout: post
 title: Unity Level of Detail
-category: Unity
-author: 이정훈
-tags: [Unity, Rendering]
-img: https://i.imgur.com/Ii9S3xT.png
-comments_disable: true
-meta_description: Unity Level of Detail
+subtitle: Unity LOD 구현해보기
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Renderring
+ - Camera
+banner:
+ image: https://i.imgur.com/Ii9S3xT.png
 ---
 
 
 ![](https://i.imgur.com/reEf0SO.jpg)
 
-# LOD (Level od Detail)
+LOD (Level od Detail)
+--
+
 - 카메라와의 거리에 따라서 다른 폴리곤을 렌더링하기 위해 3개의 모델이 합쳐진 상태.
 - 화면을 렌더링하는 카메라로부터 멀리 떨어질수록 낮은 폴리곤으로 변경해 레더링 부하를 줄여주는 기법
 

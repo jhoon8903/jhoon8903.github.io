@@ -1,13 +1,20 @@
 ---
+layout: post
 title: Unity 오클루전 컬링
-category: Unity
-author: 이정훈
-tags: [Unity, Light]
-img: https://i.imgur.com/LGfzqsQ.gif
-comments_disable: true
-meta_description: Unity Input System
+subtitle: 랜더링 최적화를 위한 오클루전 컬링
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Rendering
+ - Optimizer
+banner:
+ image: https://i.imgur.com/LGfzqsQ.gif
 ---
-# 오클루전 컬링 (Occlusion Culling)
+
+오클루전 컬링 (Occlusion Culling)
+--
+
 - 렌더링 부하를 줄여주는 기법 중 하나
 - 3D 게임 및 콘텐츠 개발에 필수적 요소
 ##### 오클루전 (Occlusion) : 한 물체가 다른 물체를 가리는 것

@@ -1,13 +1,21 @@
 ---
-title: Unity_Vector3.Lerp / Vector3.Slerp
-category: Unity
-author: 이정훈
-tags: [Unity, Programming, Vector]
-img: https://i.imgur.com/l68H2Vt.jpg
-comments_disable: true
-meta_description: Unity_Vector3.Lerp / Vector3.Slerp
+layout: post
+title: Unity 선형보간
+subtitle: Lerp 선형보간 / Slerp 구면 선형보간
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Vector
+ - Math
+ - Physic
+ - Camera
+banner:
+ image: https://i.imgur.com/l68H2Vt.jpg
 ---
-# 선형보간 / 구면 선형보간
+
+선형보간 / 구면 선형보간
+--
 
 - 선형 보간 (Liner Interpolation)
 - 구면 선형 보간 (Spherical Linear Interpolation)
@@ -45,7 +53,9 @@ Vector3.Slerp(시작 좌표, 종료 좌표, t);
 Quaternion.Slerp(시작 좌표, 종료 각도, t);
 ```
 
-# Vector3.Smoothdamp
+
+Vector3.Smoothdamp
+--
 - 보통 카메라의 Follow 로직에 사용
 ```csharp
 Vector3.SmoothDamp(Vector3 current, 

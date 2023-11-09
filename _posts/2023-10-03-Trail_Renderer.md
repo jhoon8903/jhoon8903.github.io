@@ -1,14 +1,21 @@
 ---
+layout: post
 title: Unity Trail Renderer
-category: Unity
-author: 이정훈
-tags: [Unity, Effect]
-img: https://i.imgur.com/1VgNyO5.gif
-comments_disable: true
-meta_description: Unity Trail Renderer
+subtitle: 총알의 궤적이나 리소스 사용을 줄이는 Trail 렌더링
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Rendering
+banner:
+ image: https://i.imgur.com/1VgNyO5.gif
 ---
+
 ![](https://i.imgur.com/1VgNyO5.gif)
-# Trail Renderer
+
+Trail Renderer
+--
+
 - 오브젝트의 궤적을 표시하는 컴포넌트 
 - 오브젝트 선택 => Component => Effects => Trail Renderer
 

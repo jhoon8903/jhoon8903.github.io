@@ -1,13 +1,17 @@
 ---
+layout: post
 title: C# Class this Keyword
-category: C#
-author: 이정훈
-tags: [Language, Programming]
-img: https://i.imgur.com/m8yClWp.png
-comments_disable: true
-meta_description: C# Class this Keyword
+subtitle: this 키워드에 대해서
+categories: C#
+author: Daniel
+tags: 
+ - Csharp
+ - Programming
+banner:
+ image: https://i.imgur.com/m8yClWp.png
 ---
-# This
+This
+--
 - 객체가 자신을 지칭할 때 사용하는 키워드
 - 객체 외부에서는 개체의 필드나 메소드에 접근할 때 개개체의 이름을 사용(변수, 식별자 등)
 - 객체 내부에서는 자신의 필드나 메소드에 접근할 때 `this` 키워드 사용
@@ -70,7 +74,8 @@ public class ThisKeyword
 --- 
 
 
-# This ()
+This ()
+--
 - 자기 자신의 생성자를 가리킴
 - 생성자에서만 사용할 수 있음, 코드 블록 내부가 아닌 앞쪽에서만
 ```csharp

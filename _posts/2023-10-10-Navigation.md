@@ -1,13 +1,18 @@
 ---
+layout: post
 title: Unity Navigation
-category: Unity
-author: 이정훈
-tags: [Unity, Navigation]
-img: https://i.imgur.com/zneH4to.gif
-comments_disable: true
-meta_description: Unity Navigation
+subtitle: 새로운 네비게이션 시스템
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Navigation
+banner:
+ image: https://i.imgur.com/zneH4to.gif
 ---
-# Navigation
+
+Navigation
+--
 
 - 중간에 장애물이 있거나 다른 충돌 및 경합을 벌이는 경우 길 찾기(Navigation)기능이 필요
 

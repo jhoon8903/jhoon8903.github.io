@@ -17,7 +17,8 @@ banner:
 ![](https://i.imgur.com/TbuHkNr.gif)
 
 
-# 3 Match Merge Character LevelUp 및 Lerp를 이용한 Swipe 움직임
+3 Match Merge Character LevelUp 및 Lerp를 이용한 Swipe 움직임
+--
 
 ```csharp
 using System.Collections;

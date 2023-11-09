@@ -1,14 +1,18 @@
 ---
-title: Bonn 최적화
-category: Unity
-author: 이정훈
-tags: [Unity, Modeling]
-img: https://i.imgur.com/e3TNb4M.jpg
-comments_disable: true
-meta_description: Bonn 최적화
+layout: post
+title: Bone 최적화
+subtitle: 뼈 구조의 최적화
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Modeling
+banner:
+ image: https://i.imgur.com/e3TNb4M.jpg
 ---
 
-# Bone Structure Optimization
+Bone Structure Optimization
+--
 
 - 기존의 Bone 구조 
 - 각 관절(Joint)는 GameObject이며, Transform 컴포넌트를 가지고 있음

@@ -1,13 +1,19 @@
 ---
+layout: post
 title: Unity Script Event Processing
-category: Unity
-author: 이정훈
-tags: [Unity, UGUI, Event]
-img: https://i.imgur.com/l4Uyvpe.jpg
-comments_disable: true
-meta_description: Unity Script Event Processing
+subtitle: 유니티의 버튼 이벤트 처리하기
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Event
+banner:
+ image: https://i.imgur.com/l4Uyvpe.jpg
 ---
-# 스크립트에서 Btn Event 처리하기
+
+스크립트에서 Btn Event 처리하기
+--
+
 - RunTime에서 발생하는 이벤트 (Call back)처리
 - UnityEvent 또는 Delegate 이용
 

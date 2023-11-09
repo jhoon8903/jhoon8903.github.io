@@ -1,17 +1,24 @@
 ---
+layout: post
 title: Unity 충돌 지점과 법선 벡터
-category: Unity
-author: 이정훈
-tags: [Unity, Physic, Vector]
-img: https://i.imgur.com/hMPvXdL.jpg
-comments_disable: true
-meta_description: Unity 충돌 지점과 법선 벡터
+subtitle: Collider 충돌과 벡터
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Physic
+ - Vector
+banner:
+ image: https://i.imgur.com/hMPvXdL.jpg
 ---
-# Normal Vector (법선 벡터)
+Normal Vector (법선 벡터)
+--
+
 - 두 물체가 충돌한 평면 또는 구면의 접점에서 수직 방향으로 바라보는 벡터
 ![](https://i.imgur.com/hMPvXdL.jpg)
 
 ## 충돌지점 정보 
+
 ```csharp
 Collision Class
 

@@ -1,13 +1,19 @@
 ---
+layout: post
 title: Unity Quaternion
-category: Unity
-author: 이정훈
-tags: [Unity, Physic, Vector]
-img: https://blog.kakaocdn.net/dn/dlzqNK/btqMVDwWBFS/65yM1KLhiACMTjth5kbSDK/img.gif
-comments_disable: true
-meta_description: Unity Quaternion
+subtitle: 쿼터니언과 오일러
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Vector
+ - Transform
+banner:
+ image: https://blog.kakaocdn.net/dn/dlzqNK/btqMVDwWBFS/65yM1KLhiACMTjth5kbSDK/img.gif
 ---
-# Quaternion (쿼터니언)
+Quaternion (쿼터니언)
+--
+
 - Unity 에서 사용되는 각도의 단위
 - 복소수 4차원 벡터 (four-dimensional complex number)
 - 4개의 원소로 표현 (x, y, z, w)

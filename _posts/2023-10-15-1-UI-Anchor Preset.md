@@ -1,11 +1,14 @@
 ---
+layout: post
 title: Unity Anchor Preset
-category: Unity
-author: 이정훈
-tags: [Unity, UGUI]
-img: https://i.imgur.com/HzkrUoY.jpg
-comments_disable: true
-meta_description: Unity Anchor Preset
+subtitle: UGUI Canvas 조절에 대해서
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - UGUI
+banner:
+ image: https://i.imgur.com/HzkrUoY.jpg
 ---
 
 # Anchor Preset

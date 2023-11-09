@@ -1,14 +1,19 @@
 ---
+layout: post
 title: Unity Scene 관리
-category: Unity
-author: 이정훈
-tags: [Unity, Scene]
-img: https://i.imgur.com/gQVaaNN.jpg
-comments_disable: true
-meta_description: Unity Scene 관리
+subtitle: Scene Manager 사용하기
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Scene
+ - Script
+banner:
+ image: https://i.imgur.com/gQVaaNN.jpg
 ---
+SceneManager Class
+--
 
-# SceneManager Class
 - 동적으로 Scene을 생성, 해제, 호출 등 여러 Method를 제공
 
 |Method|설명|

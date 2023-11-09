@@ -14,7 +14,7 @@ banner:
 
 
 Struct Vector3
-==
+--
 
 |속성|설명|
 |:--:|:--|

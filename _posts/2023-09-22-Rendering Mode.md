@@ -12,7 +12,7 @@ banner:
 ---
 
 Rendering Mode
-==
+--
 
 ![](https://i.imgur.com/l6LMLai.png)
 

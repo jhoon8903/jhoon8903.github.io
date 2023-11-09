@@ -1,13 +1,19 @@
 ---
+layout: post
 title: Text Mesh Pro Create
-author: "이정훈"
-category: Unity
-tags: [Unity, Asset, Text]
-img : https://i.imgur.com/WX9xgn8.jpg
-comments_disable: true
+subtitle: UI 중 Text를 출력하는 TMP 컴포넌트
+author: Daniel
+categories: Unity
+tags: 
+ - Unity
+ - UGUI
+ - Text
+banner:
+ image : https://i.imgur.com/WX9xgn8.jpg
 ---
 
-# Text Mesh Pro
+Text Mesh Pro
+--
 
 ## Font Asset Creator Custom range
 - 한글을 사용하기 위한 Conversion Range 설정

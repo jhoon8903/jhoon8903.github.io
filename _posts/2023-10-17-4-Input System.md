@@ -1,13 +1,19 @@
 ---
+layout: post
 title: Unity Input System
-category: Unity
-author: 이정훈
-tags: [Unity, Controller]
-img: https://i.imgur.com/a8X67jG.jpg
-comments_disable: true
-meta_description: Unity Input System
+subtitle: 사용자 조작을 위한 Input Manager 설정
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Controller
+ - Script
+ - Programming
+banner:
+ image: https://i.imgur.com/a8X67jG.jpg
 ---
-# Input System
+Input System
+--
 ## Legacy Input System 구조
 
 ```csharp

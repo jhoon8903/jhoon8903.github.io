@@ -12,7 +12,7 @@ banner:
  image: https://i.imgur.com/vAnJH6G.png
 ---
 Singleton
-==
+--
 
 - 게임 매니저처럼 관리자 역할을 하는 오브젝트는 일반적으로 프로그램에 단 하나만 존재해야함
 - 언제 어디서든 즉시 접근 가능해야함

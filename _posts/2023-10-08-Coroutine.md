@@ -1,13 +1,18 @@
 ---
+layout: post
 title: Unity Coroutine
-category: Unity
-author: 이정훈
-tags: [Unity, Programming]
-img: https://i.imgur.com/PjJXyGU.png
-comments_disable: true
-meta_description: Unity Coroutine
+subtitle: 비동기 처리를 할 수 있는 코루틴 함수
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Script
+banner:
+ image: https://i.imgur.com/PjJXyGU.png
 ---
-# Coroutine 
+
+Coroutine 
+--
 ## Message Loop / Blocking / Multi thread
 - Unity Life Cycle
 - 초기화 => 게임로직 => 랜더링 => 정리 => 기타 이벤트 등 의 일련의 과정

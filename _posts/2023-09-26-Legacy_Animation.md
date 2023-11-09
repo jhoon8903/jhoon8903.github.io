@@ -12,7 +12,8 @@ banner:
 ---
 
 Animation
-==
+--
+
 - Legacy Animation : 하위 호환성을 고려한 애니메이션, 소스코드로 컨트롤 해야 함
 - Mecanim Animation : 모션 캡처 애니메이션, 리타겟팅 기능
 

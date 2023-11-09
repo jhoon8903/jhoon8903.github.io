@@ -1,13 +1,19 @@
 ---
+layout: post
 title: Unity Light Probe 라이트 프로브
-category: Unity
-author: 이정훈
-tags: [Unity, Lighting]
-img: https://i.imgur.com/xKT92Ud.gif
-comments_disable: true
-meta_description: Unity Light Probe 라이트 프로브
+subtitle: 조명을 매핑하는 다른 방법 라이트 프로브
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Light
+ - Rendering
+banner:
+ image: https://i.imgur.com/xKT92Ud.gif
 ---
-# Light Probe (라이트 프로브)
+Light Probe (라이트 프로브)
+--
+
 - 동적으로 움직이는 객체에는 [[2023-10-16-5-Light_Mapping|라이트매핑]]을 통한 광원 조명효과를 적용할 수 없음
 - 라이트매핑을 static Object 에만 영향을 미치기 때문에 Light Probe를 지원함
 - 라이트 프로브는 스테이지의 조명이 있는 곳 주변에 라이트 프로브를 배치하고, 라이트맵을 베이킹할 때 해당 라이트 프로브에 주변부 광원 데이터를 미리 저장해둠

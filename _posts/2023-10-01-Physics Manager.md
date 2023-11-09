@@ -1,14 +1,19 @@
 ---
+layout: post
 title: Unity Physics Manager
-category: Unity
-author: 이정훈
-tags: [Unity, Physic]
-img: https://i.imgur.com/PrhvfgU.jpg
-comments_disable: true
-meta_description: Unity Physics Manager
+subtitle: Unity 물리효과를 세팅라는 Physics Manager
+categories: Unity
+author: Daniel
+tags: 
+ - Physic
+ - Unity
+banner:
+ image: https://i.imgur.com/PrhvfgU.jpg
 ---
 
-# Physics Manager 
+Physics Manager 
+--
+
 ![](https://i.imgur.com/PrhvfgU.jpg)
 
 ## Gravity (중력) - Vector3 Type

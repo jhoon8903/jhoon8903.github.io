@@ -1,14 +1,20 @@
 ---
+layout: post
 title: C# 객체 복사
-category: C#
-author: 이정훈
-tags: [Language, Programming]
-img: https://i.imgur.com/m8yClWp.png
-comments_disable: true
-meta_description: "C# 객체 복사 : 얕은 복사와 깊은 복사"
+subtitle: Stack 과 Heap에 따른 데이터 복사
+categories: C#
+author: Daniel
+tags: 
+ - CS
+ - Csharp
+ - Programming
+banner:
+ image: https://i.imgur.com/m8yClWp.png
 ---
-# 객체 복사하기 : 얕은 복사와 깊은 복사
+객체 복사하기 : 얕은 복사와 깊은 복사
+--
 ## 얕은 복사 (Shallow Copy)
+
 ```csharp
 internal class MyClass  
 {  
@@ -47,6 +53,7 @@ internal class MyClass
 
 
 ## 깊은 복사 (Deep Copy)
+
 ```csharp
 public MyClass DeepCopyObject()  
 {  

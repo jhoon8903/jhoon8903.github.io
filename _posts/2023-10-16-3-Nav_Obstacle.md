@@ -1,13 +1,19 @@
 ---
+layout: post
 title: Unity 동적장애물 - NavMeshObstacle
-category: Unity
-author: 이정훈
-tags: [Unity, Navigation]
-img: https://i.imgur.com/QYnDxe1.gif
-comments_disable: true
-meta_description: Unity 동적장애물 - NavMeshObstacle
+subtitle: 이미 설정된 장애물의 위피를 변경할 수 있는 장애물 컴포넌트
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Navigation
+ - Object
+banner:
+ image: https://i.imgur.com/QYnDxe1.gif
 ---
-# NavMeshObstacle
+
+NavMeshObstacle
+--
 
 - 처음 Bake 된 장애물의 경우 장애물이 사라지거나 이동 되었을 때 해당 위치는 Nav에서 장애물로 인식
 - 동적으로 변경 되는 장애물의 경우 NavMeshObstacle 컴포넌트로 해결

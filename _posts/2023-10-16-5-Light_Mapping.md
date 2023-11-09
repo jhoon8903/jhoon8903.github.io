@@ -1,13 +1,19 @@
 ---
+layout: post
 title: Unity 라이트매핑
-category: Unity
-author: 이정훈
-tags: [Unity, Lighting]
-img: https://i.imgur.com/0qJ6Od4.jpg
-comments_disable: true
-meta_description: Unity 라이트매핑
+subtitle: 조명효과 입히기
+categories: Unity
+author: Daniel
+tags: 
+ - Unity
+ - Light
+ - Rendering
+banner:
+ image: https://i.imgur.com/0qJ6Od4.jpg
 ---
-# 라이트매핑
+라이트매핑
+--
+
 - Scene에 배치괸 모든 3D Object Model에 영향을 미치는 직접 조명, 간접 조명 및 그림자의 효과를 Texture로 미리 만드는 과정
 - 결과로 만들어진 Texture File을 `Lightmap`이라고 함
 - Lightmap을 만드는 과정을 `Bake`라고 함

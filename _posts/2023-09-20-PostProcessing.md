@@ -13,7 +13,8 @@ banner:
  image: https://i.imgur.com/ron0pZd.jpg
 ---
 
-# Post Processing
+Post Processing
+--
 
 - 포스트 프로세싱 : 후처리
 - 게임 화면이 최종 출력되기 전에 카메라의 이미지 버퍼에 삽입

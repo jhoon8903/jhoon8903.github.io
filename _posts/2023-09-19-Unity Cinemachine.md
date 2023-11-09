@@ -12,7 +12,7 @@ banner:
 ---
 
 Cinemachine
-==
+--
 
 - 카메라 움직임을 손쉽게 제어하는 Unity 공식 Package
 - 카메라 연출에 필요한 코드와 조정 작업 대부분을 대체
