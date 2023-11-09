@@ -1,10 +1,15 @@
 ---
+layout: post
 title: 문자열 내 마음대로 정렬하기 (Array, CompareTo)
-author: "이정훈"
+subtitle: 배열 정렬과 비교로 알고리즘 해결하기
+author: Daniel
 category: Algorithm
-tags: [Algorithm, csharp, Programming]
-img : https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb260cae4-a3d0-448b-be5d-7486d5925148%2F34.png?table=block&id=9e7562fc-62db-4d05-bb21-4e95a2e04542&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=2000&userId=&cache=v2
-comments_disable: true
+tags: 
+ - Algorithm
+ - Programming
+ - Csharp
+banner:
+ image : https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb260cae4-a3d0-448b-be5d-7486d5925148%2F34.png?table=block&id=9e7562fc-62db-4d05-bb21-4e95a2e04542&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=2000&userId=&cache=v2
 ---
 
 ![](https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb260cae4-a3d0-448b-be5d-7486d5925148%2F34.png?table=block&id=9e7562fc-62db-4d05-bb21-4e95a2e04542&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=2000&userId=&cache=v2)
@@ -97,7 +102,8 @@ Array.Sort(strings, (x, y) =>
 
 ---
 
-# 문제
+문제
+--
 
 ## 문자열 내 마음대로 정렬하기
 ##### 문제 설명

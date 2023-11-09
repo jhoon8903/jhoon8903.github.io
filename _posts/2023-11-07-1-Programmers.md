@@ -1,15 +1,21 @@
 ---
+layout: post
 title: Linq Skip, Take
-author: "이정훈"
-category: Algorithm
-tags: [Algorithm, Programming, csharp]
-img : https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb260cae4-a3d0-448b-be5d-7486d5925148%2F34.png?table=block&id=9e7562fc-62db-4d05-bb21-4e95a2e04542&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=2000&userId=&cache=v2
-comments_disable: true
+subtitle: 배열에서 필요한 부분을 찾아 처리할 수 있는 메소드로 알고리즘 풀기
+author: Daniel
+categories: Algorithm
+tags: 
+ - Algorithm
+ - Programming
+ - Csharp
+banner:
+image : https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb260cae4-a3d0-448b-be5d-7486d5925148%2F34.png?table=block&id=9e7562fc-62db-4d05-bb21-4e95a2e04542&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=2000&userId=&cache=v2
 ---
 
 ![](https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb260cae4-a3d0-448b-be5d-7486d5925148%2F34.png?table=block&id=9e7562fc-62db-4d05-bb21-4e95a2e04542&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=2000&userId=&cache=v2)
 
-# LINQ - Skip, Take
+LINQ - Skip, Take
+--
 
 - 데이터 컬렉션을 관리하는 기능을 제공하는 Skip, Take
 - 컬렉션에서 특정 수의 요소를 건너뛰거나 선택하는데 사용 됨

@@ -1,15 +1,21 @@
 ---
+layout: post
 title: Mini Game Refactoring
-author: "이정훈"
-category: Project
-tags: [Unity, Game, Project, Programming]
-img : https://i.imgur.com/ZIiveoN.gif
-comments_disable: true
+subtitle: 프로젝트 코드 Refactoring
+author: Daniel
+categories: Project
+tags: 
+ - Project
+ - Unity
+ - Trouble
+banner:
+ image : https://i.imgur.com/ZIiveoN.gif
 ---
 
 ![](https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb260cae4-a3d0-448b-be5d-7486d5925148%2F34.png?table=block&id=9e7562fc-62db-4d05-bb21-4e95a2e04542&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=2000&userId=&cache=v2)
 
-# 멤버 소개 카드 게임 개발
+멤버 소개 카드 게임 개발
+--
 ## 역할 : 코드 전체 리팩토링 및 수정 디버깅
 
 - 전체 팀원들의 코드를 취합하여 부족한 기능 구현에 대한 완성
@@ -18,8 +24,8 @@ comments_disable: true
 - 카드 매치 로직 디버깅 
 - 팀원 전체 코드 리뷰
 
-# StartScene Script
-## Class StartScene
+## StartScene Script
+### Class StartScene
 
 #### 기존 코드
 
@@ -170,7 +176,8 @@ public class StartProfile : MonoBehaviour
 
 ---
 
-# GameScene Script
+GameScene Script
+--
 
 ## 씬 구성
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-31-Text Mesh Pro.md",
+                "file": "_posts/2023-11-08-MarkDown.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-31-Text Mesh Pro.md",
+                "file": "_posts/2023-11-08-MarkDown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-31-Text Mesh Pro.md",
+                "file": "_posts/2023-11-08-MarkDown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-31-Text Mesh Pro.md"
+                "file": "_posts/2023-11-08-MarkDown.md"
               }
             }
           },
@@ -168,18 +168,28 @@
   "active": "f8d4e2bb738c3a07",
   "lastOpenFiles": [
     "_posts/2023-11-08-GitPage Build Trouble.md",
-    "_posts/2023-10-31-Text Mesh Pro.md",
-    "_site/unity/2023/10/31/Text-Mesh-Pro.html",
-    "_site/unity/2023/10/31",
-    "_site/2023/11/09/2023-10-31-Text-Mesh-Pro.html",
+    "_posts/2023-11-07-2-암호화.md",
+    "_posts/2023-11-07-1-Programmers.md",
+    "_posts/2023-11-06-CompareTo.md",
+    "_posts/2023-11-05-TicTacToe.md",
+    "_site/algorithm/2023/11/04/2-StringBuilder.html",
+    "_posts/2023-11-04-2-StringBuilder.md",
+    "_posts/2023-11-03-1-ASCII Char 문자 다루기.md",
+    "_posts/2023-11-03-2-Aggregate.md",
+    "_site/2023/11/09/2023-11-04-2-StringBuilder.html",
     "_site/2023/11/09",
     "_site/2023/11",
     "_site/2023",
+    "_posts/2023-11-04-1-3진수 뒤집기.md",
+    "_site/algo/2023/11/04/2-StringBuilder.html",
+    "_site/algo/2023/11/04",
+    "_site/algo/2023/11",
+    "_site/algo/2023",
+    "_site/algo",
+    "_posts/2023-11-02-MiniGameStartScene.md",
+    "_posts/2023-11-01-카드 뒤집기.md",
+    "_posts/2023-10-31-Text Mesh Pro.md",
     "_posts/2023-10-30-2-인터페이스선언.md",
-    "_site/c#/2023/10/30/2-인터페이스선언.html",
-    "_site/c#/2023/10/30",
-    "_site/2023/11/09/2023-10-30-2-인터페이스선언.html",
-    "_site/project/2023/10/30/1-게임기획.html",
     "_posts/2023-10-30-1-게임기획.md",
     "_posts/2023-10-27-2-튜플 Tuple.md",
     "_posts/2023-10-27-1-구조체.md",
@@ -193,16 +203,6 @@
     "_posts/2023-10-19-6-문자열.md",
     "_posts/2023-10-19-5-부동 소수점 형변환.md",
     "_posts/2023-10-19-4-박싱언박싱.md",
-    "_posts/2023-10-19-3-부동소수점.md",
-    "_posts/2023-10-19-2-OverFlow.md",
-    "_posts/2023-10-19-1-음수보수법.md",
-    "_posts/2023-10-18-URP.md",
-    "_posts/2023-10-17-5-포톤클라우드.md",
-    "_posts/2023-10-17-4-Input System.md",
-    "_posts/2023-10-17-3-Occlusion Culling.md",
-    "_posts/2023-10-17-1-csharp_CLR.md",
-    "_posts/2023-10-17-2-Scene Manage.md",
-    "_posts/2023-10-16-6-Light Probe.md",
     "assets/images/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.07.25 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",
