@@ -12,7 +12,7 @@ tags:
  - Socket
 
 banner:
-  image:
+  image: https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5e63de6c-9692-4b0e-a345-7818c21a98ed%2F1.png?table=block&id=214808a5-7ee2-4d95-be0b-96b3c6b3451d&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=2000&userId=&cache=v2
 ---
 
 Nest JS를 이용한 소켓 서버 구축

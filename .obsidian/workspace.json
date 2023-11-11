@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5,
-    "collapsed": true
+    "width": 420.5
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -169,6 +168,8 @@
   "active": "f8d4e2bb738c3a07",
   "lastOpenFiles": [
     "_posts/2023-11-10-LINQ.md",
+    "_posts/2023-11-09-개인과제 프로젝트 2.md",
+    "_posts/2023-11-09-개인과제 프로젝트 1.md",
     "_posts/2023-11-11-SocketServerBuild.md",
     "_site/c#/2023/11/10/LINQ.html",
     "_site/c#/2023/11/10",
@@ -181,7 +182,6 @@
     "_posts/quick-mardown-example.md",
     "_posts/Template.md",
     "_posts/2023-11-08-MarkDown.md",
-    "_posts/2023-11-09-개인과제 프로젝트 2.md",
     "_posts/2023-03-17-Test 트러블슈팅.md",
     "_posts/2023-10-16-2-RayCast.md",
     "_posts/2023-10-26-1-static.md",
@@ -190,7 +190,6 @@
     "_posts/2023-10-17-4-Input System.md",
     "_posts/2023-04-17-1-Unity_SerializeField.md",
     "_posts/2023-11-05-TicTacToe.md",
-    "_posts/2023-11-09-개인과제 프로젝트 1.md",
     "_site/project/2023/11/09/개인과제-프로젝트-2.html",
     "_posts/2023-11-10-TextRPG_Title.md",
     "_posts/another-test-markdown.md",
