@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-12-프로퍼티.md",
+                "file": "_posts/2023-11-13-Socket.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5,
-    "collapsed": true
+    "width": 420.5
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-12-프로퍼티.md",
+                "file": "_posts/2023-11-13-Socket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-12-프로퍼티.md",
+                "file": "_posts/2023-11-13-Socket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-12-프로퍼티.md"
+                "file": "_posts/2023-11-13-Socket.md"
               }
             }
           },
@@ -168,11 +167,12 @@
   },
   "active": "f8d4e2bb738c3a07",
   "lastOpenFiles": [
-    "_posts/2023-11-11-SocketServerBuild.md",
+    "_posts/2023-11-09-개인과제 프로젝트 1.md",
+    "_posts/2023-11-13-Socket.md",
     "_posts/2023-11-12-프로퍼티.md",
+    "_posts/2023-11-11-SocketServerBuild.md",
     "_posts/2023-11-10-LINQ.md",
     "_posts/2023-11-09-개인과제 프로젝트 2.md",
-    "_posts/2023-11-09-개인과제 프로젝트 1.md",
     "_site/c#/2023/11/10/LINQ.html",
     "_site/c#/2023/11/10",
     "_site/2023/11/10/LINQ.html",
@@ -200,7 +200,6 @@
     "_posts/2023-11-04-2-StringBuilder.md",
     "_posts/2023-11-03-2-Aggregate.md",
     "_posts/2023-11-03-1-ASCII Char 문자 다루기.md",
-    "_posts/2023-11-02-MiniGameStartScene.md",
     "_site/c#/2023/10/25/2-메소드-오버로딩.html",
     "_site/2023/11/10/2023-10-25-2-메소드-오버로딩.html",
     "_site/algorithm/2023/11/06/CompareTo.html",
