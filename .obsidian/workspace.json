@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "778c9b88c4ec6cff",
+        "id": "5601cd3f44d005e2",
         "type": "tabs",
         "children": [
           {
-            "id": "f8d4e2bb738c3a07",
+            "id": "53b010a897e31f5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,11 +165,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8d4e2bb738c3a07",
+  "active": "53b010a897e31f5a",
   "lastOpenFiles": [
-    "_posts/2023-11-09-개인과제 프로젝트 1.md",
     "_posts/2023-11-13-Socket.md",
     "_posts/2023-11-12-프로퍼티.md",
+    "_posts/2023-11-09-개인과제 프로젝트 1.md",
+    "_site/project/2023/11/13/Socket.html",
+    "_site/project/2023/11/13",
+    "_site/c#/2023/11/12/프로퍼티.html",
+    "_site/c#/2023/11/12",
+    "_site/project/2023/11/11/SocketServerBuild.html",
+    "_site/project/2023/11/11",
     "_posts/2023-11-11-SocketServerBuild.md",
     "_posts/2023-11-10-LINQ.md",
     "_posts/2023-11-09-개인과제 프로젝트 2.md",
@@ -177,8 +183,6 @@
     "_site/c#/2023/11/10",
     "_site/2023/11/10/LINQ.html",
     "_site/2023/11/10",
-    "_site/2023/11",
-    "_site/2023",
     "_posts/2023-09-14-csharp_CS.md",
     "_posts/table-example.md",
     "_posts/quick-mardown-example.md",
@@ -192,17 +196,12 @@
     "_posts/2023-10-17-4-Input System.md",
     "_posts/2023-04-17-1-Unity_SerializeField.md",
     "_posts/2023-11-05-TicTacToe.md",
-    "_site/project/2023/11/09/개인과제-프로젝트-2.html",
     "_posts/2023-11-10-TextRPG_Title.md",
     "_posts/another-test-markdown.md",
     "_posts/2023-11-07-2-암호화.md",
     "_posts/2023-11-06-CompareTo.md",
     "_posts/2023-11-04-2-StringBuilder.md",
     "_posts/2023-11-03-2-Aggregate.md",
-    "_posts/2023-11-03-1-ASCII Char 문자 다루기.md",
-    "_site/c#/2023/10/25/2-메소드-오버로딩.html",
-    "_site/2023/11/10/2023-10-25-2-메소드-오버로딩.html",
-    "_site/algorithm/2023/11/06/CompareTo.html",
     "assets/images/posts/kRmfd56.png",
     "assets/images/posts/postglogo.png",
     "_site/Screenshot 2023-11-09 at 11.37.46 PM.jpg",
