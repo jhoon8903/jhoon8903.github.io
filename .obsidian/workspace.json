@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-13-Socket.md",
+                "file": "_posts/2023-11-14-GameServer.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-13-Socket.md",
+                "file": "_posts/2023-11-14-GameServer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-13-Socket.md",
+                "file": "_posts/2023-11-14-GameServer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-13-Socket.md"
+                "file": "_posts/2023-11-14-GameServer.md"
               }
             }
           },
@@ -167,6 +167,15 @@
   },
   "active": "53b010a897e31f5a",
   "lastOpenFiles": [
+    "_site/project/2023/11/14/GameServer.html",
+    "_site/project/2023/11/14",
+    "_posts/test-markdown.md",
+    "_posts/Video Play Post Example.md",
+    "_posts/quick-mardown-example.md",
+    "_posts/another-test-markdown.md",
+    "_posts/table-example.md",
+    "_posts/Template.md",
+    "_posts/2023-11-14-GameServer.md",
     "_posts/2023-11-13-Socket.md",
     "_posts/2023-11-12-프로퍼티.md",
     "_posts/2023-11-09-개인과제 프로젝트 1.md",
@@ -182,11 +191,7 @@
     "_site/c#/2023/11/10/LINQ.html",
     "_site/c#/2023/11/10",
     "_site/2023/11/10/LINQ.html",
-    "_site/2023/11/10",
     "_posts/2023-09-14-csharp_CS.md",
-    "_posts/table-example.md",
-    "_posts/quick-mardown-example.md",
-    "_posts/Template.md",
     "_posts/2023-11-08-MarkDown.md",
     "_posts/2023-03-17-Test 트러블슈팅.md",
     "_posts/2023-10-16-2-RayCast.md",
@@ -197,11 +202,7 @@
     "_posts/2023-04-17-1-Unity_SerializeField.md",
     "_posts/2023-11-05-TicTacToe.md",
     "_posts/2023-11-10-TextRPG_Title.md",
-    "_posts/another-test-markdown.md",
     "_posts/2023-11-07-2-암호화.md",
-    "_posts/2023-11-06-CompareTo.md",
-    "_posts/2023-11-04-2-StringBuilder.md",
-    "_posts/2023-11-03-2-Aggregate.md",
     "assets/images/posts/kRmfd56.png",
     "assets/images/posts/postglogo.png",
     "_site/Screenshot 2023-11-09 at 11.37.46 PM.jpg",
