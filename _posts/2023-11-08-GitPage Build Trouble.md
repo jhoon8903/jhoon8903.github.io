@@ -11,6 +11,7 @@ banner:
   image: https://i.imgur.com/7pagCRT.jpg
 ---
 
+![](https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff22c68bf-8e62-4901-b716-ade00dc65616%2F6.png?table=block&id=527c6ed0-4748-4702-a885-5f13c031315c&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=2000&userId=&cache=v2)
 GItHub Page Build 문제 해결
 --
 

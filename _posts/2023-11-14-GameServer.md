@@ -13,13 +13,15 @@ tags:
  - Csharp
  - Server
 banner:
-  image:
+  image: https://i.imgur.com/9NmDELh.jpg
 ---
 
-Gama Server Build
+![](https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff22c68bf-8e62-4901-b716-ade00dc65616%2F6.png?table=block&id=527c6ed0-4748-4702-a885-5f13c031315c&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=2000&userId=&cache=v2)
+
+Game Server Build
 --
 
-### 1. Aws Instance Create
+### 1. AWS Instance Create
 
 - 사용하는 Server App의 아키텍쳐에 맞추어 인스턴스 생성
 - 무료이고 크게 속도가 필요 없으며 테스트용의 용도에 맞게 t2.micro 로 인스턴스 생성
@@ -96,23 +98,14 @@ $ ssh -i pemKey-Path ec2-user@public-IP
 daniel@Danielui-MacBookPro Desktop % ssh -i /Users/daniel/Desktop/GameServer.pem ec2-user@your-server-public-ip
 
    ,     #_
-
    ~\_  ####_        Amazon Linux 2023
-
   ~~  \_#####\
-
   ~~     \###|
-
   ~~       \#/ ___   https://aws.amazon.com/linux/amazon-linux-2023
-
    ~~       V~' '->
-
     ~~~         /
-
       ~~._.   _/
-
          _/ _/
-
        _/m/'
 ```
 
