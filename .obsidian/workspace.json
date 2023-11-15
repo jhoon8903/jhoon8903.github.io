@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-14-Database 구축.md",
+                "file": "_posts/2023-11-15-TeamProject.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-14-Database 구축.md",
+                "file": "_posts/2023-11-15-TeamProject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-14-Database 구축.md",
+                "file": "_posts/2023-11-15-TeamProject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-14-Database 구축.md"
+                "file": "_posts/2023-11-15-TeamProject.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "53b010a897e31f5a",
   "lastOpenFiles": [
+    "_posts/2023-11-14-Database 구축.md",
+    "_posts/2023-11-15-TeamProject.md",
     "_site/project/2023/11/14/Database-구축.html",
     "_site/ㅖ/2023/11/14/Database-구축.html",
     "_site/ㅖ/2023/11/14",
@@ -178,7 +180,6 @@
     "_site/2023/11",
     "_site/2023",
     "_posts/PM2_AUTO_DEPLOY.md",
-    "_posts/2023-11-14-Database 구축.md",
     "_posts/2023-11-07-1-Programmers.md",
     "_posts/2023-11-06-CompareTo.md",
     "_posts/2023-11-07-2-암호화.md",
@@ -191,7 +192,6 @@
     "_posts/2023-11-12-프로퍼티.md",
     "_posts/2023-11-13-Socket.md",
     "_posts/2023-11-14-GameServer.md",
-    "_site/project/2023/11/14/GameServer.html",
     "_posts/test-markdown.md",
     "_posts/Video Play Post Example.md",
     "_posts/quick-mardown-example.md",
