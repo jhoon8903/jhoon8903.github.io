@@ -11,9 +11,9 @@ tags:
  - Csharp
  - 게임 기획
 banner:
-  image:
+  image: https://teamsparta.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F83c75a39-3aba-4ba4-a792-7aefe4b07895%2Fc0f33ea9-baa1-44ac-83e1-0c3a753852b8%2F6cpu.001.jpeg?table=block&id=4ec78f88-17f7-4239-bd78-c6e1adf5d590&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1730&userId=&cache=v2
 ---
-
+![](https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdbd6c7b9-b91b-4eed-9d78-99a331e0517b%2F14.png?table=block&id=a57d5fe7-e294-43a5-b8a8-ba3fab2aef20&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=2000&userId=&cache=v2)
 HexCore Village
 --
 
