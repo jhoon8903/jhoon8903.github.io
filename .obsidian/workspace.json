@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-16-StringBuilder-Method.md",
+                "file": "_posts/2023-11-17-Console_Size_Fixer.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-16-StringBuilder-Method.md",
+                "file": "_posts/2023-11-17-Console_Size_Fixer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-16-StringBuilder-Method.md",
+                "file": "_posts/2023-11-17-Console_Size_Fixer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-16-StringBuilder-Method.md"
+                "file": "_posts/2023-11-17-Console_Size_Fixer.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "53b010a897e31f5a",
   "lastOpenFiles": [
-    "_posts/2023-11-15-TeamProject.md",
     "_posts/2023-11-16-StringBuilder-Method.md",
+    "_posts/2023-11-17-Console_Size_Fixer.md",
+    "_posts/2023-11-15-TeamProject.md",
     "_posts/2023-11-14-Database 구축.md",
     "_site/project/2023/11/14/Database-구축.html",
     "_site/ㅖ/2023/11/14/Database-구축.html",
@@ -202,7 +203,6 @@
     "_posts/2023-09-14-csharp_CS.md",
     "_posts/2023-03-17-Test 트러블슈팅.md",
     "_posts/2023-10-16-2-RayCast.md",
-    "_posts/2023-10-26-1-static.md",
     "assets/images/posts/kRmfd56.png",
     "assets/images/posts/postglogo.png",
     "_site/Screenshot 2023-11-09 at 11.37.46 PM.jpg",
