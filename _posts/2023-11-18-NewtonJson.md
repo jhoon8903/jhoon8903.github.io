@@ -10,7 +10,7 @@ tags:
  - Json
  - Programming
 banner:
-  image:
+  image: https://marketsplash.com/content/images/2023/07/mermaid-diagram-2023-07-15-174501.png
 ---
 
 직렬화 역직렬화
