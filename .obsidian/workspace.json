@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-18-NewtonJson.md",
+                "file": "_posts/2023-11-19-JSON2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-18-NewtonJson.md",
+                "file": "_posts/2023-11-19-JSON2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-18-NewtonJson.md",
+                "file": "_posts/2023-11-19-JSON2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-18-NewtonJson.md"
+                "file": "_posts/2023-11-19-JSON2.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "a78aa8fceb4cc5e3",
   "lastOpenFiles": [
+    "_posts/2023-11-10-LINQ.md",
+    "_posts/2023-11-19-JSON2.md",
     "_posts/2023-11-18-NewtonJson.md",
     "_posts/2023-11-17-Console_Size_Fixer.md",
     "_posts/2023-11-16-StringBuilder-Method.md",
@@ -190,7 +192,6 @@
     "_posts/2023-11-08-MarkDown.md",
     "_posts/2023-11-09-개인과제 프로젝트 1.md",
     "_posts/2023-11-09-개인과제 프로젝트 2.md",
-    "_posts/2023-11-10-LINQ.md",
     "_posts/2023-11-11-SocketServerBuild.md",
     "_posts/2023-11-12-프로퍼티.md",
     "_posts/2023-11-13-Socket.md",
@@ -202,7 +203,6 @@
     "_posts/table-example.md",
     "_posts/Template.md",
     "_posts/2023-09-14-csharp_CS.md",
-    "_posts/2023-03-17-Test 트러블슈팅.md",
     "assets/images/posts/kRmfd56.png",
     "assets/images/posts/postglogo.png",
     "_site/Screenshot 2023-11-09 at 11.37.46 PM.jpg",
