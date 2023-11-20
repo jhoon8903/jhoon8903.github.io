@@ -9,7 +9,7 @@ tags:
  - Programming
  - MacOS
 banner:
-  image:
+  image: https://i.imgur.com/InntxOv.jpg
 ---
 
 C# IDE 가 아닌 Terminal에서 실행하기
