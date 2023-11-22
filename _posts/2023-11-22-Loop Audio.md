@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NetCoreAudio Loop
+title: NetCoreAudio Handler Events
 subtitle: 오디오 플레이어 클래스의 반복 재생 기능 만들기
 author: Daniel
 categories: Csharp
@@ -123,6 +123,12 @@ namespace HexaCoreVillage.Utility
 	}  
 }
 ```
+
+
+Process Stop
+--
+
+👨🏻‍🚒 프로세스가 종료 될 때 시스템에서 재생중인 오디오가 멈추지 않고 계속 재생되는 문제
 
 
 마치며

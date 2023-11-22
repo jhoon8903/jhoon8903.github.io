@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be1bf962bd96f548",
+        "id": "b3e16409728d81e6",
         "type": "tabs",
         "children": [
           {
-            "id": "db9bcc2433d12956",
+            "id": "fde2e829d5d46e44",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,10 +177,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db9bcc2433d12956",
+  "active": "fde2e829d5d46e44",
   "lastOpenFiles": [
-    "_posts/2023-11-21-SoundManager.md",
+    "_posts/2023-11-22.md",
     "_posts/2023-11-22-Loop Audio.md",
+    "_posts/2023-11-21-SoundManager.md",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
     "_posts/2023-11-19-JSON2.md",
     "_posts/2023-11-20-Csharp-Terminal.md",
@@ -205,7 +206,6 @@
     "_posts/2022-11-20-Python 변수 선언과 자료형.md",
     "_posts/2022-11-20-Python 문자열 다루기.md",
     "_posts/2022-11-20-Python List와 Dictionary.md",
-    "_posts/2022-11-15-항해99 python 화성땅 구매제작 (POST).md",
     "_site/project/2023/11/14/Database-구축.html",
     "_site/ㅖ/2023/11/14/Database-구축.html",
     "_site/ㅖ/2023/11/14",
