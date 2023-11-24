@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-25-Cinemachine.md",
+                "file": "_posts/2023-11-25-followCam.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-25-Cinemachine.md",
+                "file": "_posts/2023-11-25-followCam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-25-Cinemachine.md",
+                "file": "_posts/2023-11-25-followCam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-25-Cinemachine.md"
+                "file": "_posts/2023-11-25-followCam.md"
               }
             }
           },
@@ -181,7 +181,7 @@
   "active": "fde2e829d5d46e44",
   "lastOpenFiles": [
     "_posts/2023-11-24-Personal_Project.md",
-    "_posts/2023-11-25-Cinemachine.md",
+    "_posts/2023-11-25-followCam.md",
     "_posts/2023-11-23-TeamProject.md",
     "_posts/2023-11-22-Loop Audio.md",
     "_posts/2023-11-22.md",
