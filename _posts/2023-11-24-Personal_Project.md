@@ -249,9 +249,51 @@ private void LateUpdate()
 ```
 
 
+#### LookForward
+
+```csharp
+private void LookForward(Vector2 lookDirection)  
+{  
+	float rotate = Mathf.Atan2(lookDirection.y, lookDirection.x) * Mathf.Rad2Deg;  
+	character.flipX = Mathf.Abs(rotate) > 90f;  
+}
+```
+
+- 마우스 값을 이용한 방향을 바꾸는 방법은 마우스가 입력하는 값을 90을 기준으로 SpriteRenderer의 flip.x 값을 변환시켜 오브젝트를 반전 시킵니다.
+
+#### Mathf.Atan2
+
+**기능**
+- `Mathf.Atan2(y,x)`는 양의 x축과 `(x, y)` 점 사이의 각도를 라디안 단위로 계산합니다. 
+- 'x'가 0인 경우를 처리하고 점이 x축 위 또는 아래에 있는 경우를 구별할 수 있으므로 'y/x'의 아크탄젠트 계산에 대한 보다 강력한 버전입니다.
+
+**`LookDirection`에서의 사용법** 
+- 메소드에서 `Mathf.Atan2(lookDirection.y, lookDirection.x)`는 원점 `(0,0)`에서 선으로 형성된 각도를 라디안 단위로 계산합니다. 
+- `lookDirection`에 의해 정의된 지점입니다. 
+- 이 각도는 캐릭터가 바라보고 있어야 하는 방향을 나타냅니다.
+
+#### Mahf.Rad2Deg
+
+**기능** 
+- Unity는 라디안을 각도로 변환하기 위해 이 상수(`Mathf.Rad2Deg`)를 제공합니다.
+- 'Mathf.Atan2'는 각도를 라디안 단위로 반환하고 각도가 작업하기에 더 직관적인 경우가 많으므로 이 변환이 필요합니다. 
+- 변환 계수는 약 '57.2958'입니다(180도는 π 라디안이므로).
+- **`LookForward`의 변환:** `float Rotate = Mathf.Atan2(lookDirection.y, lookDirection.x) * Mathf.Rad2Deg;` 줄은 먼저 각도를 라디안 단위로 계산한 다음 각도로 변환합니다.
+
+#### 뒤집기 논리
+
+**조건** 
+- `character.flipX = Mathf.Abs(rotate) > 90f;`. 이 줄은 각도의 절대값(도 단위)이 90보다 큰지 확인합니다. 
+- 여기서 논리는 캐릭터가 더 왼쪽(90도에서 270도 사이의 각도)을 바라보고 있으면 'flipX'가 'true'여야 한다는 것입니다. 
+- 캐릭터 스프라이트를 수평으로 뒤집습니다.
+    
+**상태 이해**
+- `lookDirection`이 캐릭터의 오른쪽을 가리킬 때 `rotate`는 -90도에서 90도 사이입니다. 캐릭터는 오른쪽을 향해야 하므로 'flipX'는 false입니다.
+- `lookDirection`이 왼쪽을 가리킬 때 `rotate`는 90도보다 크거나 -90도보다 작습니다. 캐릭터는 왼쪽을 향해야 하므로 'flipX'가 true로 설정됩니다.
+
+
 마치며
 --
 
 - Input System은 기존에 사용하던 코드보다 견결하고 지속적을 확인을 하는 것이 아닌 이벤트 드리븐 (Event Driven) 방식으로 최적화 및 효율성 그리고 크로스 플랫폼에서 사용 가능한 확장성을 가지게 되어 좀더 유용한 시스템 이 될 것이기 때문에 익숙해지며 응용방법을 좀더 찾아보야 할 것 입니다.
-
-
+- Mathf 의 메서드들은 잘 사용하면 정말 좋지만, 이해하기가 어렵기 때문에 대략적인 사용방법을 익히고 반복하면서 숙달하는 방법이 좋을 것 같습니다.
