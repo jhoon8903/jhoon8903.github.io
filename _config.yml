@@ -148,7 +148,7 @@ google_site_verification: [ZnCjB9-_C2NThddaJCXR5oJFldug5tREvpiQqFPZgDQ]
 #   enabled: "true"
 #   color: "#fff"
 #   background_color: "#ff4e00"
-#   text_transform: "uppercase"  # ("uppercase", "lowercase", "capitalize")
+#   text_transform: "uppercase" # ("uppercase", "lowercase", "capitalize")
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
