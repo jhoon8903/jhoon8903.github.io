@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d25f4f5c94c91d5",
+        "id": "6864a48ee4853fa0",
         "type": "tabs",
         "children": [
           {
-            "id": "925f85a65c157ea4",
+            "id": "7198e2093879f11d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-15-TeamProject.md",
+                "file": "_posts/2023-11-24-followCam.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-15-TeamProject.md",
+                "file": "_posts/2023-11-24-followCam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-15-TeamProject.md",
+                "file": "_posts/2023-11-24-followCam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-15-TeamProject.md"
+                "file": "_posts/2023-11-24-followCam.md"
               }
             }
           },
@@ -177,8 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "925f85a65c157ea4",
+  "active": "7198e2093879f11d",
   "lastOpenFiles": [
+    "_posts/2023-11-25.md",
+    "_posts/2023-11-15-TeamProject.md",
     "_posts/2023-11-16-StringBuilder-Method.md",
     "_posts/2023-11-17-Console_Size_Fixer.md",
     "_posts/2023-11-18-NewtonJson.md",
@@ -188,13 +190,12 @@
     "_posts/2023-11-22-Loop Audio.md",
     "_posts/2023-11-23-TeamProject.md",
     "_posts/2023-11-24-Personal_Project.md",
-    "_posts/2023-11-25-followCam.md",
+    "_posts/2023-11-24-followCam.md",
     "_posts/2023-11-13-Socket.md",
     "_posts/2023-11-11-SocketServerBuild.md",
     "_posts/2023-11-12-프로퍼티.md",
     "_posts/Database 구축.md",
     "_posts/2023-11-14-GameServer.md",
-    "_posts/2023-11-25.md",
     "_posts/2023-11-22.md",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
     "_posts/quick-mardown-example.md",
@@ -205,7 +206,6 @@
     "_posts/another-test-markdown.md",
     "_posts/PM2_AUTO_DEPLOY.md",
     "_posts/2022-12-07-Flask mongodb data 삭제.md",
-    "_posts/2022-12-06-Python 미니프로젝트 2.md",
     "_site/project/2023/11/14/Database-구축.html",
     "_site/ㅖ/2023/11/14/Database-구축.html",
     "_site/ㅖ/2023/11/14",
