@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-25-1-followCam.md",
+                "file": "_posts/2023-11-26-UGUI_Create.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-25-1-followCam.md",
+                "file": "_posts/2023-11-26-UGUI_Create.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-25-1-followCam.md",
+                "file": "_posts/2023-11-26-UGUI_Create.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-25-1-followCam.md"
+                "file": "_posts/2023-11-26-UGUI_Create.md"
               }
             }
           },
@@ -177,11 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7198e2093879f11d",
+  "active": "e6bb309b88021308",
   "lastOpenFiles": [
     "_posts/2023-11-25-2-Animator.md",
-    "_posts/2023-11-24-Personal_Project.md",
+    "_posts/2023-11-26-UGUI_Create.md",
+    "_posts/Template.md",
     "_posts/2023-11-25-1-followCam.md",
+    "_posts/2023-11-24-Personal_Project.md",
     "_posts/2023-11-15-TeamProject.md",
     "_posts/2023-11-16-StringBuilder-Method.md",
     "_posts/2023-11-17-Console_Size_Fixer.md",
@@ -202,10 +205,8 @@
     "_posts/quick-mardown-example.md",
     "_posts/Video Play Post Example.md",
     "_posts/test-markdown.md",
-    "_posts/Template.md",
     "_posts/table-example.md",
     "_posts/another-test-markdown.md",
-    "_posts/PM2_AUTO_DEPLOY.md",
     "_site/project/2023/11/14/Database-구축.html",
     "_site/ㅖ/2023/11/14/Database-구축.html",
     "_site/ㅖ/2023/11/14",
