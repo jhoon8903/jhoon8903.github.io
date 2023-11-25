@@ -13,8 +13,10 @@ banner:
   image: https://i.imgur.com/wt52wWu.gif
 ---
 ![](https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F573d499f-80ac-4e49-a243-d5079503ca40%2F3.png?table=block&id=d5e15def-1ac2-420f-9c62-49b36a9a637e&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=2000&userId=&cache=v2)
-Cinemachine
---
+ 
+ 
+ Cinemachine
+ --
 
 2020 버전 이후 나온 Cinemachine 은 가상의 카메라를 설정하여 사용자가 보여주고 싶은 화면을 자연스럽게 또는 멋지게 연출할 수 있는 기능으로 다양한 영상 연출에 사용되는 에셋입니다.
 
