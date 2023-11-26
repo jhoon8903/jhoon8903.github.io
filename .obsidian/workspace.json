@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-26-UGUI_만들기.md",
+                "file": "_posts/2023-11-26-UGUI_Create.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-26-UGUI_만들기.md",
+                "file": "_posts/2023-11-26-UGUI_Create.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-26-UGUI_만들기.md",
+                "file": "_posts/2023-11-26-UGUI_Create.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-26-UGUI_만들기.md"
+                "file": "_posts/2023-11-26-UGUI_Create.md"
               }
             }
           },
@@ -180,7 +181,7 @@
   "active": "7198e2093879f11d",
   "lastOpenFiles": [
     "_posts/2023-11-25-2-Animator.md",
-    "_posts/2023-11-26-UGUI_만들기.md",
+    "_posts/2023-11-26-UGUI_Create.md",
     "_posts/another-test-markdown.md",
     "_posts/Database 구축.md",
     "_posts/PM2_AUTO_DEPLOY.md",
