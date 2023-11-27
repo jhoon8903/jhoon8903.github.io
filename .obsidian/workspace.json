@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-27-1-ConnectUsers.md",
+                "file": "_posts/2023-11-27-2-NPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-27-1-ConnectUsers.md",
+                "file": "_posts/2023-11-27-2-NPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-27-1-ConnectUsers.md",
+                "file": "_posts/2023-11-27-2-NPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-27-1-ConnectUsers.md"
+                "file": "_posts/2023-11-27-2-NPC.md"
               }
             }
           },
@@ -180,9 +180,10 @@
   },
   "active": "7198e2093879f11d",
   "lastOpenFiles": [
+    "_posts/2023-11-27-1-ConnectUsers.md",
+    "_posts/2023-11-27-2-NPC.md",
     "Screen Recording 2023-11-27 at 10.58.28 AM.mov",
     "_posts/2023-11-26-2-CharacterSelect.md",
-    "_posts/2023-11-27-1-ConnectUsers.md",
     "_posts/2023-11-26-1-UGUI_Create.md",
     "_posts/2023-11-25-1-followCam.md",
     "_posts/2023-11-25-2-Animator.md",
@@ -216,7 +217,6 @@
     "_site/2023/11/14/Database-구축.html",
     "_site/2023/11/14",
     "_site/2023/11",
-    "_site/2023",
     "assets/images/posts/kRmfd56.png",
     "assets/images/posts/postglogo.png",
     "_site/Screenshot 2023-11-09 at 11.37.46 PM.jpg",
