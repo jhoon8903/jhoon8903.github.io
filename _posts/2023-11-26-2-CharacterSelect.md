@@ -18,6 +18,7 @@ banner:
 ![](https://i.imgur.com/pitJw5n.gif)
 
 - 케릭터의 선택 및 게임상의 케릭터를 재할당하여 상태를 변하게 하는 기능의 구현
+
 ### UGUI 구성
 
 #### 케릭터 선택 버튼 UI
