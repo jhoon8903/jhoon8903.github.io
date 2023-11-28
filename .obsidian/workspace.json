@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-27-2-NPC.md",
+                "file": "_posts/2023-11-28-InGameSelectAvatar.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-27-2-NPC.md",
+                "file": "_posts/2023-11-28-InGameSelectAvatar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-27-2-NPC.md",
+                "file": "_posts/2023-11-28-InGameSelectAvatar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-27-2-NPC.md"
+                "file": "_posts/2023-11-28-InGameSelectAvatar.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   },
   "active": "7198e2093879f11d",
   "lastOpenFiles": [
-    "_posts/2023-11-27-1-ConnectUsers.md",
     "_posts/2023-11-27-2-NPC.md",
+    "_posts/2023-11-28-InGameSelectAvatar.md",
+    "_posts/2023-11-27-1-ConnectUsers.md",
     "Screen Recording 2023-11-27 at 10.58.28 AM.mov",
     "_posts/2023-11-26-2-CharacterSelect.md",
     "_posts/2023-11-26-1-UGUI_Create.md",
@@ -206,7 +207,6 @@
     "_posts/2023-11-22-Loop Audio.md",
     "_posts/2023-11-23-TeamProject.md",
     "_posts/2023-11-24-followCam.md",
-    "_posts/2023-11-13-Socket.md",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
     "_site/project/2023/11/14/Database-구축.html",
     "_site/ㅖ/2023/11/14/Database-구축.html",
