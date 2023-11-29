@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-28-InGameSelectAvatar.md",
+                "file": "_posts/2023-11-29-2-NPCResponse.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-28-InGameSelectAvatar.md",
+                "file": "_posts/2023-11-29-2-NPCResponse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-28-InGameSelectAvatar.md",
+                "file": "_posts/2023-11-29-2-NPCResponse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-28-InGameSelectAvatar.md"
+                "file": "_posts/2023-11-29-2-NPCResponse.md"
               }
             }
           },
@@ -180,33 +180,33 @@
   },
   "active": "7198e2093879f11d",
   "lastOpenFiles": [
+    "_posts/2023-11-29-1-TimeView.md",
+    "_posts/2023-11-29-2-NPCResponse.md",
+    "_posts/2023-11-28-2-ChangedName.md",
+    "_posts/2023-10-31-Text Mesh Pro.md",
+    "_posts/2023-11-26-1-UGUI_Create.md",
+    "_posts/2023-11-25-2-Animator.md",
+    "_posts/2023-11-25-1-followCam.md",
+    "_posts/2023-11-24-Personal_Project.md",
+    "_posts/2023-11-26-2-CharacterSelect.md",
+    "_posts/2023-11-28-1-InGameSelectAvatar.md",
+    "_posts/Template.md",
     "_posts/2023-11-27-2-NPC.md",
-    "_posts/2023-11-28-InGameSelectAvatar.md",
     "_posts/2023-11-27-1-ConnectUsers.md",
     "Screen Recording 2023-11-27 at 10.58.28 AM.mov",
-    "_posts/2023-11-26-2-CharacterSelect.md",
-    "_posts/2023-11-26-1-UGUI_Create.md",
-    "_posts/2023-11-25-1-followCam.md",
-    "_posts/2023-11-25-2-Animator.md",
     "_posts/another-test-markdown.md",
     "_posts/Database 구축.md",
     "_posts/PM2_AUTO_DEPLOY.md",
     "_posts/quick-mardown-example.md",
     "_posts/table-example.md",
     "_posts/test-markdown.md",
-    "_posts/Template.md",
     "_posts/Video Play Post Example.md",
-    "_posts/2023-11-24-Personal_Project.md",
     "_posts/2023-11-15-TeamProject.md",
     "_posts/2023-11-16-StringBuilder-Method.md",
     "_posts/2023-11-17-Console_Size_Fixer.md",
     "_posts/2023-11-18-NewtonJson.md",
     "_posts/2023-11-19-JSON2.md",
     "_posts/2023-11-20-Csharp-Terminal.md",
-    "_posts/2023-11-21-SoundManager.md",
-    "_posts/2023-11-22-Loop Audio.md",
-    "_posts/2023-11-23-TeamProject.md",
-    "_posts/2023-11-24-followCam.md",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
     "_site/project/2023/11/14/Database-구축.html",
     "_site/ㅖ/2023/11/14/Database-구축.html",

@@ -16,7 +16,7 @@ Text Mesh Pro
 --
 
 ## Font Asset Creator Custom range
-- 한글을 사용하기 위한 Conversion Range 설정
+- 한글을 사용하기 위한 Custom Range 설정
 - Custom Character와 혼동 하면 안됨
 
 |범위|설명|
