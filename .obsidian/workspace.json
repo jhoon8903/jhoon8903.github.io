@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-30-Forking1.md",
+                "file": "_posts/NPCResponse.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-30-Forking1.md",
+                "file": "_posts/NPCResponse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-30-Forking1.md",
+                "file": "_posts/NPCResponse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-30-Forking1.md"
+                "file": "_posts/NPCResponse.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "aea35c4803a59b01",
   "lastOpenFiles": [
+    "_posts/2023-11-30-Forking1.md",
     "_posts/2023-11-27-1-ConnectUsers.md",
     "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
     "_posts/2023-03-19-Postgresql HA(이중화 및 고가용성) && auto Failover.md",
@@ -204,7 +205,6 @@
     "_posts/2023-05-10-2-3Match_Grid_Development.md",
     "_posts/2023-05-10-1-3Match_Raycast_Development.md",
     "_posts/2023-04-29-Unity_Object Pooling.md",
-    "_posts/2023-04-26-Game 6일차.md",
     "Screenshot 2023-11-30 at 8.53.49 PM.jpg",
     "Screen Recording 2023-11-27 at 10.58.28 AM.mov",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
