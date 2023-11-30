@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6864a48ee4853fa0",
+        "id": "8ad862a132ed44c5",
         "type": "tabs",
         "children": [
           {
-            "id": "7198e2093879f11d",
+            "id": "7c6507e9a49a103b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-29-2-NPCResponse.md",
+                "file": "_posts/2023-11-30-프로젝트 기획.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-29-2-NPCResponse.md",
+                "file": "_posts/2023-11-30-프로젝트 기획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-29-2-NPCResponse.md",
+                "file": "_posts/2023-11-30-프로젝트 기획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-29-2-NPCResponse.md"
+                "file": "_posts/2023-11-30-프로젝트 기획.md"
               }
             }
           },
@@ -178,10 +178,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7198e2093879f11d",
+  "active": "7c6507e9a49a103b",
   "lastOpenFiles": [
-    "_posts/2023-11-29-1-TimeView.md",
+    "_posts/2023-11-30-특강.md",
+    "_posts/2023-11-30-프로젝트 기획.md",
     "_posts/2023-11-29-2-NPCResponse.md",
+    "_posts/2023-11-29-1-TimeView.md",
     "_posts/2023-11-28-2-ChangedName.md",
     "_posts/2023-10-31-Text Mesh Pro.md",
     "_posts/2023-11-26-1-UGUI_Create.md",
@@ -205,8 +207,6 @@
     "_posts/2023-11-16-StringBuilder-Method.md",
     "_posts/2023-11-17-Console_Size_Fixer.md",
     "_posts/2023-11-18-NewtonJson.md",
-    "_posts/2023-11-19-JSON2.md",
-    "_posts/2023-11-20-Csharp-Terminal.md",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
     "_site/project/2023/11/14/Database-구축.html",
     "_site/ㅖ/2023/11/14/Database-구축.html",
