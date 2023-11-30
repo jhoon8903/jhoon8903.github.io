@@ -1,5 +1,5 @@
 ---
-latout: post
+layout: post
 title: Unity LifeCycle
 subtitle: 유니티의 LifeCycle
 categories: Unity

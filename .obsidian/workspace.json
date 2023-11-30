@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-30-1-프로젝트 기획.md",
+                "file": "_posts/2023-11-30-Forking1.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-30-1-프로젝트 기획.md",
+                "file": "_posts/2023-11-30-Forking1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-30-1-프로젝트 기획.md",
+                "file": "_posts/2023-11-30-Forking1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-30-1-프로젝트 기획.md"
+                "file": "_posts/2023-11-30-Forking1.md"
               }
             }
           },
@@ -179,33 +179,34 @@
   },
   "active": "aea35c4803a59b01",
   "lastOpenFiles": [
-    "_posts/2023-11-30-특강.md",
-    "Screenshot 2023-11-30 at 8.53.49 PM.jpg",
-    "_posts/().md",
-    "_posts/2023-11-30-1-프로젝트 기획.md",
-    "_posts/2023-11-29-2-NPCResponse.md",
-    "_posts/2023-11-29-1-TimeView.md",
-    "_posts/2023-11-28-2-ChangedName.md",
-    "_posts/2023-10-31-Text Mesh Pro.md",
-    "_posts/2023-11-26-1-UGUI_Create.md",
-    "_posts/2023-11-25-2-Animator.md",
-    "_posts/2023-11-25-1-followCam.md",
-    "_posts/2023-11-24-Personal_Project.md",
-    "_posts/2023-11-26-2-CharacterSelect.md",
-    "_posts/2023-11-28-1-InGameSelectAvatar.md",
-    "_posts/Template.md",
-    "_posts/2023-11-27-2-NPC.md",
     "_posts/2023-11-27-1-ConnectUsers.md",
+    "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
+    "_posts/2023-03-19-Postgresql HA(이중화 및 고가용성) && auto Failover.md",
+    "_posts/2023-03-20-시간복잡도와 공간복잡도.md",
+    "_posts/2023-03-21-배열과 링크드리스트.md",
+    "_posts/2023-03-27-Indexing.md",
+    "_posts/2023-03-27-MSA.md",
+    "_posts/2023-03-23-정규화.md",
+    "_posts/2023-03-22-트랜젝션.md",
+    "_posts/2023-09-15-Unity_Space.md",
+    "_posts/2023-09-20-PostProcessing.md",
+    "_posts/2023-09-28-Level of Detail.md",
+    "_posts/2023-10-08-Coroutine.md",
+    "_posts/2023-07-07-Save_Load.md",
+    "_posts/2023-06-01-DetectEnemies.md",
+    "_posts/2023-05-22-3Match_TestBuild.md",
+    "_posts/2023-05-18-3Match_Merge.md",
+    "_posts/2023-05-17-3Match_Respawn_motion.md",
+    "_posts/2023-05-16-3Match_UnitLevelUP_Swipe.md",
+    "_posts/2023-05-13-브로드캐스트.md",
+    "_posts/2023-05-12-3Match_Grid2.md",
+    "_posts/2023-05-11-3Match_Merge.md",
+    "_posts/2023-05-10-2-3Match_Grid_Development.md",
+    "_posts/2023-05-10-1-3Match_Raycast_Development.md",
+    "_posts/2023-04-29-Unity_Object Pooling.md",
+    "_posts/2023-04-26-Game 6일차.md",
+    "Screenshot 2023-11-30 at 8.53.49 PM.jpg",
     "Screen Recording 2023-11-27 at 10.58.28 AM.mov",
-    "_posts/another-test-markdown.md",
-    "_posts/Database 구축.md",
-    "_posts/PM2_AUTO_DEPLOY.md",
-    "_posts/quick-mardown-example.md",
-    "_posts/table-example.md",
-    "_posts/test-markdown.md",
-    "_posts/Video Play Post Example.md",
-    "_posts/2023-11-15-TeamProject.md",
-    "_posts/2023-11-16-StringBuilder-Method.md",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
     "_site/project/2023/11/14/Database-구축.html",
     "_site/ㅖ/2023/11/14/Database-구축.html",
