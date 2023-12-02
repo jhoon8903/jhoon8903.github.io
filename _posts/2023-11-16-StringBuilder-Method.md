@@ -3,7 +3,7 @@ layout: post
 title: String Builder 메서드
 subtitle: String Builder의 주요 메서드 설명
 author: Daniel
-categories: Csharp
+categories: C#
 tags: 
  - Programming
  - Csharp

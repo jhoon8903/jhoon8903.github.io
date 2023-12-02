@@ -3,7 +3,7 @@ layout: post
 title: NetCoreAudio Handler Events
 subtitle: 오디오 플레이어 클래스의 반복 재생 기능 만들기
 author: Daniel
-categories: Csharp
+categories: C#
 tags: 
  - Programming
  - Csharp

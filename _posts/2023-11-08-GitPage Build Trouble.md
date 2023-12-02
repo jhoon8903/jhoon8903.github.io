@@ -3,7 +3,7 @@ layout: post
 title: Git Page Build 의존성 문제
 subtitle: Git Page 의존성 문제 해결을 통한 빌드
 author: Daniel
-categories: 문제해결
+categories: Trouble
 tags: 
  - Github
  - GitPage
