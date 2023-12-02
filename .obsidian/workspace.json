@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-03-CSV_TO_JSON.md",
+                "file": "_posts/2023-12-02-DataManager.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 344.5
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-03-CSV_TO_JSON.md",
+                "file": "_posts/2023-12-02-DataManager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-03-CSV_TO_JSON.md",
+                "file": "_posts/2023-12-02-DataManager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-03-CSV_TO_JSON.md"
+                "file": "_posts/2023-12-02-DataManager.md"
               }
             }
           },
@@ -180,8 +179,9 @@
   },
   "active": "32513b3782209ed5",
   "lastOpenFiles": [
-    "_posts/2023-11-30-Forking1.md",
     "_posts/2023-12-03-CSV_TO_JSON.md",
+    "_posts/2023-12-02-DataManager.md",
+    "_posts/2023-11-30-Forking1.md",
     "_posts/2023-11-24-Personal_Project.md",
     "_posts/2023-11-09-개인과제 프로젝트 1.md",
     "_posts/2023-11-06-CompareTo.md",
@@ -205,7 +205,6 @@
     "_posts/2023-09-20-PostProcessing.md",
     "_posts/2023-09-28-Level of Detail.md",
     "_posts/2023-10-08-Coroutine.md",
-    "_posts/2023-07-07-Save_Load.md",
     "Screenshot 2023-11-30 at 8.53.49 PM.jpg",
     "Screen Recording 2023-11-27 at 10.58.28 AM.mov",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
