@@ -50,6 +50,7 @@ public class DataParser : EditorWindow
 - csv 파일 양식이 맞는 Data Type의 변수들을 선언하여 클래스를 생성
 - Dictionary<`string`, `TObject`>를 Pair로 하는 ILoadData 인터페이스를 상속받는 전용 `EnemydataLoader` 클래스를 직렬화가능하도록 생성합니다.
 - 이제 해당 Loader를 Access하면 `EnemyData`타입의 리스트를 생성할 수 있습니다.
+
 ```csharp
 using System;  
 using System.Collections.Generic;  
