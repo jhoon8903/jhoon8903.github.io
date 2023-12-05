@@ -16,7 +16,7 @@ banner:
 Convert Refactoring
 --
 
-- CSV Data Paser 기능 중 서비스의 확장성 및 일반화를 위해 Generic <`T`>를 사용하여 범용적으로 사용 가능하도록 리팩토링을 수정합니다.
+- CSV Data Parser 기능 중 서비스의 확장성 및 일반화를 위해 Generic <`T`>를 사용하여 범용적으로 사용 가능하도록 리팩토링을 수정합니다.
 
 ### Before
 
