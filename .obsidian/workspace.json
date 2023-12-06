@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-05-CoroutineTrouble.md",
+                "file": "_posts/2023-12-06-Waypoint.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-05-CoroutineTrouble.md",
+                "file": "_posts/2023-12-06-Waypoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-05-CoroutineTrouble.md",
+                "file": "_posts/2023-12-06-Waypoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-05-CoroutineTrouble.md"
+                "file": "_posts/2023-12-06-Waypoint.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   },
   "active": "32513b3782209ed5",
   "lastOpenFiles": [
-    "_posts/2023-12-04-Parsing_Generic.md",
     "_posts/2023-12-05-CoroutineTrouble.md",
+    "_posts/2023-12-06-Waypoint.md",
+    "_posts/2023-12-04-Parsing_Generic.md",
     "_posts/2023-12-03-CSV_TO_JSON.md",
     "_posts/2023-12-02-DataManager.md",
     "_posts/2023-11-16-StringBuilder-Method.md",
@@ -205,7 +206,6 @@
     "_posts/NPCResponse.md",
     "_posts/2023-11-27-1-ConnectUsers.md",
     "_posts/2023-04-02-Unity 기초 와 LifeCycle.md",
-    "_posts/2023-03-19-Postgresql HA(이중화 및 고가용성) && auto Failover.md",
     "Screenshot 2023-11-30 at 8.53.49 PM.jpg",
     "Screen Recording 2023-11-27 at 10.58.28 AM.mov",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
