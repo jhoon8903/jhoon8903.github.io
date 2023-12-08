@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-07-Project3W.md",
+                "file": "_posts/2023-12-08-JIRA.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e2f55d6c34728c68",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-08 14.06.07.excalidraw.md"
               }
             }
           }
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-07-Project3W.md",
+                "file": "_posts/2023-12-08-JIRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-07-Project3W.md",
+                "file": "_posts/2023-12-08-JIRA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-07-Project3W.md"
+                "file": "_posts/2023-12-08-JIRA.md"
               }
             }
           },
@@ -180,8 +190,15 @@
   },
   "active": "32513b3782209ed5",
   "lastOpenFiles": [
-    "_posts/2023-12-06-Waypoint.md",
+    "_posts/2023-12-08.md",
+    "_posts/2023-12-08-JIRA.md",
+    "Excalidraw/Drawing 2023-12-08 14.06.07.excalidraw.md",
+    "assets/img/posts/Pasted Image 20231208140634_052.png",
+    "assets/img/posts",
+    "assets/img",
+    "Excalidraw",
     "_posts/2023-12-07-Project3W.md",
+    "_posts/2023-12-06-Waypoint.md",
     "_posts/2023-12-05-CoroutineTrouble.md",
     "_posts/2023-12-04-Parsing_Generic.md",
     "_posts/2023-12-03-CSV_TO_JSON.md",
@@ -203,9 +220,6 @@
     "_posts/2023-05-13-브로드캐스트.md",
     "_posts/2023-03-20-스택 그리고 큐.md",
     "_posts/2023-02-07-8. Docker Redis.md",
-    "_posts/2023-02-06-7.  Docker Commands.md",
-    "_posts/NPCResponse.md",
-    "_posts/2023-11-27-1-ConnectUsers.md",
     "Screenshot 2023-11-30 at 8.53.49 PM.jpg",
     "Screen Recording 2023-11-27 at 10.58.28 AM.mov",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
@@ -215,16 +229,12 @@
     "_site/ㅖ/2023/11",
     "_site/ㅖ/2023",
     "_site/ㅖ",
-    "_site/2023/11/14/Database-구축.html",
-    "_site/2023/11/14",
-    "_site/2023/11",
     "assets/images/posts/kRmfd56.png",
     "assets/images/posts/postglogo.png",
     "_site/Screenshot 2023-11-09 at 11.37.46 PM.jpg",
     "assets/images/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.07.25 AM.mov.gif",
     "assets/images/posts/Screen Recording 2023-09-11 at 3.22.27 AM.gif",
-    "assets/images/posts/Screen Recording 2023-09-11 at 4.20.55 AM.mov.gif",
-    "assets/images/posts/Screen Recording 2023-10-11 at 9.50.02 PM.mov.gif"
+    "assets/images/posts/Screen Recording 2023-09-11 at 4.20.55 AM.mov.gif"
   ]
 }
