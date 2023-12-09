@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-08-JIRA.md",
+                "file": "_posts/2023-12-09-CleanCode.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-08-JIRA.md",
+                "file": "_posts/2023-12-09-CleanCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-08-JIRA.md",
+                "file": "_posts/2023-12-09-CleanCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-08-JIRA.md"
+                "file": "_posts/2023-12-09-CleanCode.md"
               }
             }
           },
@@ -180,8 +180,8 @@
   },
   "active": "32513b3782209ed5",
   "lastOpenFiles": [
-    "_posts/2023-12-08.md",
     "_posts/2023-12-08-JIRA.md",
+    "_posts/2023-12-09-CleanCode.md",
     "Excalidraw/Drawing 2023-12-08 14.06.07.excalidraw.md",
     "assets/img/posts/Pasted Image 20231208140634_052.png",
     "assets/img/posts",
