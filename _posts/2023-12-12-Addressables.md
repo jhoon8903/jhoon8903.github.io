@@ -114,8 +114,8 @@ public void LoadAllAsync<T>(string label, Action<string, int, int> cb)  where T 
 
 #### Callback Action
 
-- Addressable.Load.... 메서드의 경우 비동기적으로 움직이기 때문에 리소스가 로드되고 있는 와중에도 다른 프롤세스를 처리할 수 있습니다.
-- 그렇게 때문에 해당 로드가 완료된 이벤트를 실행시켜야 정상적으로 다음 코드를 실행할 수 있습니다.
+- Addressable.Load.... 메서드의 경우 비동기적으로 움직이기 때문에 리소스가 로드되고 있는 와중에도 다른 프로세스를 처리할 수 있습니다.
+- 그렇게 때문에 해당 로드가 언제 완료되는지 모르기 떄문에 이벤트를 호출하여 다음 코드를 실행합니다.
 - 비동기 로드가 끝나고 호출되는 이벤트는 `.Complete`가 호출 됩니다.
 - 해당 이벤트가 호출 되면 Callback을 실행할 수 있도록 코드를 작성합니다.
 - 해당 코드에서는 PrimeKey, 로드된 리소스의 개수, 총 로드를 해야하는 리소스 개수를 Invoke 합니다.
@@ -196,8 +196,10 @@ public void LoadAllAsync<T>(string label, Action<string, int, int> cb)  where T 
 	Loaded = true;  
 }
 ```
+
 마치며
 --
+
 어드레서블의 경우 처음에는 익숙하지 않아서 시간이 좀 걸리지만, 이해하고 나면 정말 편한 기능을 제공합니다.
 
 다만 위에서 알아본 기능은 정말 많은 기능 중 하나에 불과하므로 기회가 된다면 다른 기능도 이용해 보았으면 합니다.
