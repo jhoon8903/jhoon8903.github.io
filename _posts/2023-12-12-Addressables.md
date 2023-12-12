@@ -142,6 +142,59 @@ MainManager.ResourceManager.LoadAllAsync<Object>("PreLoad", (key, count, totalCo
 - 해당  Callback을 이용하면 Loading Bar등을 구현할 수 있습니다.
 - Slider의 value = count, MaxValue = totalCount를 할당하면 리소스가 로드 될때마다 슬라이더가 채워집니다.
 
+
+아래는 Addressables 기능의 전체 코드 입니다.
+
+```csharp
+private void HandleCallback<T>(string key, AsyncOperationHandle<T> handle, Action<T> cb) where T : Object  
+{  
+    handle.Completed += operationHandle =>  
+    {  
+        _resources.Add(key, operationHandle.Result);  
+        cb?.Invoke(operationHandle.Result);  
+    };
+}  
+  
+public void LoadAsync<T>(string key, Action<T> cb = null) where T : Object  
+{  
+    string loadKey = key;  
+    if (_resources.TryGetValue(key, out Object resource))  
+    {        
+	    cb?.Invoke(resource as T);  
+        return;  
+    }    
+    if (key.Contains(".sprite"))  
+    {  
+		loadKey = $"{key}[{key.Replace(".sprite", "")}]";  
+        AsyncOperationHandle<Sprite> handle = Addressables.LoadAssetAsync<Sprite>(loadKey);  
+        HandleCallback(key, handle, cb as Action<Sprite>);  
+    }    
+    else  
+    {  
+        AsyncOperationHandle<T> handle = Addressables.LoadAssetAsync<T>(loadKey);  
+        HandleCallback(key, handle, cb);  
+    }
+}  
+  
+public void LoadAllAsync<T>(string label, Action<string, int, int> cb)  where T : Object  
+{  
+    var operation = Addressables.LoadResourceLocationsAsync(label, typeof(T));  
+    operation.Completed += op =>  
+    {  
+        int loadCount = 0;  
+        int totalCount = op.Result.Count;  
+        foreach (var result in op.Result)  
+        {            
+	        LoadAsync<T>(result.PrimaryKey, obj =>  
+            {  
+                loadCount++;                
+                cb?.Invoke(result.PrimaryKey, loadCount, totalCount);  
+            });        
+		}    
+	};    
+	Loaded = true;  
+}
+```
 마치며
 --
 어드레서블의 경우 처음에는 익숙하지 않아서 시간이 좀 걸리지만, 이해하고 나면 정말 편한 기능을 제공합니다.
