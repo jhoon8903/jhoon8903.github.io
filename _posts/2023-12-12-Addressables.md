@@ -135,6 +135,7 @@ MainManager.ResourceManager.LoadAllAsync<Object>("PreLoad", (key, count, totalCo
 });
 ```
 
+- `PreLoad`라는 라벨을 가진 `Object` 형태의 리소스를 모두 로드 합니다.
 - Debug.Log 결괏값은 아래와 같습니다.
 
 ![](https://i.imgur.com/rRz5eem.jpg)
