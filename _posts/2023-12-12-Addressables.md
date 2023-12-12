@@ -48,8 +48,6 @@ Addressables
 - **Path** : `주황색` 박스안의 내용이며, 해당 리소스의 경로(Path)값을 나타냅니다.
 - **Label** : `파란색` 박스안의 있는 것은 `Label`로 임의의 라벨을 생성할 수 있으며, 추가하거나 삭제 할  수 있습니다. 언제 Load할 것인지 구분할 때 사용할 수 있습니다.
 
->❗️ 주의 할 점은 Path에 최종적인 `File Name`과 `PrimeKey` 의 이름이 같아야 합니다. 이름이 다르면 리소스를 찾을 수 없다는 Error Log를 만나게 됩니다. (PrimeKey는 별칭(as)이 아닙니다.)
-
 Code
 --
 ### LoadAsync
