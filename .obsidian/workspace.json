@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "89618f29bcdcccd7",
+        "id": "d1662f57ec7152f2",
         "type": "tabs",
         "children": [
           {
-            "id": "dfd505e64f726d23",
+            "id": "2ad2c07862371e2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-12-Addressables.md",
+                "file": "_posts/2023-12-13-Addressable2.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Unity",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,13 +85,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 280.5024719238281,
-    "collapsed": true
+    "width": 280.5024719238281
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-12-Addressables.md",
+                "file": "_posts/2023-12-13-Addressable2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-12-Addressables.md",
+                "file": "_posts/2023-12-13-Addressable2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-12-Addressables.md"
+                "file": "_posts/2023-12-13-Addressable2.md"
               }
             }
           },
@@ -179,9 +177,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfd505e64f726d23",
+  "active": "2ad2c07862371e2a",
   "lastOpenFiles": [
+    "_posts/2023-04-13-Unity_Time.deltaTime.md",
+    "_posts/2023-12-14.md",
     "_posts/2023-12-12-Addressables.md",
+    "_posts/2023-11-02-MiniGameStartScene.md",
+    "_posts/2023-12-13-Addressable2.md",
     "_posts/2023-12-11-Algorithm.md",
     "assets/img/posts/Screen Recording 2023-12-11 at 1.43.06 PM.mov",
     "_posts/2023-12-10-event상속문제.md",
@@ -216,10 +218,6 @@
     "_posts/2023-12-02-DataManager.md",
     "_posts/2023-11-16-StringBuilder-Method.md",
     "_posts/2023-11-22-Loop Audio.md",
-    "_posts/2023-04-21-Game기획3.md",
-    "_posts/2023-04-14-Game 기획.md",
-    "_posts/2023-11-14-GameServer.md",
-    "_posts/2023-11-08-GitPage Build Trouble.md",
     "Screenshot 2023-11-30 at 8.53.49 PM.jpg",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
     "assets/images/posts/kRmfd56.png",
