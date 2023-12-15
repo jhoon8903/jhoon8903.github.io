@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-14.md",
+                "file": "_posts/2023-12-15-TeamProject.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5024719238281
+    "width": 280.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-14.md",
+                "file": "_posts/2023-12-15-TeamProject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-14.md",
+                "file": "_posts/2023-12-15-TeamProject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-14.md"
+                "file": "_posts/2023-12-15-TeamProject.md"
               }
             }
           },
@@ -179,6 +180,7 @@
   },
   "active": "2ad2c07862371e2a",
   "lastOpenFiles": [
+    "_posts/2023-12-15-TeamProject.md",
     "_posts/2023-12-13-Addressable2.md",
     "_posts/2023-12-14.md",
     "_posts/무제 파일.md",
@@ -217,7 +219,6 @@
     "_posts/2023-12-05-CoroutineTrouble.md",
     "_posts/2023-12-04-Parsing_Generic.md",
     "_posts/2023-12-03-CSV_TO_JSON.md",
-    "_posts/2023-12-02-DataManager.md",
     "Screenshot 2023-11-30 at 8.53.49 PM.jpg",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
     "assets/images/posts/kRmfd56.png",
