@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-18-ProjectProblem.md",
+                "file": "_posts/2023-12-19-Loading_Scene.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-18-ProjectProblem.md",
+                "file": "_posts/2023-12-19-Loading_Scene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-18-ProjectProblem.md",
+                "file": "_posts/2023-12-19-Loading_Scene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-18-ProjectProblem.md"
+                "file": "_posts/2023-12-19-Loading_Scene.md"
               }
             }
           },
@@ -179,6 +179,8 @@
   },
   "active": "febddab72e19b8b5",
   "lastOpenFiles": [
+    "_posts/2023-12-20-Merge_Error.md",
+    "_posts/2023-12-19-Loading_Scene.md",
     "_posts/2023-12-18-ProjectProblem.md",
     "_posts/2023-12-17-IPointerEventHandler.md",
     "_posts/2023-12-16-UIManager.md",
@@ -216,8 +218,6 @@
     "_posts/2023-12-08-JIRA.md",
     "Excalidraw/Drawing 2023-12-08 14.06.07.excalidraw.md",
     "assets/img/posts/Pasted Image 20231208140634_052.png",
-    "_posts/2023-12-07-Project3W.md",
-    "_posts/2023-12-06-Waypoint.md",
     "Screenshot 2023-11-30 at 8.53.49 PM.jpg",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
     "assets/images/posts/kRmfd56.png",
