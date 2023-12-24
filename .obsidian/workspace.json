@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-23-UnityError.md",
+                "file": "_posts/2023-12-24-ServiceLocator2.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-23-UnityError.md",
+                "file": "_posts/2023-12-24-ServiceLocator2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-23-UnityError.md",
+                "file": "_posts/2023-12-24-ServiceLocator2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-23-UnityError.md"
+                "file": "_posts/2023-12-24-ServiceLocator2.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   "active": "febddab72e19b8b5",
   "lastOpenFiles": [
     "_posts/2023-12-22-Git LFS.md",
+    "_posts/2023-12-24-ServiceLocator2.md",
     "_posts/2023-12-23-UnityError.md",
     "_posts/2023-12-21-TeamProject.md",
     "_posts/2023-12-19-Loading_Scene.md",
@@ -216,7 +217,6 @@
     "_posts/quick-mardown-example.md",
     "_posts/test-markdown.md",
     "_posts/Template.md",
-    "_posts/table-example.md",
     "assets/img/posts/Pasted Image 20231208140634_052.png",
     "Screenshot 2023-11-30 at 8.53.49 PM.jpg",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
