@@ -8,7 +8,7 @@ tags:
  - Unity
  - Programming
 banner:
-  image: https://files.oaiusercontent.com/file-OPue8sjX4EppQzUEDe9auk8B?se=2023-12-27T06%3A49%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db7f2a71d-c77c-4bef-91f0-54146874e405.webp&sig=GUOo6mT%2BN%2BTJe7810LxJLzkSQTq6uo7B7xX8GnIokgk%3D
+  image: https://i.imgur.com/41pKEtw.jpg
 ---
 ![](https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F573d499f-80ac-4e49-a243-d5079503ca40%2F3.png?table=block&id=d5e15def-1ac2-420f-9c62-49b36a9a637e&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=2000&userId=&cache=v2)
 
@@ -197,8 +197,8 @@ private static T FindComponent<T>(GameObject parentObject, string name, bool rec
     if (parentObject == null) return null;  
   
     return recursive
-	    ? FindComponentRecursive<T>(parentObject, name)  
-        : FindComponentNonRecursive<T>(parentObject, name);  
+	    ? FindComponentRecursive<T>(parentObject, name)
+	    : FindComponentNonRecursive<T>(parentObject, name);  
 }  
   
 private static T FindComponentNonRecursive<T>(GameObject parentObject, string name) where T : Object  
@@ -248,9 +248,9 @@ private void AssignmentComponent<T>(GameObject parentObject, Dictionary<string, 
     foreach (var key in objects.Keys.ToList())  
     {        
 	    if (objects[key] != null) continue;  
-        Object component = typeof(T) == typeof(GameObject)   
-? FindComponentDirectChild<GameObject>(parentObject, key)   
-: FindComponentDirectChild<T>(parentObject, key);  
+        Object component = typeof(T) == typeof(GameObject)
+        ? FindComponentDirectChild<GameObject>(parentObject, key)
+        : FindComponentDirectChild<T>(parentObject, key);  
   
         if (component != null) objects[key] = component;  
         else Debug.Log($"Binding failed for Object : {key}");  
@@ -295,9 +295,9 @@ namespace UI
         {  
             foreach (var key in objects.Keys.ToList())  
             {                if (objects[key] != null) continue;  
-                Object component = typeof(T) == typeof(GameObject)   
-? FindComponentDirectChild<GameObject>(parentObject, key)   
-: FindComponentDirectChild<T>(parentObject, key);  
+                Object component = typeof(T) == typeof(GameObject)
+                ? FindComponentDirectChild<GameObject>(parentObject, key)
+                : FindComponentDirectChild<T>(parentObject, key);  
   
                 if (component != null) objects[key] = component;  
                 else Debug.Log($"Binding failed for Object : {key}");  
@@ -306,9 +306,9 @@ namespace UI
         
         private T FindComponentDirectChild<T>(GameObject parentObject, string name) where T : Object  
         {  
-            return (from Transform child in parentObject.transform   
-where child.name == name   
-select child.GetComponent<T>()).FirstOrDefault();  
+            return (from Transform child in parentObject.transform
+            where child.name == name
+            select child.GetComponent<T>()).FirstOrDefault();  
         }  
         
         public T Getter<T>(string componentName) where T : Object  
