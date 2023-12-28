@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-28 - WindowResolution.md",
+                "file": "_posts/2023-12-28-WindowResolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-28 - WindowResolution.md",
+                "file": "_posts/2023-12-28-WindowResolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-28 - WindowResolution.md",
+                "file": "_posts/2023-12-28-WindowResolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-28 - WindowResolution.md"
+                "file": "_posts/2023-12-28-WindowResolution.md"
               }
             }
           },
@@ -181,9 +181,12 @@
   },
   "active": "1b2f2e7ae8959556",
   "lastOpenFiles": [
+    "assets/images/stock.png",
+    "assets/img/posts/Screen Recording 2023-12-11 at 1.43.06 PM.mov",
+    "assets/img/posts/Pasted Image 20231208140634_052.png",
     "assets/img/posts/Screen Recording 2023-12-28 at 12.06.05 PM.mov.gif",
+    "_posts/2023-12-28-WindowResolution.md",
     "_posts/2023-12-27-UIManagerRefactoring.md",
-    "_posts/2023-12-28 - WindowResolution.md",
     "_posts/2023-12-24-ServiceLocator2.md",
     "_posts/2023-12-23-UnityError.md",
     "_posts/2023-12-25-Joint.md",
@@ -204,7 +207,6 @@
     "_posts/2023-12-12-Addressables.md",
     "_posts/2023-11-02-MiniGameStartScene.md",
     "_posts/2023-12-11-Algorithm.md",
-    "assets/img/posts/Screen Recording 2023-12-11 at 1.43.06 PM.mov",
     "_posts/2023-12-10-event상속문제.md",
     "_site/2023/12/10/event상속문제.html",
     "_site/2023/12/10",
@@ -219,13 +221,11 @@
     "_site/Screenshot 2023-11-30 at 8.53.49 PM.jpg",
     "_posts/another-test-markdown.md",
     "_posts/2023-11-09-개인과제 프로젝트 1.md",
-    "assets/img/posts/Pasted Image 20231208140634_052.png",
     "Screenshot 2023-11-30 at 8.53.49 PM.jpg",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
     "assets/images/posts/kRmfd56.png",
     "assets/images/posts/postglogo.png",
     "_site/Screenshot 2023-11-09 at 11.37.46 PM.jpg",
-    "assets/images/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif",
-    "assets/images/posts/Screen Recording 2023-09-11 at 3.07.25 AM.mov.gif"
+    "assets/images/posts/Screen Recording 2023-09-11 at 1.44.52 AM.mov.gif"
   ]
 }
