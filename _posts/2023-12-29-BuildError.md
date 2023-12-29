@@ -8,7 +8,7 @@ tags:
  - Unity
  - Programming
 banner:
-  image:
+  image: https://i.imgur.com/pXSQS79.gif
 ---
 ![](https://teamsparta.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F573d499f-80ac-4e49-a243-d5079503ca40%2F3.png?table=block&id=d5e15def-1ac2-420f-9c62-49b36a9a637e&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=2000&userId=&cache=v2)
 
@@ -175,7 +175,142 @@ private void LoadResource<T>(string key, Action<T> callback = null) where T : Ob
 
 ![](https://i.imgur.com/Vq2AUHe.jpg)
 
-## 마치며
+### 기존 작성 스크립트 재사용
 
-- 아직까지 해결 하지 못하였고 원인 파악이 제대로 되지 않고 있습니다.
-- 원인 규명과 해결 방법을 들고 다시 작성하도록 하겠습니다.
+- 코드를 리팩토링 하기 전 정상 작동 하였던 지난 프로젝트 코드를 가져와 실행
+	=> 동일증상 발생
+	=> Resource Manager 스크립트 문제가 아닌 것으로 판단
+
+### Addressable Build Setting 변경
+
+- Addressable Asset의 빌드 타입을 변경
+
+![](https://i.imgur.com/GrKOqBQ.jpg)
+
+#### Use Asset Database (fastest)
+
+- **목적** 
+	- 가장 빠른 기본 옵션입니다. 
+	- 일반적인 개발 및 반복에 이상적입니다.
+
+- **동작** 
+	- 에셋 데이터베이스에서 직접 로드됩니다. 
+	- 이는 Addressable Asset System의 일반적인 로딩 프로세스(asset packing and catalog loading)를 우회합니다.
+
+- **장점** 
+	- 에셋 번들 시뮬레이션에 따른 오버헤드를 방지하므로 Unity 에디터에서 테스트하는 동안 로드 시간이 크게 단축됩니다.
+
+- **사용 사례**
+	- 에셋 번들 다운로드를 테스트하거나 에셋 번들 동작을 시뮬레이션할 필요가 없을 때 신속한 반복 및 테스트를 위해 이 모드를 사용합니다.
+
+#### Simulate Groups (advanced)
+
+- **목적**
+	- 이 옵션은 고급 옵션이며 실제로 에셋 번들을 생성하지 않고 번들 로딩을 시뮬레이션합니다.
+
+- **동작**
+	- 에셋은 여전히 ​​에셋 데이터베이스에서 로드되지만 Unity는 마치 에셋 번들에서 로드된 것처럼 프로세스를 시뮬레이션합니다. 
+	- 여기에는 카탈로그 및 자산 번들 로딩 시뮬레이션이 포함됩니다.
+
+- **장점**
+	- 실제 번들을 생성하는 오버헤드 없이 종속성 및 메모리 사용량을 포함하여 번들에서 에셋이 로드되는 방법을 테스트할 수 있습니다.
+
+- **사용 사례**
+	- 번들 구성, 종속성 및 메모리 사용량을 보다 현실적인 방식으로 테스트하는 동시에 시간이 많이 소요되는 번들 구축 프로세스를 방지하는 데 이상적입니다.
+
+#### Use Existing Build (OSX)
+- **목적**
+	- 이 옵션을 사용하면 이전에 구축한 실제 에셋 번들로 테스트할 수 있습니다.
+
+- **동작**
+	- 에셋 데이터베이스가 아닌 이전에 구축된 에셋 번들에서 로드됩니다. 
+	- 이를 위해서는 에셋 번들이 이미 구축되어 있어야 합니다.
+
+- **장점**
+	- 실제 에셋 번들을 사용하므로 런타임 동작에 대한 가장 정확한 시뮬레이션을 제공합니다.
+
+- **사용 사례**
+	- 이 모드를 사용하여 다운로드 시간, 번들 로딩 성능, 에셋 번들의 실제 런타임 동작을 포함한 최종 빌드 구성을 테스트합니다.
+
+=> 결과적으로 어플리케이션을 실제 빌드 상태에서 어드레서블을 적용하려면 `3번째 옵션인 "Use Existing Build"`로 세팅을 바꾸고 진행 해야 합니다.
+
+### Use Existing Build (OSX) 적용
+
+![](https://i.imgur.com/JbYdKv4.jpg)
+
+- 에디터 상에서도 빌드 상태와 동인할 상태가 되었고 이제 부터 다시 디버깅을 합니다.
+
+### 리소스 로드 및 씬 로드 스크립트
+
+```csharp
+protected override void Initialize()  
+{  
+    base.Initialize();  
+    CurrentScene = Label.IntroScene;  
+    InstantiatePlayer();  
+    InstantiateIntroUI();  
+    LoadResource();  
+    LoadAsyncOperation();  
+    BackGround.InstantiateBackGround(Background, Scenes.BaseObjects.transform);  
+}
+
+private void LoadResource()  
+{   
+Resource.AllLoadResource<Object>($"{LabelString}", (key, count, totalCount) =>  
+    {  
+        Debug.Log($"[{LabelString}] Load asset {key} ({count}/{totalCount})");  
+        _introUI.UpdateToProgress(count, totalCount, key);  
+        if (count < totalCount) return;  
+        Resource.GameSceneLoad = true;  
+    });
+}  
+  
+private void LoadAsyncOperation()  
+{  
+    AsyncOperation operation = LoadAsync(LabelString);  
+    StartCoroutine(GameSceneLoad(operation));  
+}  
+  
+private AsyncOperation LoadAsync(string scene)  
+{   
+	AsyncOperation operation = SceneManager.LoadSceneAsync(scene);  
+    operation.allowSceneActivation = false;  
+    return operation;  
+}  
+  
+private IEnumerator GameSceneLoad(AsyncOperation operation)  
+{   
+	while (!Resource.GameSceneLoad && operation.progress < 0.9f) yield return null;  
+    while (!Input.GetMouseButtonDown(0)) yield return null;  
+    operation.allowSceneActivation = true;  
+}
+```
+
+- Intro Scene에서 초기화 및 데이터 로드 그리고 비동기 씬 로드를 하는 코드입니다.
+- 의도한 동작은 데이터는 비동기 적으로 로드가 되고, 씬도 비동기 적으로 로드가 되는데 
+- `LoadSceneAsync` 에서 씬이 로드 되는동안 리소스가 같이 로드 되서 Progress 를 만족할 때 대기 하였다가 다음 씬으로 진입을 하는 것으로 예상 
+- 하지만 실제로는 정확히 원인파악은 되지 않지만, 씬이 먼저 준비가 되어버린 상황에서 해당 리소스 로직이 중단 되어버리는 문제가 발생하여, 프로세스가 다음 씬으로 넘어가는 문제로 판단
+- 리소스 로드 완료 콜백에 씬 로드 함수를 포함하여 리소스 로드 완료 후 씬을 준비 할 수 있도록 하였습니다.
+
+```csharp
+private void LoadResource()  
+{   
+	Resource.AllLoadResource<Object>($"{LabelString}", (key, count, totalCount) =>  
+    {  
+        Debug.Log($"[{LabelString}] Load asset {key} ({count}/{totalCount})");  
+        _introUI.UpdateToProgress(count, totalCount, key);  
+        if (count < totalCount) return;  
+        Resource.GameSceneLoad = true;  
+        LoadAsyncOperation();  
+    });
+}
+```
+
+
+마치며
+--
+
+해당 문제를 해결하는 약 15시간이 걸렸습니다.
+특히 아무런 문제가 없는 코드에서 문제를 찾으려 하고 어드레서블의 사용 방법에 문제가 있다는 것을 알지 못하여 발생한 문제였습니다.
+
+그리고 비동기 방식에 대한 이해도가 낮은것 같아 해당 컨텍스트의 원인을 찾지 못하는 것이 아쉽습니다.
