@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-29-BuildError.md",
+                "file": "_posts/2023-12-30-DesignPattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-29-BuildError.md",
+                "file": "_posts/2023-12-30-DesignPattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-29-BuildError.md",
+                "file": "_posts/2023-12-30-DesignPattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-29-BuildError.md"
+                "file": "_posts/2023-12-30-DesignPattern.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "1b2f2e7ae8959556",
   "lastOpenFiles": [
-    "_posts/2023-12-28-WindowResolution.md",
     "_posts/2023-12-29-BuildError.md",
+    "_posts/2023-12-30-DesignPattern.md",
+    "_posts/2023-12-28-WindowResolution.md",
     "assets/images/stock.png",
     "assets/img/posts/Screen Recording 2023-12-11 at 1.43.06 PM.mov",
     "assets/img/posts/Pasted Image 20231208140634_052.png",
@@ -222,7 +223,6 @@
     "_site/assets/img/posts/Pasted Image 20231208140634_052.png",
     "_site/Screenshot 2023-11-30 at 8.53.49 PM.jpg",
     "_posts/another-test-markdown.md",
-    "_posts/2023-11-09-개인과제 프로젝트 1.md",
     "Screenshot 2023-11-30 at 8.53.49 PM.jpg",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
     "assets/images/posts/kRmfd56.png",
