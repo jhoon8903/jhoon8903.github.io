@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 디자인패턴 (싱글턴, 팩토리, 전략패턴)
+title: 디자인패턴 (싱글턴, 팩토리, 전략)
 subtitle: CS - Design Pattern
 author: Daniel
 categories: CS

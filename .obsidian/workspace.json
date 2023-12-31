@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-30-DesignPattern.md",
+                "file": "_posts/2023-12-31-DesignPattern2.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5024719238281,
-    "collapsed": true
+    "width": 280.5024719238281
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-30-DesignPattern.md",
+                "file": "_posts/2023-12-31-DesignPattern2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-30-DesignPattern.md",
+                "file": "_posts/2023-12-31-DesignPattern2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-30-DesignPattern.md"
+                "file": "_posts/2023-12-31-DesignPattern2.md"
               }
             }
           },
@@ -182,8 +181,11 @@
   },
   "active": "1b2f2e7ae8959556",
   "lastOpenFiles": [
-    "_posts/2023-12-29-BuildError.md",
     "_posts/2023-12-30-DesignPattern.md",
+    "_posts/2023-12-31-DesignPattern2.md",
+    "Excalidraw/Drawing 2023-12-08 14.06.07.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-01 04.19.09.excalidraw.md",
+    "_posts/2023-12-29-BuildError.md",
     "_posts/2023-12-28-WindowResolution.md",
     "assets/images/stock.png",
     "assets/img/posts/Screen Recording 2023-12-11 at 1.43.06 PM.mov",
@@ -209,8 +211,6 @@
     "_posts/2023-12-14.md",
     "_posts/2023-12-12-Addressables.md",
     "_posts/2023-11-02-MiniGameStartScene.md",
-    "_posts/2023-12-11-Algorithm.md",
-    "_posts/2023-12-10-event상속문제.md",
     "_site/2023/12/10/event상속문제.html",
     "_site/2023/12/10",
     "_site/2023/12",
@@ -222,7 +222,6 @@
     "_site/workflow/2023/12/08",
     "_site/assets/img/posts/Pasted Image 20231208140634_052.png",
     "_site/Screenshot 2023-11-30 at 8.53.49 PM.jpg",
-    "_posts/another-test-markdown.md",
     "Screenshot 2023-11-30 at 8.53.49 PM.jpg",
     "Screenshot 2023-11-09 at 11.37.46 PM.jpg",
     "assets/images/posts/kRmfd56.png",
