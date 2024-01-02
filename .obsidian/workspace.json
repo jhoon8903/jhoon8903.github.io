@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-01-01-DesignPattern3.md",
+                "file": "_posts/2024-01-02-1-OS.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-01-01-DesignPattern3.md",
+                "file": "_posts/2024-01-02-1-OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-01-01-DesignPattern3.md",
+                "file": "_posts/2024-01-02-1-OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-01-01-DesignPattern3.md"
+                "file": "_posts/2024-01-02-1-OS.md"
               }
             }
           },
@@ -181,8 +181,10 @@
   },
   "active": "1b2f2e7ae8959556",
   "lastOpenFiles": [
-    "_posts/2023-12-31-DesignPattern2.md",
+    "_posts/2024-01-02.md",
+    "_posts/2024-01-02-1-OS.md",
     "_posts/2024-01-01-DesignPattern3.md",
+    "_posts/2023-12-31-DesignPattern2.md",
     "_posts/2023-12-22-Git LFS.md",
     "_posts/2023-12-30-DesignPattern.md",
     "Excalidraw/Drawing 2023-12-08 14.06.07.excalidraw.md",
@@ -209,8 +211,6 @@
     "_posts/2023-12-14.md",
     "_posts/무제 파일.md",
     "_posts/2023-04-13-Unity_Time.deltaTime.md",
-    "_posts/2023-12-14.md",
-    "_posts/2023-12-12-Addressables.md",
     "_site/2023/12/10/event상속문제.html",
     "_site/2023/12/10",
     "_site/2023/12",
