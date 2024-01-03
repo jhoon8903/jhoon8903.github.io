@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-01-02-2-CPU.md",
+                "file": "_posts/2024-01-03-minimap.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5024719238281
+    "width": 280.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "c7fcf9f98b97f11d",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-01-02-2-CPU.md",
+                "file": "_posts/2024-01-03-minimap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-01-02-2-CPU.md",
+                "file": "_posts/2024-01-03-minimap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-01-02-2-CPU.md"
+                "file": "_posts/2024-01-03-minimap.md"
               }
             }
           },
@@ -181,8 +182,10 @@
   },
   "active": "1b2f2e7ae8959556",
   "lastOpenFiles": [
-    "_posts/2024-01-02-1-OS.md",
+    "_posts/2024-01-02-기획.md",
+    "_posts/2024-01-03-minimap.md",
     "_posts/2024-01-02-2-CPU.md",
+    "_posts/2024-01-02-1-OS.md",
     "_posts/2024-01-01-DesignPattern3.md",
     "_posts/2023-12-31-DesignPattern2.md",
     "_posts/2023-12-22-Git LFS.md",
@@ -209,8 +212,6 @@
     "_posts/2023-12-15-TeamProject.md",
     "_posts/2023-12-13-Addressable2.md",
     "_posts/2023-12-14.md",
-    "_posts/무제 파일.md",
-    "_posts/2023-04-13-Unity_Time.deltaTime.md",
     "_site/2023/12/10/event상속문제.html",
     "_site/2023/12/10",
     "_site/2023/12",
