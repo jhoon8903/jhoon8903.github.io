@@ -1,12 +1,10 @@
 ---
 layout: post
-title: 
-subtitle: 
+title: Jenkins CI
+subtitle: Unity Project Build
 author: Daniel
 categories: 
 tags: 
-banner:
-  image:
 ---
 
 ## 1. Jenkins Job 구성
