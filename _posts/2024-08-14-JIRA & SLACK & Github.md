@@ -5,8 +5,7 @@ subtitle: Orgazination Company
 author: Daniel
 categories: Third Party
 tags: 
-banner:
-  image:
+ - Working
 ---
 
 # 1. 프로젝트 생성

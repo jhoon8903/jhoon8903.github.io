@@ -3,8 +3,9 @@ layout: post
 title: Jenkins CI
 subtitle: Unity Project Build
 author: Daniel
-categories: 
+categories: Third Party
 tags: 
+ - Working
 ---
 
 ## 1. Jenkins Job 구성
